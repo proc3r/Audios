@@ -1,0 +1,2532 @@
+1
+00:00:00,000 --> 00:00:00,440
+¿Sabes?
+
+2
+00:00:00,540 --> 00:00:02,640
+Hay una pregunta que creo que
+
+3
+00:00:02,640 --> 00:00:03,800
+nos persigue a todos, ¿no?
+
+4
+00:00:04,000 --> 00:00:04,800
+Desde siempre.
+
+5
+00:00:05,020 --> 00:00:06,780
+Sí, sí, la gran pregunta.
+
+6
+00:00:07,240 --> 00:00:09,120
+La de si hay una sola
+
+7
+00:00:09,120 --> 00:00:11,620
+idea, una, una regla que lo
+
+8
+00:00:11,620 --> 00:00:13,920
+explique todo, una teoría del todo.
+
+9
+00:00:14,880 --> 00:00:16,760
+Desde los antiguos filósofos griegos
+
+10
+00:00:16,760 --> 00:00:18,840
+hasta, bueno, hasta los físicos de
+
+11
+00:00:18,840 --> 00:00:20,840
+hoy en el CERN, esa búsqueda
+
+12
+00:00:20,840 --> 00:00:22,220
+es una constante.
+
+13
+00:00:22,920 --> 00:00:25,740
+Hoy vamos a explorar una
+
+14
+00:00:25,740 --> 00:00:27,420
+respuesta, pero desde un ángulo
+
+15
+00:00:27,420 --> 00:00:28,660
+bastante inesperado.
+
+16
+00:00:29,400 --> 00:00:31,060
+Tenemos sobre la mesa unos textos
+
+17
+00:00:31,060 --> 00:00:32,940
+que proponen un marco, un marco
+
+18
+00:00:32,940 --> 00:00:34,780
+para entender la realidad, que se
+
+19
+00:00:34,780 --> 00:00:37,600
+llama el principio 3 plus 1x.
+
+20
+00:00:38,200 --> 00:00:39,980
+Y quiero aclarar algo desde ya.
+
+21
+00:00:41,140 --> 00:00:42,620
+Esto no es una nueva teoría
+
+22
+00:00:42,620 --> 00:00:45,180
+física, no hay ecuaciones nuevas ni
+
+23
+00:00:45,180 --> 00:00:46,000
+experimentos.
+
+24
+00:00:46,560 --> 00:00:48,480
+La fuente lo describe como algo
+
+25
+00:00:48,480 --> 00:00:51,360
+más fundamental, casi como
+
+26
+00:00:51,360 --> 00:00:53,820
+una metafórmula, como una gramática,
+
+27
+00:00:54,100 --> 00:00:55,500
+sin que se venga abajo por
+
+28
+00:00:55,500 --> 00:00:56,360
+contradicciones.
+
+29
+00:00:56,940 --> 00:00:58,440
+De hecho, el autor llega a
+
+30
+00:00:58,440 --> 00:01:00,320
+decir que es una idea más
+
+31
+00:01:00,320 --> 00:01:03,160
+fundamental que la propia E
+
+32
+00:01:03,160 --> 00:01:04,660
+igual a mc al cuadrado.
+
+33
+00:01:05,200 --> 00:01:05,760
+Exacto.
+
+34
+00:01:06,060 --> 00:01:07,740
+Y esa es nuestra misión hoy,
+
+35
+00:01:07,860 --> 00:01:07,980
+¿no?
+
+36
+00:01:08,420 --> 00:01:10,760
+Vamos a desglosar este principio a
+
+37
+00:01:10,760 --> 00:01:12,980
+tratar de entender su lógica
+
+38
+00:01:12,980 --> 00:01:13,840
+interna.
+
+39
+00:01:13,920 --> 00:01:15,340
+El desafío que nos plantea la
+
+40
+00:01:15,340 --> 00:01:17,180
+fuente es ver si esta especie
+
+41
+00:01:17,180 --> 00:01:19,560
+de nuevo idioma puede de verdad
+
+42
+00:01:19,560 --> 00:01:22,020
+resolver algunas paradojas, paradojas
+
+43
+00:01:22,020 --> 00:01:24,160
+viejísimas que tenemos en la filosofía,
+
+44
+00:01:24,500 --> 00:01:25,080
+en la física.
+
+45
+00:01:25,540 --> 00:01:26,820
+Como tener una nueva llave.
+
+46
+00:01:27,180 --> 00:01:27,680
+Justo.
+
+47
+00:01:27,880 --> 00:01:29,280
+Y ver si abre cerraduras que
+
+48
+00:01:29,280 --> 00:01:31,000
+llevan siglos ahí atascadas.
+
+49
+00:01:31,160 --> 00:01:32,240
+Me encanta esa imagen.
+
+50
+00:01:32,840 --> 00:01:34,640
+Pues a ver, empecemos por la
+
+51
+00:01:34,640 --> 00:01:35,460
+primera cerradura.
+
+52
+00:01:36,160 --> 00:01:37,680
+El texto arranca con una idea
+
+53
+00:01:37,680 --> 00:01:39,900
+que llama un problema en la
+
+54
+00:01:39,900 --> 00:01:41,720
+forma en que clasificamos las cosas.
+
+55
+00:01:41,900 --> 00:01:43,060
+En la taxonomía, sí.
+
+56
+00:01:43,220 --> 00:01:45,120
+Y pone el ejemplo clásico, el
+
+57
+00:01:45,120 --> 00:01:46,380
+de los cuatro elementos.
+
+58
+00:01:46,800 --> 00:01:48,440
+Tierra, agua, aire y fuego.
+
+59
+00:01:49,120 --> 00:01:51,140
+Siempre los pensamos como un cuarteto
+
+60
+00:01:51,140 --> 00:01:52,020
+de iguales, ¿no?
+
+61
+00:01:52,440 --> 00:01:54,080
+Cuatro categorías en el mismo nivel.
+
+62
+00:01:54,340 --> 00:01:54,620
+Claro.
+
+63
+00:01:55,180 --> 00:01:56,680
+Pero la propuesta aquí es que,
+
+64
+00:01:56,780 --> 00:01:58,360
+bueno, que hemos estado viendo esa
+
+65
+00:01:58,360 --> 00:02:00,420
+imagen equivocadamente desde el
+
+66
+00:02:00,420 --> 00:02:00,920
+principio.
+
+67
+00:02:01,160 --> 00:02:01,640
+Así es.
+
+68
+00:02:01,840 --> 00:02:03,060
+Y aquí es donde se define
+
+69
+00:02:03,060 --> 00:02:05,340
+el principio 3 plus 1 por.
+
+70
+00:02:06,000 --> 00:02:07,560
+Y es clave entender que no
+
+71
+00:02:07,560 --> 00:02:08,699
+es una suma de kinder.
+
+72
+00:02:09,120 --> 00:02:10,340
+No es que 3 más 1
+
+73
+00:02:10,340 --> 00:02:11,020
+sea 4.
+
+74
+00:02:11,200 --> 00:02:12,060
+No es aritmética.
+
+75
+00:02:12,220 --> 00:02:12,580
+Para nada.
+
+76
+00:02:13,100 --> 00:02:14,900
+Es, digamos, la descripción de una
+
+77
+00:02:14,900 --> 00:02:17,780
+estructura, una categoría-producto que
+
+78
+00:02:17,780 --> 00:02:19,900
+nos dice cómo emerge algo coherente.
+
+79
+00:02:20,540 --> 00:02:22,120
+Tiene dos partes muy distintas.
+
+80
+00:02:22,660 --> 00:02:24,360
+Por un lado, están las tres
+
+81
+00:02:24,360 --> 00:02:26,340
+dimensiones que la fuente llama de
+
+82
+00:02:26,340 --> 00:02:27,080
+conservación.
+
+83
+00:02:27,460 --> 00:02:27,560
+Ok.
+
+84
+00:02:27,800 --> 00:02:30,160
+Pensemos en ellas como el escenario
+
+85
+00:02:30,160 --> 00:02:31,400
+de una obra de teatra.
+
+86
+00:02:31,660 --> 00:02:33,760
+Son las reglas, los límites, las
+
+87
+00:02:33,760 --> 00:02:35,620
+estructuras estables donde la
+
+88
+00:02:35,620 --> 00:02:38,260
+información se organiza y se mantiene.
+
+89
+00:02:38,700 --> 00:02:39,940
+Son los estados del ser.
+
+90
+00:02:40,160 --> 00:02:40,640
+Entiendo.
+
+91
+00:02:41,320 --> 00:02:42,680
+Como las reglas de un juego
+
+92
+00:02:42,680 --> 00:02:43,480
+de ajedrez, ¿no?
+
+93
+00:02:43,920 --> 00:02:45,880
+El tablero, cómo se mueven las
+
+94
+00:02:45,880 --> 00:02:48,380
+piezas, el sistema estable.
+
+95
+00:02:49,180 --> 00:02:50,880
+Y ¿cuál es la segunda parte?
+
+96
+00:02:51,480 --> 00:02:52,600
+El plus 1 pri.
+
+97
+00:02:52,980 --> 00:02:54,660
+Ah, el plus 1 pri.
+
+98
+00:02:55,040 --> 00:02:56,580
+Es el factor disruptivo.
+
+99
+00:02:56,980 --> 00:02:58,600
+La fuente lo llama la dimensión
+
+100
+00:02:58,600 --> 00:02:59,540
+de reescritura.
+
+101
+00:02:59,900 --> 00:03:01,720
+Y siguiendo tu analogía, no es
+
+102
+00:03:01,720 --> 00:03:02,940
+una pieza más en el tablero.
+
+103
+00:03:03,020 --> 00:03:03,320
+No.
+
+104
+00:03:03,860 --> 00:03:04,120
+No.
+
+105
+00:03:04,660 --> 00:03:05,460
+Es el jugador.
+
+106
+00:03:06,060 --> 00:03:07,440
+Es el agente que puede observar
+
+107
+00:03:07,440 --> 00:03:09,200
+todo el juego, decidir que las
+
+108
+00:03:09,200 --> 00:03:11,560
+reglas ya no sirven, y cambiarlas.
+
+109
+00:03:11,860 --> 00:03:13,940
+Es el proceso mismo de transformación.
+
+110
+00:03:14,260 --> 00:03:15,360
+A ver si lo entiendo con
+
+111
+00:03:15,360 --> 00:03:16,680
+el ejemplo de los griegos.
+
+112
+00:03:17,380 --> 00:03:19,580
+Tierra, agua y aire serían los
+
+113
+00:03:19,580 --> 00:03:20,020
+treus.
+
+114
+00:03:20,460 --> 00:03:20,640
+Ajá.
+
+115
+00:03:21,100 --> 00:03:22,480
+Son estados de la materia.
+
+116
+00:03:23,180 --> 00:03:25,620
+Sólido, líquido, gaseoso.
+
+117
+00:03:26,280 --> 00:03:27,760
+Son cosas que son de una
+
+118
+00:03:27,760 --> 00:03:28,120
+manera.
+
+119
+00:03:28,560 --> 00:03:29,080
+Exacto.
+
+120
+00:03:29,640 --> 00:03:31,480
+Son diferentes grados de orden, de
+
+121
+00:03:31,480 --> 00:03:32,140
+sincronización.
+
+122
+00:03:32,880 --> 00:03:34,000
+Pero, ¿y el fuego?
+
+123
+00:03:34,560 --> 00:03:36,780
+El fuego, según este principio, es
+
+124
+00:03:36,780 --> 00:03:37,860
+el plus 1 pri.
+
+125
+00:03:38,100 --> 00:03:38,820
+Espera un momento.
+
+126
+00:03:39,340 --> 00:03:40,700
+Cuando dices que el fuego no
+
+127
+00:03:40,700 --> 00:03:43,260
+es un elemento, sino un operador,
+
+128
+00:03:43,700 --> 00:03:45,580
+¿eso qué significa en la práctica?
+
+129
+00:03:45,980 --> 00:03:48,780
+Porque tierra, agua y aire son
+
+130
+00:03:48,780 --> 00:03:50,760
+cosas que puedo señalar.
+
+131
+00:03:51,160 --> 00:03:52,520
+Un operador no es algo más
+
+132
+00:03:52,520 --> 00:03:53,100
+abstracto.
+
+133
+00:03:53,600 --> 00:03:54,440
+Excelente pregunta.
+
+134
+00:03:54,960 --> 00:03:56,340
+Significa que el fuego no es
+
+135
+00:03:56,340 --> 00:03:57,700
+un estado de la materia en
+
+136
+00:03:57,700 --> 00:03:59,140
+la misma categoría que los otros.
+
+137
+00:03:59,660 --> 00:04:01,720
+Es el proceso que transforma un
+
+138
+00:04:01,720 --> 00:04:02,660
+estado en otro.
+
+139
+00:04:03,240 --> 00:04:04,800
+La combustión no es una cosa,
+
+140
+00:04:05,220 --> 00:04:05,960
+es una acción.
+
+141
+00:04:06,380 --> 00:04:06,600
+Ah.
+
+142
+00:04:06,940 --> 00:04:09,420
+Una transformación que libera energía y
+
+143
+00:04:09,420 --> 00:04:10,860
+permite que la madera, que es
+
+144
+00:04:10,860 --> 00:04:12,840
+tierra, se convierta en ceniza y
+
+145
+00:04:12,840 --> 00:04:13,860
+humo, que es aire.
+
+146
+00:04:14,380 --> 00:04:16,120
+El error de los griegos, según
+
+147
+00:04:16,120 --> 00:04:18,240
+esta visión, fue poner al proceso
+
+148
+00:04:18,240 --> 00:04:19,700
+en la misma caja que los
+
+149
+00:04:19,700 --> 00:04:20,180
+estados.
+
+150
+00:04:20,399 --> 00:04:21,560
+¿Lo categorizaron mal?
+
+151
+00:04:21,760 --> 00:04:23,020
+Confundieron el verbo con los
+
+152
+00:04:23,020 --> 00:04:23,600
+sustantivos.
+
+153
+00:04:23,740 --> 00:04:25,360
+Esa es una analogía perfecta.
+
+154
+00:04:25,580 --> 00:04:27,200
+Y lo fascinante es la lección
+
+155
+00:04:27,200 --> 00:04:28,620
+que extrae la fuente de esto.
+
+156
+00:04:29,140 --> 00:04:30,920
+Dice que la tétrada griega era
+
+157
+00:04:30,920 --> 00:04:33,540
+un 3 plus 1 intuitivo, pero
+
+158
+00:04:33,540 --> 00:04:34,400
+mal epitetado.
+
+159
+00:04:34,900 --> 00:04:36,100
+Y lo que argumenta es que
+
+160
+00:04:36,100 --> 00:04:38,720
+esta misma asimetría oculta, este mismo
+
+161
+00:04:38,720 --> 00:04:41,080
+error de categoría, se repite una
+
+162
+00:04:41,080 --> 00:04:42,540
+y otra vez en sistemas de
+
+163
+00:04:42,540 --> 00:04:45,000
+pensamiento mucho más, más complejos y
+
+164
+00:04:45,000 --> 00:04:45,480
+modernos.
+
+165
+00:04:45,880 --> 00:04:47,300
+Me imagino que el primer lugar
+
+166
+00:04:47,300 --> 00:04:49,560
+donde buscaríamos esa asimetría hoy
+
+167
+00:04:49,560 --> 00:04:50,560
+sería en la física.
+
+168
+00:04:51,300 --> 00:04:52,880
+Llevamos décadas con un problema
+
+169
+00:04:52,880 --> 00:04:54,260
+similar al de los griegos con
+
+170
+00:04:54,260 --> 00:04:56,680
+el fuego, pero con la gravedad.
+
+171
+00:04:56,760 --> 00:04:57,340
+Totalmente.
+
+172
+00:04:57,340 --> 00:04:59,460
+Siempre hablamos de las cuatro fuerzas
+
+173
+00:04:59,460 --> 00:05:02,040
+fundamentales, pero la gravedad es
+
+174
+00:05:02,040 --> 00:05:04,600
+la rara, la que no
+
+175
+00:05:04,600 --> 00:05:05,120
+encaja.
+
+176
+00:05:05,560 --> 00:05:07,140
+Y es precisamente ahí donde el
+
+177
+00:05:07,140 --> 00:05:08,260
+texto aplica el principio.
+
+178
+00:05:09,000 --> 00:05:10,600
+Propone que las otras tres fuerzas,
+
+179
+00:05:10,880 --> 00:05:12,920
+la electromagnética, la débil y la
+
+180
+00:05:12,920 --> 00:05:14,420
+fuerte, son los tres.
+
+181
+00:05:14,680 --> 00:05:14,940
+Ok.
+
+182
+00:05:15,280 --> 00:05:17,340
+Son, por decirlo de algún modo,
+
+183
+00:05:17,880 --> 00:05:19,940
+protocolos de comunicación que operan
+
+184
+00:05:19,940 --> 00:05:21,560
+dentro de un escenario que ya
+
+185
+00:05:21,560 --> 00:05:23,400
+existe, que es el espacio-tiempo.
+
+186
+00:05:23,960 --> 00:05:25,840
+Sus partículas, como los fotones o
+
+187
+00:05:25,840 --> 00:05:27,680
+los gluones, son los mensajeros.
+
+188
+00:05:28,300 --> 00:05:30,140
+Llevan y traen información dentro de
+
+189
+00:05:30,140 --> 00:05:31,880
+ese sistema para que las reglas
+
+190
+00:05:31,880 --> 00:05:32,420
+se cumplan.
+
+191
+00:05:32,740 --> 00:05:34,740
+Entonces, si seguimos con la analogía
+
+192
+00:05:34,740 --> 00:05:37,460
+del teatro, estas tres fuerzas son
+
+193
+00:05:37,460 --> 00:05:39,040
+los actores que interactúan sobre un
+
+194
+00:05:39,040 --> 00:05:40,540
+escenario que ya está construido y
+
+195
+00:05:40,540 --> 00:05:40,940
+es fijo.
+
+196
+00:05:41,580 --> 00:05:42,180
+Correcto.
+
+197
+00:05:42,400 --> 00:05:43,600
+Perfectamente expresado.
+
+198
+00:05:43,860 --> 00:05:46,080
+Pero entonces, ¿qué es la gravedad?
+
+199
+00:05:46,600 --> 00:05:48,900
+Según este marco, la gravedad es
+
+200
+00:05:48,900 --> 00:05:50,640
+el plus uno por todo.
+
+201
+00:05:51,120 --> 00:05:51,420
+Ah.
+
+202
+00:05:51,420 --> 00:05:53,140
+No es un actor más en
+
+203
+00:05:53,140 --> 00:05:53,600
+el escenario.
+
+204
+00:05:54,160 --> 00:05:56,640
+Es, es el tramoyista, el arquitecto
+
+205
+00:05:56,640 --> 00:05:57,280
+y el director.
+
+206
+00:05:57,680 --> 00:05:58,220
+Todo en uno.
+
+207
+00:05:58,840 --> 00:06:00,140
+La gravedad es el proceso que
+
+208
+00:06:00,140 --> 00:06:02,200
+construye y moldea el escenario mismo.
+
+209
+00:06:02,820 --> 00:06:04,360
+El espacio-tiempo no es fijo.
+
+210
+00:06:04,820 --> 00:06:06,320
+Es la variable dinámica que se
+
+211
+00:06:06,320 --> 00:06:07,320
+estira y se curva.
+
+212
+00:06:07,460 --> 00:06:07,800
+Claro.
+
+213
+00:06:08,320 --> 00:06:09,640
+Y esto me lleva a pensar
+
+214
+00:06:09,640 --> 00:06:12,400
+en la búsqueda del gravitón,
+
+215
+00:06:13,100 --> 00:06:15,240
+esa partícula hipotética que
+
+216
+00:06:15,240 --> 00:06:17,840
+supuestamente transporta la
+
+217
+00:06:17,840 --> 00:06:18,380
+gravedad.
+
+218
+00:06:18,380 --> 00:06:20,800
+La fuente dice que buscarlo es
+
+219
+00:06:20,800 --> 00:06:23,220
+un error de categoría fundamental.
+
+220
+00:06:23,800 --> 00:06:24,280
+Exactamente.
+
+221
+00:06:24,920 --> 00:06:26,140
+Y aquí es donde la fuente
+
+222
+00:06:26,140 --> 00:06:27,380
+usa una analogía que a mí
+
+223
+00:06:27,380 --> 00:06:30,280
+me parece potentísima para entenderlo.
+
+224
+00:06:30,440 --> 00:06:30,760
+A ver.
+
+225
+00:06:31,260 --> 00:06:32,840
+Dice que buscar el gravitón es
+
+226
+00:06:32,840 --> 00:06:35,140
+como estar programando un videojuego y
+
+227
+00:06:35,140 --> 00:06:36,860
+empezar a buscar el píxel de
+
+228
+00:06:36,860 --> 00:06:38,840
+la pantalla dentro del código fuente.
+
+229
+00:06:39,360 --> 00:06:39,840
+Guau.
+
+230
+00:06:40,120 --> 00:06:40,460
+Claro.
+
+231
+00:06:40,880 --> 00:06:41,840
+Es que no está en el
+
+232
+00:06:41,840 --> 00:06:42,080
+código.
+
+233
+00:06:42,340 --> 00:06:43,260
+No puede estar ahí.
+
+234
+00:06:43,400 --> 00:06:45,060
+El píxel es el resultado de
+
+235
+00:06:45,060 --> 00:06:46,480
+la ejecución del código en un
+
+236
+00:06:46,480 --> 00:06:47,780
+hardware, en la pantalla.
+
+237
+00:06:47,780 --> 00:06:49,800
+No pertenece a esa categoría.
+
+238
+00:06:50,020 --> 00:06:50,580
+Precisamente.
+
+239
+00:06:51,140 --> 00:06:52,920
+O una analogía aún más abstracta
+
+240
+00:06:52,920 --> 00:06:54,540
+que usa es como buscar el
+
+241
+00:06:54,540 --> 00:06:55,860
+agente que hace que el signo
+
+242
+00:06:55,860 --> 00:06:57,840
+de igual, igual, en una ecuación
+
+243
+00:06:57,840 --> 00:06:58,360
+funcione.
+
+244
+00:06:58,720 --> 00:07:00,260
+El signo de igual no es
+
+245
+00:07:00,260 --> 00:07:00,620
+un número.
+
+246
+00:07:01,140 --> 00:07:03,360
+Es una relación, una instrucción, un
+
+247
+00:07:03,360 --> 00:07:03,840
+operador.
+
+248
+00:07:04,320 --> 00:07:06,360
+No puedes encontrarlo dentro de los
+
+249
+00:07:06,360 --> 00:07:07,320
+números que conecta.
+
+250
+00:07:07,500 --> 00:07:09,680
+Esa analogía del píxel de la
+
+251
+00:07:09,680 --> 00:07:11,340
+pantalla es muy útil.
+
+252
+00:07:11,680 --> 00:07:14,400
+Pero, a ver, ¿hasta
+
+253
+00:07:14,400 --> 00:07:15,140
+dónde llega?
+
+254
+00:07:16,030 --> 00:07:17,600
+Porque la pantalla existe
+
+255
+00:07:17,600 --> 00:07:20,080
+independientemente del código.
+
+256
+00:07:20,680 --> 00:07:22,040
+Pero aquí se sugiere que el
+
+257
+00:07:22,040 --> 00:07:25,020
+espacio-tiempo y las fuerzas son
+
+258
+00:07:25,020 --> 00:07:26,280
+inseparables.
+
+259
+00:07:26,560 --> 00:07:28,280
+¿Cómo resuelve eso el texto?
+
+260
+00:07:28,800 --> 00:07:30,300
+La clave está en entender que
+
+261
+00:07:30,300 --> 00:07:31,380
+no son separables.
+
+262
+00:07:32,000 --> 00:07:33,380
+La implicación radical es que la
+
+263
+00:07:33,380 --> 00:07:35,320
+gravedad no es una interacción, sino
+
+264
+00:07:35,320 --> 00:07:36,940
+una metainteracción.
+
+265
+00:07:37,420 --> 00:07:39,460
+Una metainteracción.
+
+266
+00:07:39,920 --> 00:07:40,240
+Sí.
+
+267
+00:07:40,840 --> 00:07:42,480
+No es un diálogo entre actores.
+
+268
+00:07:42,980 --> 00:07:44,640
+Es la gramática que permite que
+
+269
+00:07:44,640 --> 00:07:45,980
+exista cualquier diálogo.
+
+270
+00:07:46,920 --> 00:07:48,240
+Por eso las ecuaciones de Einstein
+
+271
+00:07:48,240 --> 00:07:49,800
+son tan difíciles de unificar con
+
+272
+00:07:49,800 --> 00:07:50,800
+la mecánica cuántica.
+
+273
+00:07:51,600 --> 00:07:52,820
+El texto sugiere que no es
+
+274
+00:07:52,820 --> 00:07:54,640
+porque necesitemos una física nueva y
+
+275
+00:07:54,640 --> 00:07:56,500
+más exótica, sino porque estamos
+
+276
+00:07:56,500 --> 00:07:57,900
+intentando meter a la fuerza al
+
+277
+00:07:57,900 --> 00:07:59,340
+director de la obra en el
+
+278
+00:07:59,340 --> 00:08:00,580
+papel de un actor más.
+
+279
+00:08:00,920 --> 00:08:02,980
+Estamos usando la herramienta
+
+280
+00:08:02,980 --> 00:08:04,860
+conceptual equivocada para el problema.
+
+281
+00:08:05,180 --> 00:08:05,840
+Justo eso.
+
+282
+00:08:06,140 --> 00:08:06,540
+De acuerdo.
+
+283
+00:08:06,820 --> 00:08:08,200
+La idea es potente.
+
+284
+00:08:08,720 --> 00:08:11,680
+Y siguiendo con la física, el
+
+285
+00:08:11,680 --> 00:08:13,180
+texto se atreve a hacer algo
+
+286
+00:08:13,180 --> 00:08:14,400
+todavía más audaz.
+
+287
+00:08:15,080 --> 00:08:17,500
+Reinterpretar la ecuación más famosa de
+
+288
+00:08:17,500 --> 00:08:17,920
+la historia.
+
+289
+00:08:18,580 --> 00:08:20,020
+E igual mc al cuadrado.
+
+290
+00:08:20,260 --> 00:08:21,720
+Todos la conocemos como una
+
+291
+00:08:21,720 --> 00:08:22,560
+equivalencia, ¿no?
+
+292
+00:08:22,780 --> 00:08:24,640
+Que la masa se puede convertir
+
+293
+00:08:24,640 --> 00:08:26,140
+en energía y al revés.
+
+294
+00:08:26,720 --> 00:08:29,040
+Pero la propuesta aquí va mucho
+
+295
+00:08:29,040 --> 00:08:29,480
+más allá.
+
+296
+00:08:29,920 --> 00:08:30,880
+Muchísimo más allá.
+
+297
+00:08:31,919 --> 00:08:33,760
+La propone no como una equivalencia,
+
+298
+00:08:34,159 --> 00:08:36,100
+sino como un operador de transducción
+
+299
+00:08:36,100 --> 00:08:36,780
+algorítmica.
+
+300
+00:08:36,780 --> 00:08:38,419
+Uf, ese es un nombre muy
+
+301
+00:08:38,419 --> 00:08:38,880
+técnico.
+
+302
+00:08:39,220 --> 00:08:39,659
+Lo es.
+
+303
+00:08:40,039 --> 00:08:41,240
+Pero la idea es más sencilla
+
+304
+00:08:41,240 --> 00:08:41,900
+de lo que parece.
+
+305
+00:08:42,340 --> 00:08:43,740
+A ver, traduzcamos eso.
+
+306
+00:08:44,400 --> 00:08:46,420
+Antes de seguir, el texto habla
+
+307
+00:08:46,420 --> 00:08:48,820
+de un plano nómenico y otro
+
+308
+00:08:48,820 --> 00:08:50,220
+fenomenológico.
+
+309
+00:08:50,580 --> 00:08:51,760
+Términos filosóficos, sí.
+
+310
+00:08:51,920 --> 00:08:54,160
+Si lo entiendo bien, lo nómenico
+
+311
+00:08:54,160 --> 00:08:56,520
+es como el código fuente de
+
+312
+00:08:56,520 --> 00:08:57,140
+un videojuego.
+
+313
+00:08:57,380 --> 00:08:59,820
+La información pura, las reglas, lo
+
+314
+00:08:59,820 --> 00:09:00,440
+que no vemos.
+
+315
+00:09:01,020 --> 00:09:02,980
+Y lo fenomenológico es lo que
+
+316
+00:09:02,980 --> 00:09:04,740
+finalmente aparece en la pantalla.
+
+317
+00:09:04,740 --> 00:09:07,460
+Los gráficos, los personajes, la
+
+318
+00:09:07,460 --> 00:09:08,720
+experiencia que sí vemos.
+
+319
+00:09:09,120 --> 00:09:10,240
+¿Es correcta esa analogía?
+
+320
+00:09:10,520 --> 00:09:12,400
+Es una analogía perfecta.
+
+321
+00:09:12,640 --> 00:09:13,880
+Y lo que propone la fuente
+
+322
+00:09:13,880 --> 00:09:16,360
+es que E igual mc al
+
+323
+00:09:16,360 --> 00:09:19,220
+cuadrado es el motor de renderizado.
+
+324
+00:09:19,820 --> 00:09:20,380
+¿El motor?
+
+325
+00:09:20,600 --> 00:09:20,840
+Sí.
+
+326
+00:09:21,300 --> 00:09:23,240
+El que traduce ese código invisible
+
+327
+00:09:23,240 --> 00:09:24,880
+en la imagen tangible que
+
+328
+00:09:24,880 --> 00:09:26,280
+experimentamos como realidad.
+
+329
+00:09:26,800 --> 00:09:28,820
+Y cada componente de la ecuación
+
+330
+00:09:28,820 --> 00:09:30,840
+adquiere un nuevo significado.
+
+331
+00:09:31,680 --> 00:09:32,360
+¿Desglosemoslo?
+
+332
+00:09:32,920 --> 00:09:35,560
+Empecemos por la energía E y
+
+333
+00:09:35,560 --> 00:09:36,640
+la masa m.
+
+334
+00:09:36,880 --> 00:09:39,420
+Bueno, no son cosas, son
+
+335
+00:09:39,420 --> 00:09:40,660
+expresiones de frecuencia.
+
+336
+00:09:41,280 --> 00:09:42,640
+La energía de un fotón, por
+
+337
+00:09:42,640 --> 00:09:45,060
+ejemplo, es E igual a hf,
+
+338
+00:09:45,700 --> 00:09:47,760
+donde h es la constante de
+
+339
+00:09:47,760 --> 00:09:49,740
+Planck y f es su frecuencia.
+
+340
+00:09:50,300 --> 00:09:52,360
+Y la masa, según esta visión,
+
+341
+00:09:52,720 --> 00:09:54,440
+es simplemente energía confinada.
+
+342
+00:09:55,000 --> 00:09:57,120
+Una frecuencia a la que se
+
+343
+00:09:57,120 --> 00:09:58,140
+le ha puesto un freno de
+
+344
+00:09:58,140 --> 00:09:59,340
+mano, por así decirlo.
+
+345
+00:09:59,340 --> 00:10:01,860
+La fórmula para la masa sería
+
+346
+00:10:01,860 --> 00:10:04,480
+m igual a hfc al cuadrado.
+
+347
+00:10:05,340 --> 00:10:06,940
+Es frecuencia por unidad de área.
+
+348
+00:10:07,600 --> 00:10:07,700
+Vale.
+
+349
+00:10:08,140 --> 00:10:10,780
+Energía y masa son vibraciones.
+
+350
+00:10:11,220 --> 00:10:13,560
+Y la constante de Planck, la
+
+351
+00:10:13,560 --> 00:10:16,040
+h, el texto dice que no
+
+352
+00:10:16,040 --> 00:10:17,200
+es solo un número.
+
+353
+00:10:17,540 --> 00:10:18,040
+Correcto.
+
+354
+00:10:18,600 --> 00:10:20,960
+Se describe como el píxel cuántico
+
+355
+00:10:20,960 --> 00:10:21,660
+de la realidad.
+
+356
+00:10:22,080 --> 00:10:23,420
+El píxel cuántico.
+
+357
+00:10:23,740 --> 00:10:25,620
+Es la unidad mínima de resolución.
+
+358
+00:10:26,420 --> 00:10:28,400
+Como en una pantalla digital, no
+
+359
+00:10:28,400 --> 00:10:30,100
+puedes tener medio píxel.
+
+360
+00:10:31,240 --> 00:10:33,260
+La h de Planck es el
+
+361
+00:10:33,260 --> 00:10:35,320
+tamiz fundamental que garantiza que la
+
+362
+00:10:35,320 --> 00:10:37,500
+información se manifieste en, en
+
+363
+00:10:37,500 --> 00:10:38,480
+paquetes discretos.
+
+364
+00:10:39,020 --> 00:10:39,620
+¿En cuántos?
+
+365
+00:10:39,860 --> 00:10:41,500
+Para que pueda ser observable.
+
+366
+00:10:41,940 --> 00:10:42,100
+Ok.
+
+367
+00:10:42,620 --> 00:10:44,280
+Esto me está llevando a un
+
+368
+00:10:44,280 --> 00:10:46,340
+territorio mental fascinante.
+
+369
+00:10:47,040 --> 00:10:48,240
+Pero la pieza que me falta
+
+370
+00:10:48,240 --> 00:10:50,680
+es c cuadrada, la velocidad de
+
+371
+00:10:50,680 --> 00:10:51,780
+la luz al cuadrado.
+
+372
+00:10:52,260 --> 00:10:53,260
+¿Cómo encaja aquí?
+
+373
+00:10:54,020 --> 00:10:55,320
+Esta es la pieza clave de
+
+374
+00:10:55,320 --> 00:10:56,300
+la reinterpretación.
+
+375
+00:10:57,220 --> 00:10:59,060
+El texto argumenta que c cuadrada
+
+376
+00:10:59,060 --> 00:11:00,140
+no es un mero factor de
+
+377
+00:11:00,140 --> 00:11:01,240
+conversión para que las unidades
+
+378
+00:11:01,240 --> 00:11:01,780
+cuadren.
+
+379
+00:11:02,120 --> 00:11:03,460
+Que es como nos lo explican
+
+380
+00:11:03,460 --> 00:11:04,020
+casi siempre.
+
+381
+00:11:04,420 --> 00:11:04,940
+Totalmente.
+
+382
+00:11:05,240 --> 00:11:05,360
+No.
+
+383
+00:11:06,120 --> 00:11:08,080
+Aquí c cuadrada es el operador
+
+384
+00:11:08,080 --> 00:11:09,460
+de transducción en sí mismo.
+
+385
+00:11:10,240 --> 00:11:11,400
+Es, y esta es la idea
+
+386
+00:11:11,400 --> 00:11:13,860
+central, la velocidad de actualización
+
+387
+00:11:13,860 --> 00:11:14,540
+del universo.
+
+388
+00:11:14,840 --> 00:11:15,560
+Un momento.
+
+389
+00:11:16,080 --> 00:11:17,860
+La velocidad de actualización del
+
+390
+00:11:17,860 --> 00:11:18,320
+universo.
+
+391
+00:11:18,740 --> 00:11:20,580
+El refresh rate al que la
+
+392
+00:11:20,580 --> 00:11:22,340
+realidad se reescribe a sí misma.
+
+393
+00:11:22,340 --> 00:11:23,880
+A cada instante de Planck.
+
+394
+00:11:24,300 --> 00:11:25,320
+Es un concepto salvaje.
+
+395
+00:11:25,500 --> 00:11:26,880
+¿Y qué significa eso en la
+
+396
+00:11:26,880 --> 00:11:27,240
+práctica?
+
+397
+00:11:27,600 --> 00:11:29,520
+Significa que la masa, lo que
+
+398
+00:11:29,520 --> 00:11:32,140
+percibimos como materia sólida, emerge
+
+399
+00:11:32,140 --> 00:11:34,440
+como una densidad de actualización.
+
+400
+00:11:34,780 --> 00:11:36,400
+Densidad de actualización.
+
+401
+00:11:36,800 --> 00:11:37,000
+Sí.
+
+402
+00:11:37,520 --> 00:11:39,560
+Una partícula con más masa no
+
+403
+00:11:39,560 --> 00:11:42,020
+es intrínsecamente más pesada, sino
+
+404
+00:11:42,020 --> 00:11:44,940
+que, por su configuración, requiere más
+
+405
+00:11:44,940 --> 00:11:46,240
+ciclos de procesamiento.
+
+406
+00:11:46,740 --> 00:11:48,740
+Más iteraciones de este operador por
+
+407
+00:11:48,740 --> 00:11:51,020
+x para sincronizar su estado con
+
+408
+00:11:51,020 --> 00:11:52,420
+el resto del espacio-tiempo.
+
+409
+00:11:52,800 --> 00:11:55,260
+Es, en un sentido computacional, más
+
+410
+00:11:55,260 --> 00:11:56,980
+costosa de mantener actualizada.
+
+411
+00:11:57,220 --> 00:11:57,540
+Claro.
+
+412
+00:11:57,820 --> 00:11:59,500
+Por eso se necesita tanta energía
+
+413
+00:11:59,500 --> 00:12:00,280
+para crearla.
+
+414
+00:12:00,600 --> 00:12:02,220
+Y por eso libera tanta energía
+
+415
+00:12:02,220 --> 00:12:03,340
+al ser destruida.
+
+416
+00:12:03,560 --> 00:12:05,180
+Tengo que admitir que esto me
+
+417
+00:12:05,180 --> 00:12:05,980
+huela la cabeza.
+
+418
+00:12:06,400 --> 00:12:08,240
+Hemos usado esa ecuación toda la
+
+419
+00:12:08,240 --> 00:12:10,400
+vida como un simple eslogan de
+
+420
+00:12:10,400 --> 00:12:10,880
+la física.
+
+421
+00:12:11,400 --> 00:12:13,520
+Y esta reinterpretación la convierte en
+
+422
+00:12:13,520 --> 00:12:15,980
+el motor mismo que renderiza la
+
+423
+00:12:15,980 --> 00:12:16,340
+realidad.
+
+424
+00:12:16,620 --> 00:12:18,680
+Es un cambio de perspectiva radical.
+
+425
+00:12:18,680 --> 00:12:20,300
+Y ese cambio de perspectiva se
+
+426
+00:12:20,300 --> 00:12:21,420
+conecta con una de las ideas
+
+427
+00:12:21,420 --> 00:12:24,400
+más audaces del texto, la conciencia.
+
+428
+00:12:24,600 --> 00:12:26,480
+Postula que cada sistema consciente,
+
+429
+00:12:26,700 --> 00:12:28,660
+como un cerebro, opera con su
+
+430
+00:12:28,660 --> 00:12:30,520
+propio motor de actualización local,
+
+431
+00:12:31,080 --> 00:12:32,820
+que en física se llama hamiltoniano.
+
+432
+00:12:33,220 --> 00:12:33,480
+OK.
+
+433
+00:12:34,020 --> 00:12:36,200
+Este motor personal construye el
+
+434
+00:12:36,200 --> 00:12:38,080
+presente que cada una experimenta.
+
+435
+00:12:38,680 --> 00:12:39,980
+Y el sueño es el ejemplo
+
+436
+00:12:39,980 --> 00:12:40,540
+perfecto.
+
+437
+00:12:40,880 --> 00:12:41,460
+¿El sueño?
+
+438
+00:12:41,880 --> 00:12:43,740
+Cuando soñamos, nuestro motor de
+
+439
+00:12:43,740 --> 00:12:46,720
+actualización personal se desacopla del
+
+440
+00:12:46,720 --> 00:12:48,920
+motor global del universo y empezamos
+
+441
+00:12:48,920 --> 00:12:50,180
+a renderizar una realidad
+
+442
+00:12:50,180 --> 00:12:51,600
+fenomenológica privada.
+
+443
+00:12:51,780 --> 00:12:52,660
+Con sus propias reglas.
+
+444
+00:12:53,080 --> 00:12:54,280
+Y su propio flujo de tiempo.
+
+445
+00:12:54,580 --> 00:12:56,340
+O sea, que cuando sueño, mi
+
+446
+00:12:56,340 --> 00:12:58,260
+cerebro está básicamente corriendo su
+
+447
+00:12:58,260 --> 00:13:00,500
+propia simulación desconectado del
+
+448
+00:13:00,500 --> 00:13:02,380
+servidor principal del universo.
+
+449
+00:13:02,840 --> 00:13:04,320
+Esa es exactamente la idea que
+
+450
+00:13:04,320 --> 00:13:05,120
+propone la fuente.
+
+451
+00:13:05,320 --> 00:13:05,780
+De acuerdo.
+
+452
+00:13:06,160 --> 00:13:08,720
+Esto es increíblemente denso.
+
+453
+00:13:09,240 --> 00:13:11,120
+Hemos pasado de los griegos a
+
+454
+00:13:11,120 --> 00:13:13,000
+la gravedad y a la naturaleza
+
+455
+00:13:13,000 --> 00:13:14,020
+misma de la realidad.
+
+456
+00:13:14,020 --> 00:13:16,380
+Y justo cuando creo que ya
+
+457
+00:13:16,380 --> 00:13:18,640
+no puede ser más abstracto, la
+
+458
+00:13:18,640 --> 00:13:20,480
+fuente da un giro que, de
+
+459
+00:13:20,480 --> 00:13:21,580
+verdad no me esperaba.
+
+460
+00:13:22,180 --> 00:13:24,620
+Lleva este principio 3 plus 1
+
+461
+00:13:24,620 --> 00:13:27,080
+por, del plano físico al plano
+
+462
+00:13:27,080 --> 00:13:28,400
+sociosimbólico.
+
+463
+00:13:28,560 --> 00:13:28,660
+Sí.
+
+464
+00:13:29,020 --> 00:13:30,980
+Sostiene que la civilización humana
+
+465
+00:13:30,980 --> 00:13:32,660
+opera bajo esta misma lógica.
+
+466
+00:13:32,980 --> 00:13:33,140
+Sí.
+
+467
+00:13:33,540 --> 00:13:34,480
+Y lo hace a través de
+
+468
+00:13:34,480 --> 00:13:37,360
+un arquetipo antiquísimo que aparece en
+
+469
+00:13:37,360 --> 00:13:38,300
+múltiples culturas.
+
+470
+00:13:38,960 --> 00:13:40,220
+El tetramorfo.
+
+471
+00:13:40,580 --> 00:13:41,440
+¿El tetramorfo?
+
+472
+00:13:41,440 --> 00:13:44,060
+Esa figura mítica con cuatro rostros
+
+473
+00:13:44,060 --> 00:13:46,900
+o partes de león, de águila,
+
+474
+00:13:47,220 --> 00:13:48,600
+de toro y de humano o
+
+475
+00:13:48,600 --> 00:13:48,900
+ángel.
+
+476
+00:13:49,460 --> 00:13:50,860
+Lo que hace el texto es
+
+477
+00:13:50,860 --> 00:13:52,740
+mapear cada uno de esos rostros
+
+478
+00:13:52,740 --> 00:13:54,900
+a una función fundamental de la
+
+479
+00:13:54,900 --> 00:13:57,880
+civilización y, sorprendentemente, a
+
+480
+00:13:57,880 --> 00:13:59,220
+una de las simetrías de la
+
+481
+00:13:59,220 --> 00:13:59,600
+física.
+
+482
+00:14:00,020 --> 00:14:01,520
+A ver, esto tenemos que verlo
+
+483
+00:14:01,520 --> 00:14:03,200
+con calma porque es una afirmación
+
+484
+00:14:03,200 --> 00:14:03,820
+enorme.
+
+485
+00:14:04,080 --> 00:14:04,500
+Lo es.
+
+486
+00:14:04,780 --> 00:14:05,780
+Empecemos por el león.
+
+487
+00:14:06,240 --> 00:14:08,000
+El texto dice que representa al
+
+488
+00:14:08,000 --> 00:14:09,240
+estado o la nación.
+
+489
+00:14:09,790 --> 00:14:11,440
+¿Cómo se conecta eso con la
+
+490
+00:14:11,440 --> 00:14:11,760
+física?
+
+491
+00:14:12,160 --> 00:14:13,900
+Pensemos en la función del escado.
+
+492
+00:14:14,440 --> 00:14:16,480
+Crea cohesión territorial, define
+
+493
+00:14:16,480 --> 00:14:19,300
+fronteras, impone leyes que aplican a
+
+494
+00:14:19,300 --> 00:14:20,920
+todos por igual dentro de su
+
+495
+00:14:20,920 --> 00:14:21,400
+dominio.
+
+496
+00:14:21,840 --> 00:14:23,400
+Es una fuerza unificadora.
+
+497
+00:14:23,820 --> 00:14:24,360
+Justo.
+
+498
+00:14:24,720 --> 00:14:26,020
+El texto lo asemeja a la
+
+499
+00:14:26,020 --> 00:14:27,940
+fuerza electromagnética que también
+
+500
+00:14:27,940 --> 00:14:29,640
+opera con un único conjunto de
+
+501
+00:14:29,640 --> 00:14:31,600
+reglas simples y universales para todas
+
+502
+00:14:31,600 --> 00:14:32,760
+las partículas cargadas.
+
+503
+00:14:33,180 --> 00:14:33,760
+Interesante.
+
+504
+00:14:34,040 --> 00:14:35,280
+Vale, pasemos al águila.
+
+505
+00:14:35,580 --> 00:14:37,000
+La fuente lo asocia con la
+
+506
+00:14:37,000 --> 00:14:38,940
+corporación o la élite intelectual.
+
+507
+00:14:38,940 --> 00:14:40,820
+El águila representa la visión
+
+508
+00:14:40,820 --> 00:14:43,680
+estratégica, la jerarquía, la
+
+509
+00:14:43,680 --> 00:14:45,700
+capacidad de planificar desde arriba.
+
+510
+00:14:46,620 --> 00:14:48,940
+Es una estructura más compleja, con
+
+511
+00:14:48,940 --> 00:14:51,120
+pares de opuestos, gestión y
+
+512
+00:14:51,120 --> 00:14:53,600
+trabajadores, estrategia y táctica.
+
+513
+00:14:54,680 --> 00:14:56,360
+El texto lo conecta con la
+
+514
+00:14:56,360 --> 00:14:59,220
+fuerza nuclear débil, que opera con
+
+515
+00:14:59,220 --> 00:15:01,120
+pares de partículas y gobierna
+
+516
+00:15:01,120 --> 00:15:02,100
+transformaciones.
+
+517
+00:15:02,500 --> 00:15:03,080
+Entendido.
+
+518
+00:15:03,500 --> 00:15:05,320
+El tercero es el toro, que
+
+519
+00:15:05,320 --> 00:15:07,260
+simboliza a la masa social, la
+
+520
+00:15:07,260 --> 00:15:07,620
+cultura.
+
+521
+00:15:07,920 --> 00:15:08,540
+Exacto.
+
+522
+00:15:08,540 --> 00:15:10,000
+El toro es la fuerza de
+
+523
+00:15:10,000 --> 00:15:12,580
+trabajo, las tradiciones, la inercia
+
+524
+00:15:12,580 --> 00:15:14,360
+cultural que mantiene unida a la
+
+525
+00:15:14,360 --> 00:15:14,760
+sociedad.
+
+526
+00:15:15,440 --> 00:15:16,980
+Es la cohesión interna.
+
+527
+00:15:17,140 --> 00:15:18,720
+La fuente lo asocia con la
+
+528
+00:15:18,720 --> 00:15:20,920
+fuerza nuclear fuerte, que es la
+
+529
+00:15:20,920 --> 00:15:22,540
+que confina a los quarks para
+
+530
+00:15:22,540 --> 00:15:23,960
+formar protones y neutrones,
+
+531
+00:15:24,380 --> 00:15:26,120
+manteniendo las estructuras pegadas
+
+532
+00:15:26,120 --> 00:15:26,620
+entre sí.
+
+533
+00:15:27,060 --> 00:15:29,980
+Entonces, si sigo la lógica, esto
+
+534
+00:15:29,980 --> 00:15:32,100
+significa que la figura humana o
+
+535
+00:15:32,100 --> 00:15:34,840
+de ángel debe ser nuestro plus
+
+536
+00:15:34,840 --> 00:15:36,640
+uno por en este sistema.
+
+537
+00:15:36,640 --> 00:15:38,640
+No es una fuerza como las
+
+538
+00:15:38,640 --> 00:15:39,240
+otras, ¿verdad?
+
+539
+00:15:39,860 --> 00:15:40,380
+Precisamente.
+
+540
+00:15:40,880 --> 00:15:43,040
+El individuo consciente es el operador
+
+541
+00:15:43,040 --> 00:15:43,300
+por.
+
+542
+00:15:43,960 --> 00:15:45,660
+Es el único componente del sistema
+
+543
+00:15:45,660 --> 00:15:47,040
+capaz de hacer algo único.
+
+544
+00:15:47,720 --> 00:15:49,400
+Observar a los otros tres, el
+
+545
+00:15:49,400 --> 00:15:51,900
+estado, león, la élite águila y
+
+546
+00:15:51,900 --> 00:15:53,720
+la masa toro, como un sistema.
+
+547
+00:15:54,140 --> 00:15:55,020
+¿Y al observarlo?
+
+548
+00:15:55,260 --> 00:15:57,400
+Puede reescribir sus rellas, a través
+
+549
+00:15:57,400 --> 00:15:59,060
+de la ciencia, el arte, la
+
+550
+00:15:59,060 --> 00:16:01,600
+filosofía o, en casos extremos, la
+
+551
+00:16:01,600 --> 00:16:02,080
+revolución.
+
+552
+00:16:02,580 --> 00:16:04,180
+El individuo es el agente de
+
+553
+00:16:04,180 --> 00:16:04,500
+cambio.
+
+554
+00:16:04,740 --> 00:16:06,400
+Entonces, para que quede claro.
+
+555
+00:16:06,860 --> 00:16:08,660
+La idea aquí no es sólo
+
+556
+00:16:08,660 --> 00:16:10,140
+una simple analogía.
+
+557
+00:16:10,760 --> 00:16:12,700
+Es proponer que la misma gramática
+
+558
+00:16:12,700 --> 00:16:14,700
+fundamental que une a los quarks
+
+559
+00:16:14,700 --> 00:16:16,520
+es la que crea la cohesión
+
+560
+00:16:16,520 --> 00:16:18,160
+cultural en una sociedad.
+
+561
+00:16:18,620 --> 00:16:20,440
+Es una afirmación
+
+562
+00:16:20,440 --> 00:16:21,800
+descomunal.
+
+563
+00:16:22,060 --> 00:16:22,540
+Lo es.
+
+564
+00:16:23,000 --> 00:16:24,280
+Y hay un punto crucial que
+
+565
+00:16:24,280 --> 00:16:25,040
+el texto aclara.
+
+566
+00:16:25,620 --> 00:16:27,660
+El tetramorfo no es el origen
+
+567
+00:16:27,660 --> 00:16:28,480
+de la civilización.
+
+568
+00:16:28,840 --> 00:16:29,440
+Ah, no.
+
+569
+00:16:29,720 --> 00:16:30,720
+No es que un mito haya
+
+570
+00:16:30,720 --> 00:16:31,900
+creado estas estructuras.
+
+571
+00:16:32,480 --> 00:16:33,300
+Propone lo contrario.
+
+572
+00:16:33,880 --> 00:16:35,700
+Que esta estructura 3 plus 1
+
+573
+00:16:35,700 --> 00:16:38,180
+es el firmware operativo que emerge
+
+574
+00:16:38,180 --> 00:16:40,020
+de forma inevitable y espontánea cuando
+
+575
+00:16:40,020 --> 00:16:41,580
+un sistema social se vuelve lo
+
+576
+00:16:41,580 --> 00:16:42,780
+suficientemente complejo.
+
+577
+00:16:42,960 --> 00:16:44,560
+Es un patrón que surge por
+
+578
+00:16:44,560 --> 00:16:45,120
+sí solo.
+
+579
+00:16:45,460 --> 00:16:46,060
+Exactamente.
+
+580
+00:16:46,460 --> 00:16:47,080
+Qué viaje.
+
+581
+00:16:47,300 --> 00:16:48,980
+Hemos empezado con los cuatro elementos
+
+582
+00:16:48,980 --> 00:16:49,860
+de los griegos.
+
+583
+00:16:50,380 --> 00:16:51,980
+Hemos pasado por el misterio de
+
+584
+00:16:51,980 --> 00:16:52,740
+la gravedad.
+
+585
+00:16:53,500 --> 00:16:55,760
+Reinterpretado E igual a mc cuadrado
+
+586
+00:16:55,760 --> 00:16:57,200
+como el motor de la realidad.
+
+587
+00:16:57,600 --> 00:16:59,860
+Y hemos terminado en la estructura
+
+588
+00:16:59,860 --> 00:17:01,540
+misma de la civilización.
+
+589
+00:17:02,120 --> 00:17:03,880
+Todo visto a través de esta
+
+590
+00:17:03,880 --> 00:17:06,520
+única lente del principio 3 plus
+
+591
+00:17:06,520 --> 00:17:06,880
+1.
+
+592
+00:17:07,220 --> 00:17:09,300
+Y creo que es fundamental entender
+
+593
+00:17:09,300 --> 00:17:11,420
+algo que el propio autor sobraya.
+
+594
+00:17:12,339 --> 00:17:13,819
+El valor de este marco no
+
+595
+00:17:13,819 --> 00:17:15,680
+está, al menos por ahora, en
+
+596
+00:17:15,680 --> 00:17:17,579
+hacer predicciones que podamos medir en
+
+597
+00:17:17,579 --> 00:17:18,260
+un laboratorio.
+
+598
+00:17:18,440 --> 00:17:20,500
+No es una teoría física en
+
+599
+00:17:20,500 --> 00:17:21,180
+ese sentido.
+
+600
+00:17:21,319 --> 00:17:21,819
+No, no es.
+
+601
+00:17:22,160 --> 00:17:23,300
+Su propósito es otro.
+
+602
+00:17:23,920 --> 00:17:25,880
+Es ofrecernos un nuevo lenguaje.
+
+603
+00:17:26,240 --> 00:17:28,560
+Una nueva sintaxis para formular
+
+604
+00:17:28,560 --> 00:17:29,100
+preguntas.
+
+605
+00:17:29,620 --> 00:17:31,420
+Se trata de resolver paradojas
+
+606
+00:17:31,420 --> 00:17:33,800
+conceptuales no por tener más datos,
+
+607
+00:17:34,160 --> 00:17:35,800
+sino por tener un mejor mapa
+
+608
+00:17:35,800 --> 00:17:37,200
+para leer los datos que ya
+
+609
+00:17:37,200 --> 00:17:37,560
+tenemos.
+
+610
+00:17:37,880 --> 00:17:39,520
+Cambiar el mapa, no el territorio.
+
+611
+00:17:39,680 --> 00:17:40,080
+Me gusta.
+
+612
+00:17:40,640 --> 00:17:42,560
+Y para cerrar, la fuente nos
+
+613
+00:17:42,560 --> 00:17:44,260
+deja con un pensamiento final.
+
+614
+00:17:44,580 --> 00:17:45,860
+Una pregunta que se queda ahí,
+
+615
+00:17:46,120 --> 00:17:46,600
+resonando.
+
+616
+00:17:47,280 --> 00:17:48,920
+Si este patrón 3 plus 1
+
+617
+00:17:48,920 --> 00:17:51,320
+por es tan universal, se aparece
+
+618
+00:17:51,320 --> 00:17:53,000
+en la física, en la filosofía
+
+619
+00:17:53,000 --> 00:17:54,260
+antigua, en la sociedad.
+
+620
+00:17:54,260 --> 00:17:56,780
+¿Es posible que no sea sólo
+
+621
+00:17:56,780 --> 00:17:58,560
+una forma útil de organizar nuestro
+
+622
+00:17:58,560 --> 00:18:01,100
+conocimiento, sino la estructura lógica
+
+623
+00:18:01,100 --> 00:18:02,880
+fundamental del universo mismo?
+
+624
+00:18:03,200 --> 00:18:04,720
+Y la pregunta que se deriva
+
+625
+00:18:04,720 --> 00:18:06,560
+de eso es aún más provocadora.
+
+626
+00:18:07,160 --> 00:18:08,860
+Y si para entender los misterios
+
+627
+00:18:08,860 --> 00:18:10,480
+más grandes que nos quedan, como
+
+628
+00:18:10,480 --> 00:18:13,080
+la gravedad cuántica, no necesitamos un
+
+629
+00:18:13,080 --> 00:18:14,960
+acelerador de partículas más potente,
+
+630
+00:18:15,540 --> 00:18:17,060
+sino simplemente la humildad de
+
+631
+00:18:17,060 --> 00:18:18,740
+reconocer que, en este gran juego
+
+632
+00:18:18,740 --> 00:18:20,960
+de ajedrez, el tablero mismo es
+
+633
+00:18:20,960 --> 00:18:21,840
+la pieza que falta.
+
