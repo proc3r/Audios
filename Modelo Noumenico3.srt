@@ -20,7 +20,7 @@ naturaleza misma de la realidad, el
 
 6
 00:00:09,250 --> 00:00:10,210
-modelo no-ménico.
+Modelo Nouménico.
 
 7
 00:00:10,490 --> 00:00:12,110
@@ -44,7 +44,7 @@ mundo de otra manera.
 
 12
 00:00:18,030 --> 00:00:19,970
-El modelo no-ménico, sí, busca
+El Modelo Nouménico, sí, busca
 
 13
 00:00:19,970 --> 00:00:21,090
@@ -88,7 +88,7 @@ la atención al leer sobre esto
 
 23
 00:00:34,770 --> 00:00:36,290
-fueron los onemones.
+fueron los Onemuones.
 
 24
 00:00:36,810 --> 00:00:38,370
@@ -108,7 +108,7 @@ realidad según este modelo.
 
 28
 00:00:42,810 --> 00:00:43,910
-Sí, los onemones.
+Sí, los Onemuones.
 
 29
 00:00:44,190 --> 00:00:45,530
@@ -220,7 +220,7 @@ arquetipos.
 
 56
 00:01:24,030 --> 00:01:25,970
-El modelo numénico propone que existen
+El Modelo Nouménico propone que existen
 
 57
 00:01:25,970 --> 00:01:27,650
@@ -260,7 +260,7 @@ Exactamente.
 
 66
 00:01:37,410 --> 00:01:39,150
-Pero en el modelo numénico, estos
+Pero en el Modelo Nouménico, estos
 
 67
 00:01:39,150 --> 00:01:40,470
@@ -328,7 +328,7 @@ se pone aún más interesante porque
 
 83
 00:02:02,310 --> 00:02:04,330
-el modelo numénico distingue entre el
+el Modelo Nouménico distingue entre el
 
 84
 00:02:04,330 --> 00:02:05,190
@@ -384,7 +384,7 @@ de las posibilidades del nómeno.
 
 97
 00:02:27,170 --> 00:02:28,510
-El modelo numénico lo llama
+El Modelo Nouménico lo llama
 
 98
 00:02:28,510 --> 00:02:29,490
@@ -436,7 +436,7 @@ Y esa traducción no es aleatoria.
 
 110
 00:02:47,170 --> 00:02:48,810
-El modelo numénico propone la
+El Modelo Nouménico propone la
 
 111
 00:02:48,810 --> 00:02:51,010
@@ -484,7 +484,7 @@ Esa es una de las ideas
 
 122
 00:03:02,590 --> 00:03:04,430
-más radicales del modelo numénico.
+más radicales del Modelo Nouménico.
 
 123
 00:03:04,870 --> 00:03:05,930
@@ -544,7 +544,7 @@ en todo este proceso?
 
 137
 00:03:29,470 --> 00:03:30,990
-El modelo numénico nos propone una
+El Modelo Nouménico nos propone una
 
 138
 00:03:30,990 --> 00:03:32,370
@@ -584,7 +584,7 @@ percibimos.
 
 147
 00:03:44,150 --> 00:03:45,770
-El modelo numénico nos dice que
+El Modelo Nouménico nos dice que
 
 148
 00:03:45,770 --> 00:03:47,370
@@ -716,7 +716,7 @@ Exactamente.
 
 180
 00:04:32,550 --> 00:04:34,270
-El modelo numénico nos invita a
+El Modelo Nouménico nos invita a
 
 181
 00:04:34,270 --> 00:04:35,830
@@ -780,7 +780,7 @@ adentrarnos en otro concepto clave del
 
 196
 00:04:58,010 --> 00:04:58,830
-modelo numénico.
+Modelo Nouménico.
 
 197
 00:04:59,430 --> 00:05:00,830
@@ -1112,7 +1112,7 @@ Ya tomamos nuestra inmersión en el
 
 279
 00:07:05,990 --> 00:07:08,050
-modelo numénico y la verdad es
+Modelo Nouménico y la verdad es
 
 280
 00:07:08,050 --> 00:07:09,070
@@ -1428,7 +1428,7 @@ Y aquí es donde la comprensión
 
 358
 00:09:10,730 --> 00:09:12,730
-del modelo numénico se vuelve realmente
+del Modelo Nouménico se vuelve realmente
 
 359
 00:09:12,730 --> 00:09:14,930
@@ -1584,7 +1584,7 @@ Una hermosa metáfora.
 
 397
 00:10:14,210 --> 00:10:15,690
-Y el modelo numénico nos ofrece
+Y el Modelo Nouménico nos ofrece
 
 398
 00:10:15,690 --> 00:10:17,430
@@ -1660,7 +1660,7 @@ Esa es una pregunta que nos
 
 416
 00:10:44,590 --> 00:10:46,310
-lleva al corazón del modelo numénico,
+lleva al corazón del Modelo Nouménico,
 
 417
 00:10:46,510 --> 00:10:48,070
@@ -1680,11 +1680,11 @@ adentrarnos en otro concepto clave.
 
 421
 00:10:53,630 --> 00:10:54,330
-Los qubits.
+Los Qubits.
 
 422
 00:10:54,630 --> 00:10:55,370
-Los qubits.
+Los Qubits.
 
 423
 00:10:56,130 --> 00:10:57,510
@@ -1700,11 +1700,11 @@ Pero ¿qué papel juegan en el
 
 426
 00:11:01,410 --> 00:11:02,110
-modelo numénico?
+Modelo Nouménico?
 
 427
 00:11:02,150 --> 00:11:04,190
-Los qubits son las unidades de
+Los Qubits son las unidades de
 
 428
 00:11:04,190 --> 00:11:05,970
@@ -1712,7 +1712,7 @@ información que componen la realidad a
 
 429
 00:11:05,970 --> 00:11:07,030
-nivel de Neumann.
+nivel de Noúmeno.
 
 430
 00:11:07,030 --> 00:11:08,610
@@ -1728,7 +1728,7 @@ multidimensional.
 
 433
 00:11:11,050 --> 00:11:12,170
-Pero si los Neumann son las
+Pero si los Onemuones son las
 
 434
 00:11:12,170 --> 00:11:14,150
@@ -1736,19 +1736,19 @@ unidades mínimas de información, ¿cuál
 
 435
 00:11:14,150 --> 00:11:16,050
-es la diferencia entre un Neumann
+es la diferencia entre un Onemuones
 
 436
 00:11:16,050 --> 00:11:16,770
-y un qubit?
+y un Qubit?
 
 437
 00:11:17,070 --> 00:11:19,090
-El modelo numénico describe los Neumann
+El Modelo Nouménico describe los Onemuones
 
 438
 00:11:19,090 --> 00:11:21,110
-como manifestaciones de los qubits en
+como manifestaciones de los Qubits en
 
 439
 00:11:21,110 --> 00:11:22,630
@@ -1756,7 +1756,7 @@ un nivel de realidad más denso.
 
 440
 00:11:23,270 --> 00:11:24,550
-Los qubits son estructuras
+Los Qubits son estructuras
 
 441
 00:11:24,550 --> 00:11:26,410
@@ -1784,7 +1784,7 @@ Entonces, podríamos decir que los
 
 447
 00:11:34,990 --> 00:11:37,070
-qubits son como el código fuente
+Qubits son como el código fuente
 
 448
 00:11:37,070 --> 00:11:39,030
@@ -1812,7 +1812,7 @@ Y lo fascinante es que los
 
 454
 00:11:45,570 --> 00:11:47,590
-qubits no son simples unidades de
+Qubits no son simples unidades de
 
 455
 00:11:47,590 --> 00:11:48,590
@@ -1844,7 +1844,7 @@ tiene el poder de influir en
 
 462
 00:11:58,430 --> 00:11:59,010
-los qubits.
+los Qubits.
 
 463
 00:11:59,890 --> 00:12:00,950
@@ -1856,7 +1856,7 @@ O es.
 
 465
 00:12:01,670 --> 00:12:03,050
-Y el modelo numénico nos ofrece
+Y el Modelo Nouménico nos ofrece
 
 466
 00:12:03,050 --> 00:12:04,450
@@ -1872,7 +1872,7 @@ conciencia y realidad.
 
 469
 00:12:08,210 --> 00:12:09,770
-Pero si los qubits están en
+Pero si los Qubits están en
 
 470
 00:12:09,770 --> 00:12:11,590
@@ -1916,7 +1916,7 @@ décadas.
 
 480
 00:12:23,970 --> 00:12:25,810
-Y el modelo numénico ofrece una
+Y el Modelo Nouménico ofrece una
 
 481
 00:12:25,810 --> 00:12:27,550
@@ -1992,7 +1992,7 @@ Así es.
 
 499
 00:12:54,490 --> 00:12:55,950
-Y el modelo numénico nos invita
+Y el Modelo Nouménico nos invita
 
 500
 00:12:55,950 --> 00:12:57,590
@@ -2024,7 +2024,7 @@ Retomamos nuestra inmersión en el
 
 507
 00:13:07,450 --> 00:13:08,270
-modelo numénico.
+Modelo Nouménico.
 
 508
 00:13:08,510 --> 00:13:09,930
@@ -2084,7 +2084,7 @@ Esa es la pregunta clave.
 
 522
 00:13:30,210 --> 00:13:31,550
-Y el modelo numénico, bueno, nos
+Y el Modelo Nouménico, bueno, nos
 
 523
 00:13:31,550 --> 00:13:32,870
@@ -2520,7 +2520,7 @@ separación.
 
 631
 00:16:22,130 --> 00:16:24,290
-Pero el modelo numénico nos ofrece
+Pero el Modelo Nouménico nos ofrece
 
 632
 00:16:24,290 --> 00:16:25,730
@@ -2532,7 +2532,7 @@ una perspectiva esperanzadora.
 
 634
 00:16:27,030 --> 00:16:28,790
-El modelo numénico nos dice que
+El Modelo Nouménico nos dice que
 
 635
 00:16:28,790 --> 00:16:30,530
@@ -2600,7 +2600,7 @@ Así es.
 
 651
 00:16:55,330 --> 00:16:56,790
-Y el modelo numénico nos ofrece
+Y el Modelo Nouménico nos ofrece
 
 652
 00:16:56,790 --> 00:16:58,750
@@ -2644,7 +2644,7 @@ esta inversión tan profunda en el
 
 662
 00:17:14,810 --> 00:17:15,609
-modelo numénico.
+Modelo Nouménico.
 
 663
 00:17:15,770 --> 00:17:15,990
@@ -2688,7 +2688,7 @@ ha sido para nosotros.
 
 673
 00:17:29,350 --> 00:17:30,730
-Recuerden que el modelo numénico es
+Recuerden que el Modelo Nouménico es
 
 674
 00:17:30,730 --> 00:17:32,290
@@ -3512,7 +3512,7 @@ de antena o precipitador
 
 879
 00:23:49,650 --> 00:23:52,170
-que convierte información no-huménica
+que convierte información nouménica
 
 880
 00:23:52,170 --> 00:23:54,490
@@ -3924,11 +3924,11 @@ uno de los números más famosos
 
 982
 00:27:07,330 --> 00:27:10,190
-y misteriosos, el número phi, la
+y misteriosos, el número Phi (φ)
 
 983
 00:27:10,190 --> 00:27:12,830
-proporción áurea, la proporción que
+la proporción áurea, la proporción que
 
 984
 00:27:12,830 --> 00:27:14,710
@@ -3948,7 +3948,7 @@ Si una galaxia y una flor
 
 988
 00:27:19,990 --> 00:27:21,970
-necesitan usar el concepto de phi
+necesitan usar el concepto de Phi (φ)
 
 989
 00:27:21,970 --> 00:27:24,230
@@ -3956,7 +3956,7 @@ para estructurarse, necesitan dos
 
 990
 00:27:24,230 --> 00:27:25,390
-copias del onemón de phi.
+copias del onemón de Phi (φ).
 
 991
 00:27:26,710 --> 00:27:28,410
@@ -4012,7 +4012,7 @@ O sea, es la máxima eficiencia.
 
 1004
 00:27:53,910 --> 00:27:56,770
-No necesitas un onemón de phi
+No necesitas un onemón de Phi (φ)
 
 1005
 00:27:56,770 --> 00:27:58,790
@@ -4072,15 +4072,15 @@ Es una optimización a escala cósmica.
 
 1019
 00:28:21,570 --> 00:28:23,570
-Retomemos el ejemplo de phi, porque
+Retomemos el ejemplo de Phi (φ)
 
 1020
 00:28:23,570 --> 00:28:25,430
-esta parte de los documentos me
+porque esta parte de los documentos
 
 1021
 00:28:25,430 --> 00:28:27,770
-pareció, bueno, casi de ciencia
+me pareció, bueno, casi de ciencia
 
 1022
 00:28:27,770 --> 00:28:28,310
@@ -4272,7 +4272,7 @@ un conjunto de esferas aisladas, sino
 
 1069
 00:29:53,630 --> 00:29:55,990
-una red infinita de onemones
+una red infinita de Onemuones
 
 1070
 00:29:55,990 --> 00:29:58,450
