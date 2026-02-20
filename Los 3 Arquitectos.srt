@@ -1,6 +1,6 @@
 1
 00:00:00,790 --> 00:00:01,670
-(Transcrito por TurboScribe.ai. Actualizar a Ilimitado para eliminar este mensaje.) Bienvenidas y bienvenidos a
+Bienvenidas y bienvenidos a
 
 2
 00:00:01,670 --> 00:00:02,910
@@ -2117,3 +2117,4 @@ Un tema para seguir
 530
 00:12:35,410 --> 00:12:36,430
 explorando, sin duda.
+
