@@ -1,0 +1,2119 @@
+1
+00:00:00,790 --> 00:00:01,670
+(Transcrito por TurboScribe.ai. Actualizar a Ilimitado para eliminar este mensaje.) Bienvenidas y bienvenidos a
+
+2
+00:00:01,670 --> 00:00:02,910
+nuestra exploración de hoy.
+
+3
+00:00:03,470 --> 00:00:05,150
+Tenemos sobre la mesa una
+
+4
+00:00:05,150 --> 00:00:07,050
+fuente fascinante titulada
+
+5
+00:00:07,050 --> 00:00:10,330
+Los tres arquitectos y
+
+6
+00:00:10,330 --> 00:00:11,630
+nos propone una idea que
+
+7
+00:00:11,630 --> 00:00:13,350
+es como mínimo vertiginosa,
+
+8
+00:00:13,350 --> 00:00:14,970
+que los nombres de antiguas
+
+9
+00:00:14,970 --> 00:00:17,110
+deidades no son solo mitos,
+
+10
+00:00:17,130 --> 00:00:18,930
+no, sino una especie de
+
+11
+00:00:18,930 --> 00:00:20,330
+código fuente que describe la
+
+12
+00:00:20,330 --> 00:00:21,410
+arquitectura de la realidad
+
+13
+00:00:21,410 --> 00:00:21,790
+misma.
+
+14
+00:00:22,230 --> 00:00:22,710
+Así es.
+
+15
+00:00:23,210 --> 00:00:24,570
+La premisa es que existen
+
+16
+00:00:24,570 --> 00:00:25,430
+tres algoritmos
+
+17
+00:00:25,430 --> 00:00:27,290
+fundamentales, digamos tres
+
+18
+00:00:27,290 --> 00:00:29,150
+arquetipos que impulsan la
+
+19
+00:00:29,150 --> 00:00:30,110
+lógica de lo que el
+
+20
+00:00:30,110 --> 00:00:31,729
+texto llama la conciencia
+
+21
+00:00:31,729 --> 00:00:32,330
+universal.
+
+22
+00:00:33,230 --> 00:00:33,330
+Claro.
+
+23
+00:00:33,610 --> 00:00:34,930
+Y para quienes ya conocen
+
+24
+00:00:34,930 --> 00:00:36,450
+el modelo numénico, vamos a
+
+25
+00:00:36,450 --> 00:00:37,870
+saltarnos la introducción y a
+
+26
+00:00:37,870 --> 00:00:38,930
+meternos de lleno en esto.
+
+27
+00:00:39,150 --> 00:00:39,730
+Exacto.
+
+28
+00:00:40,050 --> 00:00:41,510
+Vamos al núcleo de estos
+
+29
+00:00:41,510 --> 00:00:42,450
+tres arquitectos.
+
+30
+00:00:43,010 --> 00:00:45,170
+La idea que es potentísima
+
+31
+00:00:45,170 --> 00:00:47,130
+es que sus nombres Samael,
+
+32
+00:00:47,490 --> 00:00:49,590
+Sacklas y Cristos no son
+
+33
+00:00:49,590 --> 00:00:50,890
+para nada casuales.
+
+34
+00:00:51,190 --> 00:00:52,090
+No la fuente sugiere que
+
+35
+00:00:52,090 --> 00:00:53,830
+son decodificaciones, como si
+
+36
+00:00:53,830 --> 00:00:54,830
+la mente humana intentara
+
+37
+00:00:54,830 --> 00:00:56,110
+traducir una realidad mucho
+
+38
+00:00:56,110 --> 00:00:56,870
+más profunda.
+
+39
+00:00:57,290 --> 00:00:59,070
+Justo que cada letra, cada
+
+40
+00:00:59,070 --> 00:01:01,370
+raíz es una pista.
+
+41
+00:01:01,710 --> 00:01:03,110
+Es como si fuéramos a
+
+42
+00:01:03,110 --> 00:01:05,790
+ser un poco de, no
+
+43
+00:01:05,790 --> 00:01:08,530
+sé, de arqueología cósmica.
+
+44
+00:01:08,970 --> 00:01:10,070
+Me gusta esa analogía.
+
+45
+00:01:10,370 --> 00:01:10,510
+Sí.
+
+46
+00:01:11,090 --> 00:01:12,870
+Arqueología del software del
+
+47
+00:01:12,870 --> 00:01:14,870
+universo y el texto es
+
+48
+00:01:14,870 --> 00:01:15,390
+muy claro.
+
+49
+00:01:15,930 --> 00:01:17,650
+No hablamos de figuras con
+
+50
+00:01:17,650 --> 00:01:18,710
+barba y sandalias.
+
+51
+00:01:19,150 --> 00:01:20,950
+Cero son algoritmos
+
+52
+00:01:20,950 --> 00:01:22,290
+ontológicos.
+
+53
+00:01:22,290 --> 00:01:23,570
+A ver, para que empecemos
+
+54
+00:01:23,570 --> 00:01:24,890
+todas y todos en la
+
+55
+00:01:24,890 --> 00:01:25,550
+misma página.
+
+56
+00:01:25,810 --> 00:01:27,470
+¿Qué significa exactamente
+
+57
+00:01:27,470 --> 00:01:28,890
+algoritmo ontológico?
+
+58
+00:01:29,250 --> 00:01:30,270
+¿Podemos bajarlo a tierra?
+
+59
+00:01:30,570 --> 00:01:31,130
+Por supuesto.
+
+60
+00:01:32,230 --> 00:01:33,170
+Imagina que en vez de
+
+61
+00:01:33,170 --> 00:01:34,550
+un dios que toma decisiones,
+
+62
+00:01:34,910 --> 00:01:36,170
+tienes una regla fundamental
+
+63
+00:01:36,170 --> 00:01:36,810
+del sistema.
+
+64
+00:01:37,350 --> 00:01:37,630
+Ok.
+
+65
+00:01:37,990 --> 00:01:40,590
+Una instrucción base en el
+
+66
+00:01:40,590 --> 00:01:42,330
+en el sistema operativo del
+
+67
+00:01:42,330 --> 00:01:42,610
+ser.
+
+68
+00:01:42,890 --> 00:01:44,730
+Un algoritmo ontológico sería
+
+69
+00:01:44,730 --> 00:01:45,110
+eso.
+
+70
+00:01:45,530 --> 00:01:47,270
+Una función primordial que
+
+71
+00:01:47,270 --> 00:01:48,990
+dicta cómo se comporta una
+
+72
+00:01:48,990 --> 00:01:50,070
+parte de la realidad.
+
+73
+00:01:50,070 --> 00:01:51,810
+No piensa, no juzga.
+
+74
+00:01:52,430 --> 00:01:53,630
+Simplemente ejecuta su
+
+75
+00:01:53,630 --> 00:01:54,070
+función.
+
+76
+00:01:54,430 --> 00:01:54,990
+Exacto.
+
+77
+00:01:55,270 --> 00:01:56,450
+Son las reglas del juego,
+
+78
+00:01:56,790 --> 00:01:57,670
+no los jugadores.
+
+79
+00:01:58,030 --> 00:01:59,130
+Perfecto entendido.
+
+80
+00:01:59,350 --> 00:02:00,390
+Y lo más increíble es
+
+81
+00:02:00,390 --> 00:02:01,690
+que la fuente dice que
+
+82
+00:02:01,690 --> 00:02:02,850
+estas reglas tienen un
+
+83
+00:02:02,850 --> 00:02:04,250
+paralelo directo con la
+
+84
+00:02:04,250 --> 00:02:05,490
+física fundamental.
+
+85
+00:02:05,890 --> 00:02:06,750
+Ahí es donde se pone
+
+86
+00:02:06,750 --> 00:02:07,070
+bueno.
+
+87
+00:02:07,690 --> 00:02:08,250
+Totalmente.
+
+88
+00:02:08,830 --> 00:02:10,090
+¿Por dónde empezamos a
+
+89
+00:02:10,090 --> 00:02:10,730
+decodificar?
+
+90
+00:02:11,350 --> 00:02:12,630
+Empecemos por el principio
+
+91
+00:02:12,630 --> 00:02:13,610
+del orden universal.
+
+92
+00:02:14,150 --> 00:02:15,210
+El primer arquitecto que
+
+93
+00:02:15,210 --> 00:02:17,030
+vamos a analizar es Samael.
+
+94
+00:02:17,390 --> 00:02:18,750
+De acuerdo, Samael.
+
+95
+00:02:18,750 --> 00:02:20,670
+Según la fuente, es el
+
+96
+00:02:20,670 --> 00:02:22,350
+arquetipo ontológico 2
+
+97
+00:02:22,350 --> 00:02:24,630
+asociado al color azul y
+
+98
+00:02:24,630 --> 00:02:25,910
+al símbolo de Neptuno.
+
+99
+00:02:26,510 --> 00:02:27,830
+Su función es ser la
+
+100
+00:02:27,830 --> 00:02:29,330
+esencia del orden y la
+
+101
+00:02:29,330 --> 00:02:30,530
+inteligencia cósmica.
+
+102
+00:02:30,750 --> 00:02:32,330
+Básicamente, lo que da forma
+
+103
+00:02:32,330 --> 00:02:33,290
+y estructura a lo que
+
+104
+00:02:33,290 --> 00:02:34,550
+de otro modo sería puro
+
+105
+00:02:34,550 --> 00:02:34,910
+caos.
+
+106
+00:02:35,190 --> 00:02:36,210
+Pura potencialidad.
+
+107
+00:02:36,570 --> 00:02:37,610
+Y aquí viene la primera
+
+108
+00:02:37,610 --> 00:02:39,650
+conexión asombrosa con la
+
+109
+00:02:39,650 --> 00:02:39,930
+ciencia.
+
+110
+00:02:40,470 --> 00:02:41,670
+Este modelo lo asocia con
+
+111
+00:02:41,670 --> 00:02:43,190
+la fuerza nuclear fuerte y
+
+112
+00:02:43,190 --> 00:02:44,570
+la simetría SU3.
+
+113
+00:02:44,750 --> 00:02:46,010
+Espera, frena un momento.
+
+114
+00:02:46,010 --> 00:02:47,830
+Para quienes no somos físicos
+
+115
+00:02:47,830 --> 00:02:49,350
+nucleares, ¿qué es la fuerza
+
+116
+00:02:49,350 --> 00:02:50,510
+fuerte y qué es esa
+
+117
+00:02:50,510 --> 00:02:51,030
+simetría?
+
+118
+00:02:51,290 --> 00:02:51,550
+Claro.
+
+119
+00:02:52,150 --> 00:02:53,470
+Imagina la fuerza fuerte como
+
+120
+00:02:53,470 --> 00:02:55,190
+el pegamento más poderoso del
+
+121
+00:02:55,190 --> 00:02:55,550
+universo.
+
+122
+00:02:55,970 --> 00:02:56,530
+Ok.
+
+123
+00:02:56,870 --> 00:02:58,250
+Es lo que mantiene unidos
+
+124
+00:02:58,250 --> 00:02:59,550
+a los protones en el
+
+125
+00:02:59,550 --> 00:03:00,510
+núcleo de un átomo.
+
+126
+00:03:00,990 --> 00:03:02,990
+Evita que todo se desintegre.
+
+127
+00:03:03,290 --> 00:03:05,670
+Y la simetría SU3 es,
+
+128
+00:03:06,010 --> 00:03:07,610
+en términos simples, la
+
+129
+00:03:07,610 --> 00:03:09,730
+receta matemática de ese
+
+130
+00:03:09,730 --> 00:03:10,290
+pegamento.
+
+131
+00:03:11,090 --> 00:03:12,050
+O sea que el modelo
+
+132
+00:03:12,050 --> 00:03:13,770
+plantea que Samael es la
+
+133
+00:03:13,770 --> 00:03:15,730
+lógica detrás de esa receta.
+
+134
+00:03:15,730 --> 00:03:16,670
+Exactamente.
+
+135
+00:03:17,030 --> 00:03:18,410
+Es el principio que asegura
+
+136
+00:03:18,410 --> 00:03:19,530
+que los ladrillos de la
+
+137
+00:03:19,530 --> 00:03:21,050
+realidad se mantengan unidos.
+
+138
+00:03:21,650 --> 00:03:22,710
+Es el sustento de la
+
+139
+00:03:22,710 --> 00:03:23,950
+materia, literalmente.
+
+140
+00:03:24,390 --> 00:03:24,870
+Literalmente.
+
+141
+00:03:25,430 --> 00:03:26,450
+Pero aquí es donde me
+
+142
+00:03:26,450 --> 00:03:27,630
+surge una duda enorme.
+
+143
+00:03:28,190 --> 00:03:29,630
+El nombre Samael.
+
+144
+00:03:30,350 --> 00:03:31,670
+En hebreo, tengo entendido
+
+145
+00:03:31,670 --> 00:03:33,810
+que se traduce como veneno
+
+146
+00:03:33,810 --> 00:03:35,470
+de Dios o severidad de
+
+147
+00:03:35,470 --> 00:03:35,730
+Dios.
+
+148
+00:03:36,010 --> 00:03:36,270
+Sí.
+
+149
+00:03:36,510 --> 00:03:37,830
+Suena a una contradicción
+
+150
+00:03:37,830 --> 00:03:39,650
+gigantesca con la idea de
+
+151
+00:03:39,650 --> 00:03:40,950
+un orden que nos sustenta.
+
+152
+00:03:41,410 --> 00:03:42,670
+¿Cómo se resuelve eso?
+
+153
+00:03:42,970 --> 00:03:44,010
+Pues es que esa dualidad
+
+154
+00:03:44,010 --> 00:03:44,930
+es la clave de todo.
+
+155
+00:03:44,930 --> 00:03:46,410
+El texto nos invita a
+
+156
+00:03:46,410 --> 00:03:47,330
+ir más allá de la
+
+157
+00:03:47,330 --> 00:03:49,050
+traducción simple y analizar
+
+158
+00:03:49,050 --> 00:03:50,890
+el nombre letra por letra.
+
+159
+00:03:51,050 --> 00:03:51,970
+Como en la gematría.
+
+160
+00:03:52,410 --> 00:03:53,010
+Justo.
+
+161
+00:03:53,430 --> 00:03:54,610
+Cada letra hebrea tiene un
+
+162
+00:03:54,610 --> 00:03:55,870
+significado simbólico.
+
+163
+00:03:56,330 --> 00:03:58,170
+Samej es el sustento, la
+
+164
+00:03:58,170 --> 00:03:58,710
+estructura.
+
+165
+00:03:59,270 --> 00:04:00,870
+Mem representa las aguas
+
+166
+00:04:00,870 --> 00:04:02,390
+primordiales, el caos.
+
+167
+00:04:02,730 --> 00:04:03,830
+El caos inicial.
+
+168
+00:04:04,030 --> 00:04:05,570
+Alef es el origen, el
+
+169
+00:04:05,570 --> 00:04:06,370
+aliento divino.
+
+170
+00:04:06,810 --> 00:04:08,130
+Y lamed es la guía,
+
+171
+00:04:08,370 --> 00:04:09,050
+la enseñanza.
+
+172
+00:04:09,250 --> 00:04:10,170
+A ver si lo entiendo.
+
+173
+00:04:10,450 --> 00:04:12,710
+Si juntamos esas piezas, el
+
+174
+00:04:12,710 --> 00:04:14,530
+significado se transforma por
+
+175
+00:04:14,530 --> 00:04:14,930
+completo.
+
+176
+00:04:15,149 --> 00:04:15,790
+Totalmente.
+
+177
+00:04:16,209 --> 00:04:17,610
+La interpretación que propone
+
+178
+00:04:17,610 --> 00:04:19,890
+la fuente es, bueno, es
+
+179
+00:04:19,890 --> 00:04:20,589
+increíble.
+
+180
+00:04:21,170 --> 00:04:23,050
+Samael significaría algo como
+
+181
+00:04:23,050 --> 00:04:25,510
+el sustento ordenador que
+
+182
+00:04:25,510 --> 00:04:27,690
+emerge del caos, guiado por
+
+183
+00:04:27,690 --> 00:04:28,970
+el aliento divino para la
+
+184
+00:04:28,970 --> 00:04:30,370
+evolución de la conciencia.
+
+185
+00:04:30,630 --> 00:04:31,210
+Exacto.
+
+186
+00:04:31,410 --> 00:04:31,950
+Un momento.
+
+187
+00:04:32,250 --> 00:04:33,590
+Es que solo cambia todo.
+
+188
+00:04:34,150 --> 00:04:35,550
+O sea que, según esta
+
+189
+00:04:35,550 --> 00:04:37,250
+visión, no hablamos de una
+
+190
+00:04:37,250 --> 00:04:38,330
+entidad malvada.
+
+191
+00:04:38,490 --> 00:04:38,890
+Para nada.
+
+192
+00:04:39,230 --> 00:04:40,990
+Sino de un proceso cósmico.
+
+193
+00:04:40,990 --> 00:04:42,170
+Y la severidad o el
+
+194
+00:04:42,170 --> 00:04:43,410
+veneno sería solo nuestra
+
+195
+00:04:43,410 --> 00:04:44,810
+percepción de un orden que,
+
+196
+00:04:45,170 --> 00:04:46,570
+a veces, para crear algo
+
+197
+00:04:46,570 --> 00:04:48,170
+nuevo, tiene que destruir lo
+
+198
+00:04:48,170 --> 00:04:48,770
+antiguo.
+
+199
+00:04:48,810 --> 00:04:49,870
+Has dado en el clavo.
+
+200
+00:04:50,190 --> 00:04:51,930
+Es una idea potentísima y
+
+201
+00:04:51,930 --> 00:04:53,270
+se complica más con su
+
+202
+00:04:53,270 --> 00:04:54,310
+equivalente griego.
+
+203
+00:04:54,810 --> 00:04:56,730
+Apollyon, el destructor.
+
+204
+00:04:57,630 --> 00:04:58,810
+Parece otra contradicción,
+
+205
+00:04:59,010 --> 00:04:59,950
+pero no lo es si
+
+206
+00:04:59,950 --> 00:05:01,670
+entiendes esa destrucción
+
+207
+00:05:01,670 --> 00:05:01,970
+como.
+
+208
+00:05:02,630 --> 00:05:04,030
+Una reestructuración.
+
+209
+00:05:04,290 --> 00:05:04,750
+Exacto.
+
+210
+00:05:05,130 --> 00:05:06,390
+Como una actualización del
+
+211
+00:05:06,390 --> 00:05:06,730
+sistema.
+
+212
+00:05:07,410 --> 00:05:08,830
+Elimina las formas obsoletas
+
+213
+00:05:08,830 --> 00:05:09,810
+para imponer un orden
+
+214
+00:05:09,810 --> 00:05:10,270
+superior.
+
+215
+00:05:10,990 --> 00:05:12,530
+El problema, dice la fuente,
+
+216
+00:05:12,950 --> 00:05:14,330
+es que la cultura occidental,
+
+217
+00:05:14,730 --> 00:05:15,670
+a través de la iglesia,
+
+218
+00:05:16,150 --> 00:05:17,130
+simplificó todo.
+
+219
+00:05:17,390 --> 00:05:17,770
+Claro.
+
+220
+00:05:18,110 --> 00:05:19,370
+Mezcló la visión hebrea del
+
+221
+00:05:19,370 --> 00:05:21,330
+adversario con la griega y
+
+222
+00:05:21,330 --> 00:05:22,730
+lo convirtió en el
+
+223
+00:05:22,730 --> 00:05:25,010
+anticristo, corrompiendo por
+
+224
+00:05:25,010 --> 00:05:26,390
+completo la complejidad del
+
+225
+00:05:26,390 --> 00:05:27,130
+arquetipo.
+
+226
+00:05:27,410 --> 00:05:28,910
+Ok, ya tenemos la primera
+
+227
+00:05:28,910 --> 00:05:29,310
+pieza.
+
+228
+00:05:29,850 --> 00:05:30,930
+El arquitecto del orden
+
+229
+00:05:30,930 --> 00:05:31,430
+universal.
+
+230
+00:05:31,950 --> 00:05:33,770
+Pero ¿quién construye el
+
+231
+00:05:33,770 --> 00:05:34,590
+tablero de juego?
+
+232
+00:05:35,130 --> 00:05:36,190
+Ahí entra el segundo
+
+233
+00:05:36,190 --> 00:05:37,010
+arquitecto, ¿no?
+
+234
+00:05:37,590 --> 00:05:38,210
+Exactamente.
+
+235
+00:05:38,670 --> 00:05:40,430
+Ahí entra Sacklas, el
+
+236
+00:05:40,430 --> 00:05:42,350
+arquetipo ontológico 3,
+
+237
+00:05:42,890 --> 00:05:44,370
+asociado al rojo y al
+
+238
+00:05:44,370 --> 00:05:45,330
+zúmbulo de Plutón.
+
+239
+00:05:46,050 --> 00:05:47,810
+Si Samael es el software
+
+240
+00:05:47,810 --> 00:05:49,550
+universal, Sacklas es el que
+
+241
+00:05:49,550 --> 00:05:51,190
+construye el hardware local,
+
+242
+00:05:51,430 --> 00:05:53,650
+el hardware fenoménico, dice
+
+243
+00:05:53,650 --> 00:05:54,130
+el texto.
+
+244
+00:05:54,770 --> 00:05:56,050
+Te refieres a la realidad
+
+245
+00:05:56,050 --> 00:05:58,030
+física que podemos tocar y
+
+246
+00:05:58,030 --> 00:05:59,510
+medir, el mundo material.
+
+247
+00:05:59,990 --> 00:06:00,630
+Precisamente.
+
+248
+00:06:01,150 --> 00:06:02,470
+Su función es generar la
+
+249
+00:06:02,470 --> 00:06:03,890
+materia y la energía a
+
+250
+00:06:03,890 --> 00:06:05,170
+partir de ese caos que
+
+251
+00:06:05,170 --> 00:06:05,970
+Samael ordena.
+
+252
+00:06:06,510 --> 00:06:07,690
+El texto lo describe como
+
+253
+00:06:07,690 --> 00:06:09,450
+la mente local del nodo
+
+254
+00:06:09,450 --> 00:06:09,850
+estelar.
+
+255
+00:06:09,950 --> 00:06:11,010
+Mente local.
+
+256
+00:06:11,230 --> 00:06:13,330
+Sí, es autoconsciente, pero
+
+257
+00:06:13,330 --> 00:06:14,930
+su percepción está limitada a
+
+258
+00:06:14,930 --> 00:06:15,750
+su propia creación.
+
+259
+00:06:16,310 --> 00:06:17,790
+Es en cierto modo ciego
+
+260
+00:06:17,790 --> 00:06:18,690
+a lo que hay más
+
+261
+00:06:18,690 --> 00:06:18,910
+allá.
+
+262
+00:06:19,150 --> 00:06:20,230
+¿Y esa se llena es
+
+263
+00:06:20,230 --> 00:06:20,970
+un defecto?
+
+264
+00:06:21,070 --> 00:06:22,770
+Al contrario, es un mayor
+
+265
+00:06:22,770 --> 00:06:23,210
+virtud.
+
+266
+00:06:23,930 --> 00:06:24,990
+Esa limitación es lo que
+
+267
+00:06:24,990 --> 00:06:26,130
+permite que nuestra realidad
+
+268
+00:06:26,130 --> 00:06:27,550
+física sea estable,
+
+269
+00:06:27,890 --> 00:06:28,610
+determinista.
+
+270
+00:06:28,830 --> 00:06:30,710
+Que la manzana siempre caiga
+
+271
+00:06:30,710 --> 00:06:31,170
+al suelo.
+
+272
+00:06:31,350 --> 00:06:31,730
+Justo.
+
+273
+00:06:32,170 --> 00:06:33,530
+Su conexión científica es con
+
+274
+00:06:33,530 --> 00:06:35,230
+la fuerza electromagnética y
+
+275
+00:06:35,230 --> 00:06:37,370
+la simetría U1, la fuerza
+
+276
+00:06:37,370 --> 00:06:38,730
+que estructura los átomos en
+
+277
+00:06:38,730 --> 00:06:40,330
+moléculas y, bueno, todo lo
+
+278
+00:06:40,330 --> 00:06:41,030
+que percibimos.
+
+279
+00:06:41,150 --> 00:06:41,770
+Entendido.
+
+280
+00:06:42,250 --> 00:06:43,970
+Ahora, el nombre, de nuevo,
+
+281
+00:06:44,090 --> 00:06:44,990
+es muy provocador.
+
+282
+00:06:45,630 --> 00:06:47,270
+Zaklas viene del arameo y
+
+283
+00:06:47,270 --> 00:06:49,390
+significa el tonto o el
+
+284
+00:06:49,390 --> 00:06:49,730
+ciego.
+
+285
+00:06:49,990 --> 00:06:50,090
+Sí.
+
+286
+00:06:50,430 --> 00:06:52,050
+Encaja con la idea de
+
+287
+00:06:52,050 --> 00:06:54,250
+una conciencia limitada, pero
+
+288
+00:06:54,250 --> 00:06:55,270
+sigue sonando un poco
+
+289
+00:06:55,270 --> 00:06:56,190
+despectivo, ¿no?
+
+290
+00:06:56,470 --> 00:06:58,590
+Lo parece, hasta que volvemos
+
+291
+00:06:58,590 --> 00:06:59,910
+a decodificar las letras.
+
+292
+00:07:00,330 --> 00:07:01,810
+De nuevo, revelan una
+
+293
+00:07:01,810 --> 00:07:03,410
+función, no un juicio.
+
+294
+00:07:03,870 --> 00:07:04,230
+A ver.
+
+295
+00:07:04,690 --> 00:07:06,330
+Sameh es la estructura que
+
+296
+00:07:06,330 --> 00:07:06,790
+contiene.
+
+297
+00:07:07,450 --> 00:07:08,890
+Kaf es la palma de
+
+298
+00:07:08,890 --> 00:07:10,450
+la mano, la que moldea
+
+299
+00:07:10,450 --> 00:07:11,270
+activamente.
+
+300
+00:07:11,930 --> 00:07:13,770
+Lamed es la autoridad local,
+
+301
+00:07:14,290 --> 00:07:15,610
+el aprendizaje dentro de su
+
+302
+00:07:15,610 --> 00:07:16,070
+dominio.
+
+303
+00:07:16,550 --> 00:07:18,270
+Y Aleph, de nuevo, lo
+
+304
+00:07:18,270 --> 00:07:19,290
+conecta con el origen.
+
+305
+00:07:19,690 --> 00:07:21,870
+Entonces, su ceguera es en
+
+306
+00:07:21,870 --> 00:07:22,510
+realidad una
+
+307
+00:07:22,510 --> 00:07:23,790
+hiperconcentración.
+
+308
+00:07:24,070 --> 00:07:24,870
+Esa es la idea.
+
+309
+00:07:25,110 --> 00:07:26,910
+Está tan ocupado construyendo
+
+310
+00:07:26,910 --> 00:07:28,490
+nuestra realidad átomo por
+
+311
+00:07:28,490 --> 00:07:29,390
+átomo que no mira hacia
+
+312
+00:07:29,390 --> 00:07:29,670
+afuera.
+
+313
+00:07:30,270 --> 00:07:31,270
+¿Tiene mucho más sentido?
+
+314
+00:07:31,910 --> 00:07:33,490
+El significado que emerge es
+
+315
+00:07:33,490 --> 00:07:35,610
+ese, el estructurador activo
+
+316
+00:07:35,610 --> 00:07:36,750
+que manifiesta el orden
+
+317
+00:07:36,750 --> 00:07:38,670
+local, aprendiendo dentro de
+
+318
+00:07:38,670 --> 00:07:39,710
+sus propios límites.
+
+319
+00:07:40,450 --> 00:07:41,350
+Su tontería es una
+
+320
+00:07:41,350 --> 00:07:43,310
+especialización absoluta, no
+
+321
+00:07:43,310 --> 00:07:44,130
+una deficiencia.
+
+322
+00:07:44,510 --> 00:07:45,850
+Entonces tenemos una fuerza
+
+323
+00:07:45,850 --> 00:07:47,730
+de orden universal y una
+
+324
+00:07:47,730 --> 00:07:48,950
+de manifestación local.
+
+325
+00:07:49,350 --> 00:07:50,790
+¿Son como dos polos opuestos?
+
+326
+00:07:51,170 --> 00:07:52,470
+Una tensión dialéctica.
+
+327
+00:07:52,950 --> 00:07:53,790
+Naturalmente, uno se
+
+328
+00:07:53,790 --> 00:07:55,490
+pregunta, ¿qué las conecta?
+
+329
+00:07:55,910 --> 00:07:57,130
+Supongo que ahí es donde
+
+330
+00:07:57,130 --> 00:07:58,570
+entra el tercer arquitecto,
+
+331
+00:07:58,870 --> 00:07:59,370
+Cristos.
+
+332
+00:07:59,650 --> 00:08:00,990
+Has llegado al corazón de
+
+333
+00:08:00,990 --> 00:08:01,490
+la triada.
+
+334
+00:08:01,490 --> 00:08:03,250
+Cristos, el arquetipo
+
+335
+00:08:03,250 --> 00:08:04,930
+ontológico 1, asociado al
+
+336
+00:08:04,930 --> 00:08:05,990
+verbe y al símbolo de
+
+337
+00:08:05,990 --> 00:08:08,290
+Urano, es exactamente eso, el
+
+338
+00:08:08,290 --> 00:08:09,770
+puente, la síntesis.
+
+339
+00:08:10,090 --> 00:08:11,630
+¿Lo que emerge del choque
+
+340
+00:08:11,630 --> 00:08:13,150
+entre las otras dos fuerzas?
+
+341
+00:08:13,650 --> 00:08:14,550
+Es el algoritmo
+
+342
+00:08:14,550 --> 00:08:16,310
+sincronizador, y esto tiene
+
+343
+00:08:16,310 --> 00:08:17,870
+una manifestación muy directa
+
+344
+00:08:17,870 --> 00:08:18,350
+en nosotros.
+
+345
+00:08:18,570 --> 00:08:19,190
+En nosotros.
+
+346
+00:08:19,490 --> 00:08:19,790
+Sí.
+
+347
+00:08:20,370 --> 00:08:21,450
+La fuente afirma que nuestro
+
+348
+00:08:21,450 --> 00:08:23,350
+propio yo egoico, nuestra
+
+349
+00:08:23,350 --> 00:08:24,270
+sensación de ser un
+
+350
+00:08:24,270 --> 00:08:25,710
+individuo, es el producto
+
+351
+00:08:25,710 --> 00:08:27,610
+tangible de este arquetipo.
+
+352
+00:08:27,610 --> 00:08:28,230
+¡Guau!
+
+353
+00:08:28,370 --> 00:08:29,530
+Es el punto donde lo
+
+354
+00:08:29,530 --> 00:08:31,169
+universal y lo local se
+
+355
+00:08:31,169 --> 00:08:31,770
+encuentran.
+
+356
+00:08:31,950 --> 00:08:33,110
+Y crean una experiencia
+
+357
+00:08:33,110 --> 00:08:33,830
+consciente.
+
+358
+00:08:34,169 --> 00:08:35,570
+En física, se conecta con
+
+359
+00:08:35,570 --> 00:08:37,110
+la fuerza nuclear débil y
+
+360
+00:08:37,110 --> 00:08:38,690
+la simetría SU2.
+
+361
+00:08:38,970 --> 00:08:40,210
+A ver, momento de la
+
+362
+00:08:40,210 --> 00:08:41,030
+traducción de nuevo.
+
+363
+00:08:41,630 --> 00:08:42,770
+¿Qué hace la fuerza débil?
+
+364
+00:08:43,110 --> 00:08:44,150
+La fuerza débil es
+
+365
+00:08:44,150 --> 00:08:44,670
+fascinante.
+
+366
+00:08:45,090 --> 00:08:46,010
+Es responsable de las
+
+367
+00:08:46,010 --> 00:08:46,650
+transformaciones.
+
+368
+00:08:47,210 --> 00:08:48,170
+Por ejemplo, que una
+
+369
+00:08:48,170 --> 00:08:49,250
+partícula se convierta en
+
+370
+00:08:49,250 --> 00:08:49,430
+otra.
+
+371
+00:08:49,710 --> 00:08:51,050
+O sea, es la que
+
+372
+00:08:51,050 --> 00:08:52,790
+media, la que conecta.
+
+373
+00:08:53,130 --> 00:08:54,410
+Es el puente entre las
+
+374
+00:08:54,410 --> 00:08:55,430
+otras interacciones.
+
+375
+00:08:55,430 --> 00:08:57,930
+La analogía es perfecta.
+
+376
+00:08:58,110 --> 00:08:58,910
+Es increíble.
+
+377
+00:08:59,490 --> 00:09:00,570
+A diario sentimos esa
+
+378
+00:09:00,570 --> 00:09:01,390
+tensión, ¿no?
+
+379
+00:09:01,530 --> 00:09:02,690
+Entre seguir las reglas
+
+380
+00:09:02,690 --> 00:09:04,330
+universales y el deseo de
+
+381
+00:09:04,330 --> 00:09:05,470
+manifestar nuestra realidad
+
+382
+00:09:05,470 --> 00:09:05,970
+local.
+
+383
+00:09:06,450 --> 00:09:08,290
+Y pensar que ese conflicto
+
+384
+00:09:08,290 --> 00:09:09,570
+interno es un eco de
+
+385
+00:09:09,570 --> 00:09:10,750
+una dinámica cósmica.
+
+386
+00:09:11,050 --> 00:09:12,210
+Es para volar la cabeza.
+
+387
+00:09:12,590 --> 00:09:13,190
+Totalmente.
+
+388
+00:09:13,550 --> 00:09:15,590
+Y el nombre, Cristos, lo
+
+389
+00:09:15,590 --> 00:09:16,290
+codifica todo.
+
+390
+00:09:16,910 --> 00:09:18,370
+En griego significa el
+
+391
+00:09:18,370 --> 00:09:18,790
+ungido.
+
+392
+00:09:19,230 --> 00:09:20,590
+Pero el análisis simbólico de
+
+393
+00:09:20,590 --> 00:09:22,210
+sus letras griegas describe
+
+394
+00:09:22,210 --> 00:09:24,090
+un proceso, no una persona.
+
+395
+00:09:24,090 --> 00:09:25,050
+¿Qué proceso?
+
+396
+00:09:25,430 --> 00:09:26,590
+El punto de síntesis
+
+397
+00:09:26,590 --> 00:09:27,850
+originario de la conciencia
+
+398
+00:09:27,850 --> 00:09:29,450
+unificada, que sella el fin
+
+399
+00:09:29,450 --> 00:09:30,490
+de un ciclo para una
+
+400
+00:09:30,490 --> 00:09:31,670
+nueva manifestación.
+
+401
+00:09:31,870 --> 00:09:32,850
+Y la fuente hace una
+
+402
+00:09:32,850 --> 00:09:34,050
+distinción muy importante
+
+403
+00:09:34,050 --> 00:09:34,350
+aquí.
+
+404
+00:09:34,850 --> 00:09:36,270
+Entre Cristo, la figura
+
+405
+00:09:36,270 --> 00:09:38,510
+histórica, y Cristos, con esa
+
+406
+00:09:38,510 --> 00:09:40,150
+sigma final, la astígoa.
+
+407
+00:09:40,450 --> 00:09:41,370
+¿Por qué es tan relevante
+
+408
+00:09:41,370 --> 00:09:41,810
+esa letra?
+
+409
+00:09:42,110 --> 00:09:44,030
+Esa sigma final lo cambia
+
+410
+00:09:44,030 --> 00:09:44,330
+todo.
+
+411
+00:09:44,750 --> 00:09:45,930
+Sugiere un ciclo ya
+
+412
+00:09:45,930 --> 00:09:46,650
+completado.
+
+413
+00:09:47,230 --> 00:09:48,390
+Un algoritmo universal que ha
+
+414
+00:09:48,390 --> 00:09:49,490
+alcanzado su plenitud.
+
+415
+00:09:49,910 --> 00:09:51,210
+Es la síntesis ya lograda.
+
+416
+00:09:52,070 --> 00:09:53,010
+Y la cosa no acaba
+
+417
+00:09:53,010 --> 00:09:53,310
+ahí.
+
+418
+00:09:53,310 --> 00:09:55,150
+El texto señala una
+
+419
+00:09:55,150 --> 00:09:56,670
+sincronicidad en su
+
+420
+00:09:56,670 --> 00:09:58,790
+equivalente hebreo, mashíaj,
+
+421
+00:09:58,930 --> 00:10:00,190
+que es asombrosa.
+
+422
+00:10:00,470 --> 00:10:01,470
+Sí, este es uno de
+
+423
+00:10:01,470 --> 00:10:02,750
+los puntos más impactantes.
+
+424
+00:10:03,330 --> 00:10:04,370
+Es como encontrar un easter
+
+425
+00:10:04,370 --> 00:10:05,250
+egg en el código del
+
+426
+00:10:05,250 --> 00:10:05,590
+universo.
+
+427
+00:10:06,310 --> 00:10:07,050
+¿A qué te refieres?
+
+428
+00:10:07,370 --> 00:10:08,610
+Dentro de la propia palabra
+
+429
+00:10:08,610 --> 00:10:10,570
+hebrea mashíaj, mashíaj, se
+
+430
+00:10:10,570 --> 00:10:11,770
+ocultan los símbolos de los
+
+431
+00:10:11,770 --> 00:10:12,950
+otros dos arquetipos.
+
+432
+00:10:13,510 --> 00:10:14,850
+La letra shin tiene un
+
+433
+00:10:14,850 --> 00:10:16,390
+glifo muy similar al tridente
+
+434
+00:10:16,390 --> 00:10:16,950
+de Neptuno.
+
+435
+00:10:17,550 --> 00:10:19,070
+El símbolo de Samael.
+
+436
+00:10:19,070 --> 00:10:20,670
+La letra nem, en su
+
+437
+00:10:20,670 --> 00:10:22,230
+forma final, se asemeja al
+
+438
+00:10:22,230 --> 00:10:23,050
+símbolo de Plutón.
+
+439
+00:10:23,510 --> 00:10:24,270
+El de Sacklass.
+
+440
+00:10:24,450 --> 00:10:25,610
+Y la letra chet, que
+
+441
+00:10:25,610 --> 00:10:26,970
+simboliza un umbral, una
+
+442
+00:10:26,970 --> 00:10:28,450
+conexión, es parecida al
+
+443
+00:10:28,450 --> 00:10:29,190
+símbolo de Urano.
+
+444
+00:10:29,890 --> 00:10:30,690
+El de Cristos.
+
+445
+00:10:31,210 --> 00:10:32,130
+No puede ser.
+
+446
+00:10:32,470 --> 00:10:33,190
+Increíble, ¿no?
+
+447
+00:10:33,370 --> 00:10:34,710
+Es que el mismo nombre
+
+448
+00:10:34,710 --> 00:10:37,230
+mashíaj es como un archivo
+
+449
+00:10:37,230 --> 00:10:39,350
+comprimido que contiene a los
+
+450
+00:10:39,350 --> 00:10:39,950
+otros dos.
+
+451
+00:10:40,410 --> 00:10:42,730
+La síntesis está codificada
+
+452
+00:10:42,730 --> 00:10:43,810
+en la palabra misma.
+
+453
+00:10:44,170 --> 00:10:45,170
+Eso ya no parece una
+
+454
+00:10:45,170 --> 00:10:46,150
+simple coincidencia.
+
+455
+00:10:46,290 --> 00:10:47,970
+Es un nivel de sincronicidad
+
+456
+00:10:47,970 --> 00:10:48,410
+brutal.
+
+457
+00:10:48,410 --> 00:10:49,830
+Desde el punto de vista
+
+458
+00:10:49,830 --> 00:10:51,130
+de este modelo, no es
+
+459
+00:10:51,130 --> 00:10:51,770
+coincidencia.
+
+460
+00:10:52,010 --> 00:10:52,970
+Es la prueba de que
+
+461
+00:10:52,970 --> 00:10:54,710
+la conciencia humana, al
+
+462
+00:10:54,710 --> 00:10:56,150
+nombrar estos conceptos,
+
+463
+00:10:56,310 --> 00:10:57,150
+estaba en realidad
+
+464
+00:10:57,150 --> 00:10:59,130
+decodificando una estructura
+
+465
+00:10:59,130 --> 00:10:59,750
+fundamental.
+
+466
+00:11:00,010 --> 00:11:00,910
+Aunque no lo supiera.
+
+467
+00:11:01,270 --> 00:11:03,410
+Entonces, recapitulando, no
+
+468
+00:11:03,410 --> 00:11:05,190
+hablamos de tres arquitectos
+
+469
+00:11:05,190 --> 00:11:06,630
+trabajando por separado.
+
+470
+00:11:06,950 --> 00:11:08,230
+Es más bien un proceso,
+
+471
+00:11:08,590 --> 00:11:09,950
+una danza en tres pasos.
+
+472
+00:11:10,050 --> 00:11:10,530
+Totalmente.
+
+473
+00:11:10,690 --> 00:11:12,110
+Tenemos el orden universal,
+
+474
+00:11:12,530 --> 00:11:14,550
+Samael, que interactúa con la
+
+475
+00:11:14,550 --> 00:11:15,670
+manifestación local,
+
+476
+00:11:15,970 --> 00:11:17,890
+Sacklass, para producir en su
+
+477
+00:11:17,890 --> 00:11:19,790
+encuentro una síntesis
+
+478
+00:11:19,790 --> 00:11:21,070
+consciente y experimental,
+
+479
+00:11:21,670 --> 00:11:22,190
+Cristos.
+
+480
+00:11:22,670 --> 00:11:24,250
+Y lo crucial, como decías
+
+481
+00:11:24,250 --> 00:11:26,190
+antes, es que este proceso
+
+482
+00:11:26,190 --> 00:11:27,430
+no es algo ajeno.
+
+483
+00:11:28,050 --> 00:11:29,750
+Resuena constantemente dentro
+
+484
+00:11:29,750 --> 00:11:31,350
+de nuestra propia conciencia.
+
+485
+00:11:31,830 --> 00:11:32,570
+Exacto.
+
+486
+00:11:33,210 --> 00:11:34,810
+La tensión entre lo universal
+
+487
+00:11:34,810 --> 00:11:36,890
+y lo local, la estructura
+
+488
+00:11:36,890 --> 00:11:37,810
+y la libertad.
+
+489
+00:11:38,230 --> 00:11:38,950
+Todo eso se está
+
+490
+00:11:38,950 --> 00:11:40,170
+desarrollando ahora mismo
+
+491
+00:11:40,170 --> 00:11:41,470
+dentro de la experiencia
+
+492
+00:11:41,470 --> 00:11:43,130
+humana, con nuestro yo como
+
+493
+00:11:43,130 --> 00:11:44,090
+punto de síntesis.
+
+494
+00:11:44,090 --> 00:11:45,390
+Lo que nos deja con
+
+495
+00:11:45,390 --> 00:11:47,610
+un pensamiento final bastante
+
+496
+00:11:48,730 --> 00:11:50,530
+inquietante para reflexionar.
+
+497
+00:11:50,750 --> 00:11:51,650
+La fuente menciona
+
+498
+00:11:51,650 --> 00:11:52,730
+repetidamente cómo el
+
+499
+00:11:52,730 --> 00:11:54,150
+significado original de estos
+
+500
+00:11:54,150 --> 00:11:56,390
+arquetipos se ha corrompido o
+
+501
+00:11:56,390 --> 00:11:57,710
+simplificado a lo largo de
+
+502
+00:11:57,710 --> 00:11:58,150
+la historia.
+
+503
+00:11:58,930 --> 00:12:00,550
+Vimos cómo Samael pasó de
+
+504
+00:12:00,550 --> 00:12:01,690
+ser un principio de orden
+
+505
+00:12:01,690 --> 00:12:03,930
+cósmico a, bueno, una figura
+
+506
+00:12:03,930 --> 00:12:04,610
+del mal puro.
+
+507
+00:12:04,830 --> 00:12:05,030
+Sí.
+
+508
+00:12:05,310 --> 00:12:06,130
+La pregunta que queda
+
+509
+00:12:06,130 --> 00:12:07,070
+flotando es profunda.
+
+510
+00:12:07,390 --> 00:12:07,890
+Plenteala.
+
+511
+00:12:08,170 --> 00:12:09,650
+Si los nombres y conceptos
+
+512
+00:12:09,650 --> 00:12:10,910
+que usamos para describir la
+
+513
+00:12:10,910 --> 00:12:12,450
+realidad son, en sí mismos,
+
+514
+00:12:12,830 --> 00:12:13,850
+códigos operativos que
+
+515
+00:12:13,850 --> 00:12:15,410
+interactúan con ella, ¿qué
+
+516
+00:12:15,410 --> 00:12:16,990
+sucede cuando esos códigos se
+
+517
+00:12:16,990 --> 00:12:17,470
+degradan?
+
+518
+00:12:19,470 --> 00:12:20,750
+¿Cómo cambia nuestra
+
+519
+00:12:20,750 --> 00:12:22,210
+percepción del universo y
+
+520
+00:12:22,210 --> 00:12:23,430
+nuestra propia experiencia
+
+521
+00:12:23,430 --> 00:12:25,110
+cuando intentamos navegarlo
+
+522
+00:12:25,110 --> 00:12:26,610
+usando una versión pirateada
+
+523
+00:12:26,610 --> 00:12:28,050
+o simplificada del software
+
+524
+00:12:28,050 --> 00:12:28,470
+original?
+
+525
+00:12:28,790 --> 00:12:30,170
+Te hace pensar en cuántos
+
+526
+00:12:30,170 --> 00:12:31,930
+errores de sistema estamos
+
+527
+00:12:31,930 --> 00:12:33,570
+experimentando por culpa de
+
+528
+00:12:33,570 --> 00:12:33,830
+eso.
+
+529
+00:12:34,350 --> 00:12:35,410
+Un tema para seguir
+
+530
+00:12:35,410 --> 00:12:36,430
+explorando, sin duda.

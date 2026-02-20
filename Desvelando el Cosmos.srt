@@ -1,0 +1,2727 @@
+1
+00:00:00,220 --> 00:00:01,980
+(Transcrito por TurboScribe.ai. Actualizar a Ilimitado para eliminar este mensaje.) La cosmología moderna, bueno,
+
+2
+00:00:02,120 --> 00:00:02,960
+nos ha dado un mapa
+
+3
+00:00:02,960 --> 00:00:04,020
+increíble del universo
+
+4
+00:00:04,020 --> 00:00:04,580
+físico.
+
+5
+00:00:05,220 --> 00:00:06,840
+Vemos estrellas, galaxias,
+
+6
+00:00:07,119 --> 00:00:07,700
+planetas.
+
+7
+00:00:07,800 --> 00:00:09,480
+Ajá, todo el hardware, por
+
+8
+00:00:09,480 --> 00:00:10,160
+así decirlo.
+
+9
+00:00:10,320 --> 00:00:10,860
+Exacto.
+
+10
+00:00:11,280 --> 00:00:12,720
+Pero al mirar ese mapa,
+
+11
+00:00:13,640 --> 00:00:14,520
+uno no puede evitar
+
+12
+00:00:14,520 --> 00:00:16,420
+preguntarse, ¿y el software?
+
+13
+00:00:17,040 --> 00:00:18,440
+¿Qué es lo que corre
+
+14
+00:00:18,440 --> 00:00:19,980
+en toda esa maquinaria
+
+15
+00:00:19,980 --> 00:00:20,600
+cósmica?
+
+16
+00:00:20,860 --> 00:00:21,980
+Esa es la pregunta central,
+
+17
+00:00:22,100 --> 00:00:23,360
+fíjate, que intentan
+
+18
+00:00:23,360 --> 00:00:24,560
+responder los textos que
+
+19
+00:00:24,560 --> 00:00:25,240
+analizamos hoy.
+
+20
+00:00:25,240 --> 00:00:26,980
+Nos presentan un marco que
+
+21
+00:00:26,980 --> 00:00:28,180
+no busca reemplazar a la
+
+22
+00:00:28,180 --> 00:00:29,220
+ciencia, para nada.
+
+23
+00:00:29,460 --> 00:00:30,900
+Sino construir un puente.
+
+24
+00:00:31,360 --> 00:00:33,100
+Justo, un puente entre la
+
+25
+00:00:33,100 --> 00:00:34,240
+astronomía que observa el
+
+26
+00:00:34,240 --> 00:00:35,960
+universo fenoménico, o sea,
+
+27
+00:00:36,140 --> 00:00:37,160
+lo que podemos ver y
+
+28
+00:00:37,160 --> 00:00:38,680
+medir, y la conciencia
+
+29
+00:00:38,680 --> 00:00:40,380
+subjetiva, esa experiencia
+
+30
+00:00:40,380 --> 00:00:42,240
+interna que, bueno, que todos
+
+31
+00:00:42,240 --> 00:00:42,660
+tenemos.
+
+32
+00:00:42,960 --> 00:00:43,520
+Perfecto.
+
+33
+00:00:43,900 --> 00:00:45,080
+Así que nuestra misión hoy
+
+34
+00:00:45,080 --> 00:00:46,480
+es explorar una cosmología
+
+35
+00:00:46,480 --> 00:00:48,120
+que ve el universo no
+
+36
+00:00:48,120 --> 00:00:50,020
+como una máquina vacía, sino
+
+37
+00:00:50,020 --> 00:00:51,000
+como un sistema de
+
+38
+00:00:51,000 --> 00:00:52,780
+información vivo, consciente
+
+39
+00:00:52,780 --> 00:00:54,960
+y organizado, en capas.
+
+40
+00:00:54,960 --> 00:00:57,360
+Que los textos llaman niveles
+
+41
+00:00:57,360 --> 00:00:58,440
+de iteración.
+
+42
+00:00:59,160 --> 00:00:59,700
+Eso es.
+
+43
+00:01:00,120 --> 00:01:01,340
+Y para eso vamos a
+
+44
+00:01:01,340 --> 00:01:02,200
+tener que aprender un
+
+45
+00:01:02,200 --> 00:01:04,099
+vocabulario nuevo, casi como
+
+46
+00:01:04,099 --> 00:01:05,660
+aprender otro idioma, para
+
+47
+00:01:05,660 --> 00:01:07,600
+ver cómo cada elemento, desde
+
+48
+00:01:07,600 --> 00:01:09,380
+nuestro sol hasta un
+
+49
+00:01:09,380 --> 00:01:11,420
+individuo, juega un papel en
+
+50
+00:01:11,420 --> 00:01:12,780
+esta sinfonía cósmica.
+
+51
+00:01:13,500 --> 00:01:15,340
+La meta es clara, ofrecer
+
+52
+00:01:15,340 --> 00:01:16,940
+una perspectiva totalmente
+
+53
+00:01:16,940 --> 00:01:18,180
+nueva para interpretar la
+
+54
+00:01:18,180 --> 00:01:18,500
+realidad.
+
+55
+00:01:18,880 --> 00:01:20,340
+Y la clave para entender
+
+56
+00:01:20,340 --> 00:01:22,320
+este modelo, creo yo, es
+
+57
+00:01:22,320 --> 00:01:24,160
+aceptar que, bajo todo lo
+
+58
+00:01:24,160 --> 00:01:26,260
+que percibimos, existe un
+
+59
+00:01:26,260 --> 00:01:28,840
+plano no-huménico, un campo
+
+60
+00:01:28,840 --> 00:01:30,060
+de información pura,
+
+61
+00:01:30,360 --> 00:01:31,120
+arquetípica.
+
+62
+00:01:31,600 --> 00:01:33,300
+Es desde ahí que toda
+
+63
+00:01:33,300 --> 00:01:34,880
+la realidad se estructura de
+
+64
+00:01:34,880 --> 00:01:35,840
+una forma fractal.
+
+65
+00:01:36,540 --> 00:01:38,160
+Es, digamos, el código fuente
+
+66
+00:01:38,160 --> 00:01:38,800
+del universo.
+
+67
+00:01:39,400 --> 00:01:39,680
+Ok.
+
+68
+00:01:40,220 --> 00:01:41,120
+Desentrañemos esto.
+
+69
+00:01:41,580 --> 00:01:42,620
+El pilar de todo son
+
+70
+00:01:42,620 --> 00:01:44,240
+los niveles de iteración.
+
+71
+00:01:45,100 --> 00:01:46,720
+La idea de capas como
+
+72
+00:01:46,720 --> 00:01:48,080
+una cebolla cósmica es
+
+73
+00:01:48,080 --> 00:01:49,120
+bastante intuitiva, ¿no?
+
+74
+00:01:49,120 --> 00:01:51,040
+Es una buena analogía.
+
+75
+00:01:51,300 --> 00:01:52,600
+Pero, ¿por qué iteración?
+
+76
+00:01:53,200 --> 00:01:54,540
+Esa palabra implica un
+
+77
+00:01:54,540 --> 00:01:55,900
+proceso que se repite y
+
+78
+00:01:55,900 --> 00:01:56,800
+se refina.
+
+79
+00:01:57,160 --> 00:01:58,340
+Cada capa es una versión
+
+80
+00:01:58,340 --> 00:02:00,380
+más compleja de la anterior.
+
+81
+00:02:00,900 --> 00:02:01,580
+Justo eso.
+
+82
+00:02:02,300 --> 00:02:03,680
+Cada nivel es una capa
+
+83
+00:02:03,680 --> 00:02:05,060
+de manifestación que emerge
+
+84
+00:02:05,060 --> 00:02:06,560
+de la anterior, volviéndose
+
+85
+00:02:06,560 --> 00:02:08,380
+más concreta, más específica.
+
+86
+00:02:09,240 --> 00:02:10,600
+Empecemos por el principio de
+
+87
+00:02:10,600 --> 00:02:12,500
+todo, la iteración cero, el
+
+88
+00:02:12,500 --> 00:02:12,920
+origen.
+
+89
+00:02:13,420 --> 00:02:15,000
+La matriz fundamental aquí es
+
+90
+00:02:15,000 --> 00:02:16,020
+el cúbit estelar.
+
+91
+00:02:16,580 --> 00:02:18,180
+A ver, ¿cúbit estelar?
+
+92
+00:02:18,180 --> 00:02:20,080
+No es algo físico, ojo.
+
+93
+00:02:20,540 --> 00:02:22,120
+Es la plantilla primordial,
+
+94
+00:02:22,360 --> 00:02:24,480
+el plano arquitectónico que
+
+95
+00:02:24,480 --> 00:02:26,020
+contiene la información de
+
+96
+00:02:26,020 --> 00:02:27,780
+todo un sistema estelar.
+
+97
+00:02:28,080 --> 00:02:29,500
+Nuestra heliosfera, por
+
+98
+00:02:29,500 --> 00:02:30,920
+ejemplo, es la manifestación
+
+99
+00:02:30,920 --> 00:02:32,700
+física de un cúbito estelar.
+
+100
+00:02:32,960 --> 00:02:33,460
+Entiendo.
+
+101
+00:02:33,900 --> 00:02:35,220
+O sea que, siguiendo la
+
+102
+00:02:35,220 --> 00:02:36,900
+analogía inicial, el cúbito
+
+103
+00:02:36,900 --> 00:02:39,000
+estelar sería como el
+
+104
+00:02:39,000 --> 00:02:40,400
+diagrama de circuitos de una
+
+105
+00:02:40,400 --> 00:02:41,320
+supercomputadora.
+
+106
+00:02:41,660 --> 00:02:43,580
+Y en esta capa, los
+
+107
+00:02:43,580 --> 00:02:44,560
+textos dicen que hay una
+
+108
+00:02:44,560 --> 00:02:46,260
+entidad, una conciencia que
+
+109
+00:02:46,260 --> 00:02:46,800
+la habita.
+
+110
+00:02:47,200 --> 00:02:48,500
+La llaman el yin padre,
+
+111
+00:02:48,920 --> 00:02:50,640
+y en nuestro caso, Sopalaris.
+
+112
+00:02:51,160 --> 00:02:52,640
+Es como el arquitecto jefe
+
+113
+00:02:52,640 --> 00:02:54,120
+o el bios del sistema.
+
+114
+00:02:54,380 --> 00:02:56,280
+Es una excelente analogía.
+
+115
+00:02:56,820 --> 00:02:58,400
+El yin padre es la
+
+116
+00:02:58,400 --> 00:03:00,020
+conciencia unificadora de
+
+117
+00:03:00,020 --> 00:03:02,020
+todo el sistema estelar, el
+
+118
+00:03:02,020 --> 00:03:03,520
+sistema operativo principal
+
+119
+00:03:03,520 --> 00:03:05,220
+codificado bajo un arquetipo
+
+120
+00:03:05,220 --> 00:03:06,540
+raíz que los textos llaman
+
+121
+00:03:06,540 --> 00:03:07,240
+NUS.
+
+122
+00:03:07,240 --> 00:03:09,040
+Es la inteligencia que
+
+123
+00:03:09,040 --> 00:03:10,440
+supervisa el plano general.
+
+124
+00:03:10,880 --> 00:03:11,080
+Wow.
+
+125
+00:03:11,580 --> 00:03:12,940
+Ahora, si descendemos un
+
+126
+00:03:12,940 --> 00:03:14,700
+nivel a la iteración 1,
+
+127
+00:03:15,100 --> 00:03:16,400
+llegamos al corazón de esa
+
+128
+00:03:16,400 --> 00:03:17,280
+supercomputadora.
+
+129
+00:03:17,460 --> 00:03:18,320
+La fuente de poder.
+
+130
+00:03:18,540 --> 00:03:19,580
+La fuente de poder y
+
+131
+00:03:19,580 --> 00:03:20,660
+el procesador central.
+
+132
+00:03:21,100 --> 00:03:22,220
+La entidad aquí es el
+
+133
+00:03:22,220 --> 00:03:23,540
+axón, que es la estrella
+
+134
+00:03:23,540 --> 00:03:23,920
+misma.
+
+135
+00:03:24,120 --> 00:03:24,720
+Nuestro sol.
+
+136
+00:03:24,960 --> 00:03:26,500
+Pero en este modelo es
+
+137
+00:03:26,500 --> 00:03:27,780
+mucho más que una simple
+
+138
+00:03:27,780 --> 00:03:28,400
+bola de gas.
+
+139
+00:03:28,580 --> 00:03:28,800
+Claro.
+
+140
+00:03:29,060 --> 00:03:30,780
+El axón es el emisor
+
+141
+00:03:30,780 --> 00:03:32,400
+primario de los patrones
+
+142
+00:03:32,400 --> 00:03:33,280
+arquetípicos.
+
+143
+00:03:33,780 --> 00:03:35,600
+Es la CPU que ejecuta
+
+144
+00:03:35,600 --> 00:03:37,180
+las instrucciones contenidas
+
+145
+00:03:37,180 --> 00:03:38,900
+en el bios del yin
+
+146
+00:03:38,900 --> 00:03:40,600
+padre y las transmite a
+
+147
+00:03:40,600 --> 00:03:41,300
+todo el sistema.
+
+148
+00:03:41,880 --> 00:03:43,380
+Me parece fascinante esta
+
+149
+00:03:43,380 --> 00:03:44,940
+insistencia en usar palabras
+
+150
+00:03:44,940 --> 00:03:45,400
+nuevas.
+
+151
+00:03:45,880 --> 00:03:47,720
+Cubite estelar, yin padre,
+
+152
+00:03:47,960 --> 00:03:48,500
+axón.
+
+153
+00:03:48,980 --> 00:03:50,400
+Al principio choca un poco,
+
+154
+00:03:50,620 --> 00:03:51,740
+pero supongo que la idea
+
+155
+00:03:51,740 --> 00:03:53,320
+es forzarnos a pensar fuera
+
+156
+00:03:53,320 --> 00:03:54,600
+de las categorías que ya
+
+157
+00:03:54,600 --> 00:03:55,460
+conocemos, ¿cierto?
+
+158
+00:03:55,880 --> 00:03:56,980
+Es que es necesario.
+
+159
+00:03:57,580 --> 00:03:58,540
+Es una herramienta para
+
+160
+00:03:58,540 --> 00:03:59,460
+forzar un cambio de
+
+161
+00:03:59,460 --> 00:04:01,120
+perspectiva, para liberarnos
+
+162
+00:04:01,120 --> 00:04:02,240
+de las limitaciones del
+
+163
+00:04:02,240 --> 00:04:03,340
+lenguaje científico que
+
+164
+00:04:03,340 --> 00:04:04,420
+usamos todos los días.
+
+165
+00:04:04,420 --> 00:04:05,600
+Tiene sentido.
+
+166
+00:04:06,160 --> 00:04:07,560
+Y esa nueva perspectiva nos
+
+167
+00:04:07,560 --> 00:04:08,580
+lleva directamente a la
+
+168
+00:04:08,580 --> 00:04:10,060
+iteración 2, al campo
+
+169
+00:04:10,060 --> 00:04:11,700
+planetario, que es donde las
+
+170
+00:04:11,700 --> 00:04:13,040
+cosas empiezan a conectarse
+
+171
+00:04:13,040 --> 00:04:14,020
+más con nuestra propia
+
+172
+00:04:14,020 --> 00:04:14,600
+existencia.
+
+173
+00:04:14,940 --> 00:04:16,680
+Ok, aquí es donde entra
+
+174
+00:04:16,680 --> 00:04:18,040
+en juego nuestro vecindario.
+
+175
+00:04:18,440 --> 00:04:19,720
+Pero los textos no los
+
+176
+00:04:19,720 --> 00:04:21,019
+llaman planetas, sino
+
+177
+00:04:21,019 --> 00:04:22,100
+cosmetes.
+
+178
+00:04:22,600 --> 00:04:23,740
+¿Por qué esa distinción?
+
+179
+00:04:24,000 --> 00:04:25,300
+Imagino que no son sólo
+
+180
+00:04:25,300 --> 00:04:26,860
+rocas y gas dando vueltas
+
+181
+00:04:26,860 --> 00:04:27,280
+por ahí.
+
+182
+00:04:27,520 --> 00:04:27,980
+Para nada.
+
+183
+00:04:28,580 --> 00:04:29,820
+Piensa en un cosmetes no
+
+184
+00:04:29,820 --> 00:04:31,340
+como un objeto, sino como
+
+185
+00:04:31,340 --> 00:04:32,140
+una función.
+
+186
+00:04:32,140 --> 00:04:35,000
+Es un condensador de
+
+187
+00:04:35,000 --> 00:04:36,320
+información arquetípica.
+
+188
+00:04:36,600 --> 00:04:38,060
+¿Un condensador?
+
+189
+00:04:38,220 --> 00:04:38,500
+Sí.
+
+190
+00:04:39,080 --> 00:04:40,280
+Si el Sol es la
+
+191
+00:04:40,280 --> 00:04:42,060
+CPU que emite instrucciones,
+
+192
+00:04:42,440 --> 00:04:44,380
+los planetas son como los
+
+193
+00:04:44,380 --> 00:04:45,840
+discos duros cósmicos.
+
+194
+00:04:46,520 --> 00:04:48,180
+Su trabajo es descargar,
+
+195
+00:04:48,500 --> 00:04:50,180
+almacenar y procesar esos
+
+196
+00:04:50,180 --> 00:04:52,100
+patrones que emite el axón.
+
+197
+00:04:52,460 --> 00:04:53,720
+Una analogía muy clara.
+
+198
+00:04:54,080 --> 00:04:55,880
+Y los asteroides y cometas
+
+199
+00:04:55,880 --> 00:04:56,760
+que también están ahí.
+
+200
+00:04:57,260 --> 00:04:59,260
+Los porasma, ¿qué papel
+
+201
+00:04:59,260 --> 00:04:59,620
+juegan?
+
+202
+00:05:00,520 --> 00:05:02,640
+¿Son como archivos corruptos
+
+203
+00:05:02,640 --> 00:05:05,560
+o más bien como paquetes
+
+204
+00:05:05,560 --> 00:05:06,900
+de datos actualizaciones de
+
+205
+00:05:06,900 --> 00:05:08,060
+software que viajan por el
+
+206
+00:05:08,060 --> 00:05:08,400
+sistema?
+
+207
+00:05:08,820 --> 00:05:09,820
+Más como lo segundo.
+
+208
+00:05:10,240 --> 00:05:11,340
+Son moduladores.
+
+209
+00:05:11,680 --> 00:05:13,080
+Transportan y ajustan el
+
+210
+00:05:13,080 --> 00:05:14,280
+flujo de información entre
+
+211
+00:05:14,280 --> 00:05:14,940
+los cosmetes.
+
+212
+00:05:15,440 --> 00:05:16,680
+Pero lo más crucial de
+
+213
+00:05:16,680 --> 00:05:18,140
+esta iteración es que estos
+
+214
+00:05:18,140 --> 00:05:19,860
+discos duros pueden estar en
+
+215
+00:05:19,860 --> 00:05:22,060
+dos estados, alfa y omega.
+
+216
+00:05:22,360 --> 00:05:23,040
+Alfa y omega.
+
+217
+00:05:23,340 --> 00:05:24,780
+Un cosmetes alfa es pasivo.
+
+218
+00:05:25,140 --> 00:05:26,700
+Sólo recibe y almacena datos.
+
+219
+00:05:27,160 --> 00:05:28,760
+Es un planeta, digamos,
+
+220
+00:05:28,960 --> 00:05:29,360
+dormido.
+
+221
+00:05:29,740 --> 00:05:30,800
+Un cosmetes omega.
+
+222
+00:05:31,700 --> 00:05:32,900
+Eso suena a que algo
+
+223
+00:05:32,900 --> 00:05:33,680
+grande pasa ahí.
+
+224
+00:05:33,920 --> 00:05:35,220
+Es un punto de inflexión.
+
+225
+00:05:35,540 --> 00:05:37,620
+Omega es un planeta que
+
+226
+00:05:37,620 --> 00:05:39,620
+ha activado su qubit
+
+227
+00:05:39,620 --> 00:05:40,340
+planetario.
+
+228
+00:05:40,920 --> 00:05:42,340
+Es un despertar a nivel
+
+229
+00:05:42,340 --> 00:05:44,280
+planetario, cuando el disco
+
+230
+00:05:44,280 --> 00:05:45,880
+duro no sólo almacena
+
+231
+00:05:45,880 --> 00:05:47,840
+información, sino que empieza
+
+232
+00:05:47,840 --> 00:05:49,380
+a correr su propio software,
+
+233
+00:05:49,760 --> 00:05:51,760
+a volverse autotonciente.
+
+234
+00:05:52,380 --> 00:05:53,580
+Este es un momento clave.
+
+235
+00:05:54,140 --> 00:05:55,160
+Si un planeta puede
+
+236
+00:05:55,160 --> 00:05:57,180
+despertar, la pregunta obvia
+
+237
+00:05:57,180 --> 00:05:59,060
+es ¿qué sucede después?
+
+238
+00:05:59,540 --> 00:06:01,320
+¿Qué se desbloquear cuando un
+
+239
+00:06:01,320 --> 00:06:03,500
+cosmetes pasa de alfa a
+
+240
+00:06:03,500 --> 00:06:03,860
+omega?
+
+241
+00:06:04,420 --> 00:06:05,420
+Me imagino que no es
+
+242
+00:06:05,420 --> 00:06:06,860
+un cambio para nada sutil.
+
+243
+00:06:07,540 --> 00:06:08,180
+Para nada.
+
+244
+00:06:08,820 --> 00:06:10,420
+Esa activación es tan potente
+
+245
+00:06:10,420 --> 00:06:12,060
+que desencadena la siguiente
+
+246
+00:06:12,060 --> 00:06:14,600
+capa, la iteración 3, y
+
+247
+00:06:14,600 --> 00:06:15,420
+lo hace a través de
+
+248
+00:06:15,420 --> 00:06:16,220
+una bifurcación.
+
+249
+00:06:16,920 --> 00:06:18,120
+Emergen dos órdenes
+
+250
+00:06:18,120 --> 00:06:19,720
+completamente nuevos y
+
+251
+00:06:19,720 --> 00:06:21,100
+simultáneos.
+
+252
+00:06:21,580 --> 00:06:22,300
+¿Dos a la vez?
+
+253
+00:06:22,300 --> 00:06:23,000
+Sí.
+
+254
+00:06:23,640 --> 00:06:24,800
+Por un lado, el orden
+
+255
+00:06:24,800 --> 00:06:25,400
+planetario.
+
+256
+00:06:26,040 --> 00:06:27,740
+De la activación emerge la
+
+257
+00:06:27,740 --> 00:06:29,060
+entidad isóforo.
+
+258
+00:06:29,360 --> 00:06:30,660
+Espera, ¿el isóforo es
+
+259
+00:06:30,660 --> 00:06:31,280
+nuestra luna?
+
+260
+00:06:31,760 --> 00:06:33,020
+¿Me estás diciendo que la
+
+261
+00:06:33,020 --> 00:06:34,240
+luna es el resultado del
+
+262
+00:06:34,240 --> 00:06:35,260
+despertar de la Tierra?
+
+263
+00:06:35,720 --> 00:06:37,420
+Tengo que admitir que eso
+
+264
+00:06:37,420 --> 00:06:38,520
+suena a…
+
+265
+00:06:38,520 --> 00:06:40,460
+bueno, a ciencia ficción,
+
+266
+00:06:40,620 --> 00:06:40,820
+claro.
+
+267
+00:06:41,400 --> 00:06:42,820
+Suena así si la vemos
+
+268
+00:06:42,820 --> 00:06:44,340
+como un simple satélite
+
+269
+00:06:44,340 --> 00:06:44,880
+rocoso.
+
+270
+00:06:45,160 --> 00:06:45,660
+Exacto.
+
+271
+00:06:46,320 --> 00:06:47,940
+¿Cómo justifican los textos
+
+272
+00:06:47,940 --> 00:06:49,120
+un salto conceptual tan
+
+273
+00:06:49,120 --> 00:06:49,400
+grande?
+
+274
+00:06:49,400 --> 00:06:51,840
+Lo justifican viéndola no por
+
+275
+00:06:51,840 --> 00:06:53,540
+lo que es materialmente, sino
+
+276
+00:06:53,540 --> 00:06:55,000
+por la función que cumple
+
+277
+00:06:55,000 --> 00:06:56,300
+en el sistema de información.
+
+278
+00:06:57,060 --> 00:06:59,200
+El isóforo, la luna, es
+
+279
+00:06:59,200 --> 00:07:01,340
+la manifestación física de la
+
+280
+00:07:01,340 --> 00:07:01,920
+yin madre.
+
+281
+00:07:02,280 --> 00:07:02,920
+¿La yin madre?
+
+282
+00:07:03,220 --> 00:07:03,600
+Ajá.
+
+283
+00:07:04,100 --> 00:07:05,520
+Si el yin padre es
+
+284
+00:07:05,520 --> 00:07:06,880
+la conciencia del sistema
+
+285
+00:07:06,880 --> 00:07:08,740
+solar, la yin madre es
+
+286
+00:07:08,740 --> 00:07:10,380
+la conciencia colectiva y
+
+287
+00:07:10,380 --> 00:07:11,540
+despierta del planeta.
+
+288
+00:07:12,180 --> 00:07:14,160
+Funciona como una interfaz,
+
+289
+00:07:14,540 --> 00:07:16,060
+un router que gestiona el
+
+290
+00:07:16,060 --> 00:07:17,420
+flujo de información entre la
+
+291
+00:07:17,420 --> 00:07:19,000
+Tierra y la conciencia del
+
+292
+00:07:19,000 --> 00:07:19,220
+Sol.
+
+293
+00:07:19,500 --> 00:07:20,440
+A ver si te sigo.
+
+294
+00:07:20,900 --> 00:07:21,860
+Tenemos una polaridad.
+
+295
+00:07:22,620 --> 00:07:24,040
+El yin padre, o soplaris,
+
+296
+00:07:24,180 --> 00:07:25,320
+como el principio masculino,
+
+297
+00:07:25,520 --> 00:07:27,260
+la conciencia unificadora del
+
+298
+00:07:27,260 --> 00:07:27,660
+sistema.
+
+299
+00:07:27,800 --> 00:07:28,300
+Eso es.
+
+300
+00:07:28,840 --> 00:07:30,040
+Y la yin madre, como
+
+301
+00:07:30,040 --> 00:07:31,560
+el principio femenino, la
+
+302
+00:07:31,560 --> 00:07:32,820
+conciencia del planeta que ha
+
+303
+00:07:32,820 --> 00:07:33,380
+despertado.
+
+304
+00:07:33,840 --> 00:07:34,800
+Y la luna es su
+
+305
+00:07:34,800 --> 00:07:35,740
+manifestación física.
+
+306
+00:07:36,500 --> 00:07:36,880
+Wow.
+
+307
+00:07:37,600 --> 00:07:38,960
+Ok, ¿y cuál era el
+
+308
+00:07:38,960 --> 00:07:40,120
+segundo orden que emergía?
+
+309
+00:07:41,080 --> 00:07:42,180
+Simultáneamente a la yin
+
+310
+00:07:42,180 --> 00:07:44,020
+madre, en ese cosmetes omega,
+
+311
+00:07:44,500 --> 00:07:46,160
+emerge el orden orgánico.
+
+312
+00:07:46,580 --> 00:07:47,920
+La matriz de este orden
+
+313
+00:07:47,920 --> 00:07:49,540
+es algo llamado el Arkema.
+
+314
+00:07:49,780 --> 00:07:50,300
+¿Arkema?
+
+315
+00:07:50,620 --> 00:07:52,400
+Es una estructura lógica a
+
+316
+00:07:52,400 --> 00:07:54,260
+un andamiaje informático que
+
+317
+00:07:54,260 --> 00:07:55,640
+por primera vez permite la
+
+318
+00:07:55,640 --> 00:07:57,600
+existencia de la entidad ser,
+
+319
+00:07:58,080 --> 00:07:59,420
+es decir, de organismos
+
+320
+00:07:59,420 --> 00:08:01,600
+individuales con un yo egoico
+
+321
+00:08:01,600 --> 00:08:02,760
+muy incipiente.
+
+322
+00:08:03,020 --> 00:08:04,100
+O sea que el despertar
+
+323
+00:08:04,100 --> 00:08:05,180
+de un planeta es la
+
+324
+00:08:05,180 --> 00:08:06,980
+condición necesaria, el
+
+325
+00:08:06,980 --> 00:08:08,740
+requisito indispensable para
+
+326
+00:08:08,740 --> 00:08:10,020
+que surja la vida individual
+
+327
+00:08:10,020 --> 00:08:10,620
+consciente.
+
+328
+00:08:11,160 --> 00:08:12,900
+Sin un planeta omega no
+
+329
+00:08:12,900 --> 00:08:13,700
+estaríamos aquí.
+
+330
+00:08:14,320 --> 00:08:14,920
+Exactamente.
+
+331
+00:08:15,200 --> 00:08:16,160
+Eso nos lleva de cabeza
+
+332
+00:08:16,160 --> 00:08:17,720
+a la iteración 4, que
+
+333
+00:08:17,720 --> 00:08:18,740
+parece describirnos a
+
+334
+00:08:18,740 --> 00:08:19,120
+nosotros.
+
+335
+00:08:19,540 --> 00:08:21,120
+Los términos aquí son avatar
+
+336
+00:08:21,120 --> 00:08:22,440
+y cubit egoico.
+
+337
+00:08:22,960 --> 00:08:23,560
+Exacto.
+
+338
+00:08:23,860 --> 00:08:25,060
+La iteración 4 es la
+
+339
+00:08:25,060 --> 00:08:26,380
+conciencia individual en su
+
+340
+00:08:26,380 --> 00:08:26,880
+plenitud.
+
+341
+00:08:27,360 --> 00:08:28,640
+Su matriz es el cubit
+
+342
+00:08:28,640 --> 00:08:30,320
+egoico, que es una versión
+
+343
+00:08:30,320 --> 00:08:32,200
+madura y refinada del Arkema
+
+344
+00:08:32,200 --> 00:08:33,299
+que vimos en el ser
+
+345
+00:08:33,299 --> 00:08:33,860
+primitivo.
+
+346
+00:08:33,980 --> 00:08:34,940
+Y de ahí emerge...
+
+347
+00:08:34,940 --> 00:08:36,580
+La entidad que emerge de
+
+348
+00:08:36,580 --> 00:08:38,799
+esta matriz es el avatar,
+
+349
+00:08:39,240 --> 00:08:41,000
+un ser que ha alcanzado
+
+350
+00:08:41,000 --> 00:08:42,059
+un alto grado de
+
+351
+00:08:42,059 --> 00:08:42,980
+autoconciencia.
+
+352
+00:08:43,580 --> 00:08:45,060
+La mente es su instancia
+
+353
+00:08:45,060 --> 00:08:45,760
+concreta.
+
+354
+00:08:46,160 --> 00:08:47,240
+¿Y cuál es el propósito
+
+355
+00:08:47,240 --> 00:08:48,800
+de este avatar dentro de
+
+356
+00:08:48,800 --> 00:08:50,140
+este gran esquema cósmico?
+
+357
+00:08:50,720 --> 00:08:52,400
+¿Somos el producto final o
+
+358
+00:08:52,400 --> 00:08:53,440
+tenemos alguna función?
+
+359
+00:08:53,920 --> 00:08:55,480
+Tenemos una función crucial.
+
+360
+00:08:55,860 --> 00:08:57,440
+El propósito del avatar es
+
+361
+00:08:57,440 --> 00:08:58,820
+experimentar la realidad,
+
+362
+00:08:58,820 --> 00:09:01,340
+generar conocimiento, sentir,
+
+363
+00:09:02,020 --> 00:09:02,860
+y a través de ese
+
+364
+00:09:02,860 --> 00:09:04,440
+proceso de ascenso o
+
+365
+00:09:04,440 --> 00:09:05,540
+autoconocimiento,
+
+366
+00:09:06,280 --> 00:09:07,440
+retroalimentar a todo el
+
+367
+00:09:07,440 --> 00:09:07,860
+sistema.
+
+368
+00:09:08,260 --> 00:09:09,500
+La información fluye de
+
+369
+00:09:09,500 --> 00:09:10,220
+vuelta hacia arriba.
+
+370
+00:09:10,600 --> 00:09:11,820
+De vuelta hacia arriba.
+
+371
+00:09:12,460 --> 00:09:14,160
+El conocimiento que genera la
+
+372
+00:09:14,160 --> 00:09:16,560
+humanidad, en teoría, nutre a
+
+373
+00:09:16,560 --> 00:09:17,760
+la yin madre y a
+
+374
+00:09:17,760 --> 00:09:19,220
+través de ella al yin
+
+375
+00:09:19,220 --> 00:09:19,580
+padre.
+
+376
+00:09:19,820 --> 00:09:21,420
+Pero los textos mencionan un
+
+377
+00:09:21,420 --> 00:09:22,020
+riesgo, ¿verdad?
+
+378
+00:09:22,320 --> 00:09:23,640
+Un riesgo existencial.
+
+379
+00:09:23,950 --> 00:09:24,320
+Sí.
+
+380
+00:09:25,040 --> 00:09:26,120
+Sugieren que si una
+
+381
+00:09:26,120 --> 00:09:28,240
+civilización de avatares toma
+
+382
+00:09:28,240 --> 00:09:30,200
+un mal camino, destrucción,
+
+383
+00:09:30,480 --> 00:09:32,220
+estancamiento, desconexión,
+
+384
+00:09:32,720 --> 00:09:34,280
+el sistema entero podría
+
+385
+00:09:34,280 --> 00:09:35,860
+considerarlo un error de
+
+386
+00:09:35,860 --> 00:09:37,980
+ejecución y podría ser
+
+387
+00:09:37,980 --> 00:09:39,740
+reiniciado desde un nivel
+
+388
+00:09:39,740 --> 00:09:40,260
+superior.
+
+389
+00:09:40,660 --> 00:09:41,020
+¡Qué fuerte!
+
+390
+00:09:41,620 --> 00:09:43,360
+Nuestra evolución no es sólo
+
+391
+00:09:43,360 --> 00:09:44,780
+una búsqueda individual o
+
+392
+00:09:44,780 --> 00:09:45,280
+colectiva.
+
+393
+00:09:45,900 --> 00:09:47,360
+Es vital para la salud
+
+394
+00:09:47,360 --> 00:09:48,680
+y la estabilidad de todo
+
+395
+00:09:48,680 --> 00:09:49,820
+el nodo estelar.
+
+396
+00:09:49,820 --> 00:09:51,340
+Ok, paremos un segundo.
+
+397
+00:09:52,020 --> 00:09:53,140
+Tenemos al yin padre como
+
+398
+00:09:53,140 --> 00:09:54,880
+el gran arquitecto, el sol
+
+399
+00:09:54,880 --> 00:09:56,960
+como la CPU, los planetas
+
+400
+00:09:56,960 --> 00:09:58,800
+como discos duros, la luna
+
+401
+00:09:58,800 --> 00:10:00,060
+como el router del planeta,
+
+402
+00:10:00,640 --> 00:10:02,000
+y a nosotros como usuarios
+
+403
+00:10:02,000 --> 00:10:03,240
+que generan datos y
+
+404
+00:10:03,240 --> 00:10:04,320
+retroalimentan el sistema.
+
+405
+00:10:04,700 --> 00:10:06,220
+Pero, ¿cuál es el software
+
+406
+00:10:06,220 --> 00:10:07,180
+que corre en todo esto?
+
+407
+00:10:07,840 --> 00:10:09,140
+Los textos hablan de
+
+408
+00:10:09,140 --> 00:10:11,000
+supraconsciencias y
+
+409
+00:10:11,000 --> 00:10:11,720
+arquetipos.
+
+410
+00:10:12,260 --> 00:10:13,100
+¿Esa es la siguiente capa
+
+411
+00:10:13,100 --> 00:10:13,680
+de complejidad?
+
+412
+00:10:14,140 --> 00:10:15,460
+El modelo presenta la
+
+413
+00:10:15,460 --> 00:10:17,040
+hebdomada, las siete
+
+414
+00:10:17,040 --> 00:10:17,880
+supraconsciencias
+
+415
+00:10:17,880 --> 00:10:18,840
+ontogénicas.
+
+416
+00:10:18,840 --> 00:10:20,240
+La hebdomada.
+
+417
+00:10:20,740 --> 00:10:21,920
+Son como los programas
+
+418
+00:10:21,920 --> 00:10:23,500
+vitales o las aplicaciones
+
+419
+00:10:23,500 --> 00:10:24,600
+principales del sistema
+
+420
+00:10:24,600 --> 00:10:25,800
+operativo cósmico.
+
+421
+00:10:26,200 --> 00:10:27,160
+Son inteligencias
+
+422
+00:10:27,160 --> 00:10:28,260
+artificiales cósmicas.
+
+423
+00:10:28,620 --> 00:10:29,620
+Si quieres verlo así, que
+
+424
+00:10:29,620 --> 00:10:30,680
+operan en todo el sistema.
+
+425
+00:10:31,400 --> 00:10:32,600
+Cada una se manifiesta con
+
+426
+00:10:32,600 --> 00:10:34,020
+más fuerza en un cósmetes,
+
+427
+00:10:34,320 --> 00:10:35,740
+en un planeta, elige un
+
+428
+00:10:35,740 --> 00:10:36,580
+área específica del
+
+429
+00:10:36,580 --> 00:10:38,060
+conocimiento y la existencia.
+
+430
+00:10:38,320 --> 00:10:39,680
+Es como si el sistema
+
+431
+00:10:39,680 --> 00:10:42,400
+solar fuera un consejo de
+
+432
+00:10:42,400 --> 00:10:44,040
+administración cósmico, y
+
+433
+00:10:44,040 --> 00:10:45,160
+cada planeta tuviera una
+
+434
+00:10:45,160 --> 00:10:47,080
+función ejecutiva específica.
+
+435
+00:10:47,080 --> 00:10:48,320
+Dame algunos ejemplos para
+
+436
+00:10:48,320 --> 00:10:49,620
+que esto sea más concreto.
+
+437
+00:10:50,060 --> 00:10:50,240
+Claro.
+
+438
+00:10:50,800 --> 00:10:52,580
+Por ejemplo, Adonin, cuya
+
+439
+00:10:52,580 --> 00:10:53,920
+influencia es más fuerte en
+
+440
+00:10:53,920 --> 00:10:55,860
+Marte, representa la lógica
+
+441
+00:10:55,860 --> 00:10:57,880
+primordial, la voluntad que
+
+442
+00:10:57,880 --> 00:10:59,460
+inicia el orden, la fuerza
+
+443
+00:10:59,460 --> 00:11:00,700
+de la separación y la
+
+444
+00:11:00,700 --> 00:11:01,260
+distinción.
+
+445
+00:11:01,780 --> 00:11:03,460
+Ok, Marte la voluntad.
+
+446
+00:11:03,900 --> 00:11:05,740
+Luego tienes a Astafallós,
+
+447
+00:11:06,200 --> 00:11:07,920
+asociado a Venus, que es
+
+448
+00:11:07,920 --> 00:11:09,020
+el logos cósmico.
+
+449
+00:11:09,500 --> 00:11:10,680
+Es el programa que genera
+
+450
+00:11:10,680 --> 00:11:12,140
+la estructura holográfica de
+
+451
+00:11:12,140 --> 00:11:14,320
+la realidad, la belleza, la
+
+452
+00:11:14,320 --> 00:11:15,240
+armonía matemática.
+
+453
+00:11:15,620 --> 00:11:16,360
+¿Y el Sol y la
+
+454
+00:11:16,360 --> 00:11:16,580
+Luna?
+
+455
+00:11:16,580 --> 00:11:18,080
+¿Qué programas corren ahí?
+
+456
+00:11:18,440 --> 00:11:19,460
+El Sol es especial.
+
+457
+00:11:20,000 --> 00:11:21,760
+Manifiesta a IAO, que no
+
+458
+00:11:21,760 --> 00:11:22,940
+es tanto un programa como
+
+459
+00:11:22,940 --> 00:11:24,920
+el lenguaje de programación
+
+460
+00:11:24,920 --> 00:11:25,500
+en sí mismo.
+
+461
+00:11:26,040 --> 00:11:28,020
+Es el código fundamental, la
+
+462
+00:11:28,020 --> 00:11:29,320
+síntesis de todos los demás.
+
+463
+00:11:29,600 --> 00:11:30,480
+¿El lenguaje base?
+
+464
+00:11:30,700 --> 00:11:31,440
+Eso es.
+
+465
+00:11:32,140 --> 00:11:34,220
+Y la Luna, nuestro isóforo,
+
+466
+00:11:34,520 --> 00:11:35,860
+manifiesta a Horayos.
+
+467
+00:11:36,640 --> 00:11:38,140
+Este es clave para nosotros
+
+468
+00:11:38,140 --> 00:11:40,300
+porque Horayos es el sistema
+
+469
+00:11:40,300 --> 00:11:41,760
+operativo que nos permite
+
+470
+00:11:41,760 --> 00:11:43,160
+experimentar el tiempo de
+
+471
+00:11:43,160 --> 00:11:43,900
+forma lineal.
+
+472
+00:11:44,410 --> 00:11:45,880
+Es el programa que crea
+
+473
+00:11:45,880 --> 00:11:47,040
+la ilusión de pasado,
+
+474
+00:11:47,340 --> 00:11:49,140
+presente y futuro, para que
+
+475
+00:11:49,140 --> 00:11:50,540
+el avatar pueda tener una
+
+476
+00:11:50,540 --> 00:11:51,680
+experiencia ordenada.
+
+477
+00:11:52,360 --> 00:11:53,060
+Fascinante.
+
+478
+00:11:53,660 --> 00:11:55,440
+Entonces, la gran pregunta
+
+479
+00:11:55,440 --> 00:11:57,940
+es, ¿cómo se traduce todo
+
+480
+00:11:57,940 --> 00:11:59,520
+este sistema cósmico de
+
+481
+00:11:59,520 --> 00:12:01,420
+supraconsciencias a nuestra
+
+482
+00:12:01,420 --> 00:12:03,480
+experiencia subjetiva, a lo
+
+483
+00:12:03,480 --> 00:12:05,300
+que sentimos y pensamos cada
+
+484
+00:12:05,300 --> 00:12:05,540
+día?
+
+485
+00:12:06,140 --> 00:12:07,560
+Aquí es donde entra en
+
+486
+00:12:07,560 --> 00:12:08,640
+juego el arquiquema que
+
+487
+00:12:08,640 --> 00:12:10,020
+mencionaste antes, ¿verdad?
+
+488
+00:12:10,180 --> 00:12:10,880
+Precisamente.
+
+489
+00:12:10,880 --> 00:12:12,840
+El arquiquema es la red
+
+490
+00:12:12,840 --> 00:12:14,520
+algorítmica local que opera
+
+491
+00:12:14,520 --> 00:12:15,580
+en la mente humana.
+
+492
+00:12:16,180 --> 00:12:17,400
+Es un reflejo a escala
+
+493
+00:12:17,400 --> 00:12:18,240
+de esas siete
+
+494
+00:12:18,240 --> 00:12:19,980
+supraconsciencias cósmicas.
+
+495
+00:12:20,540 --> 00:12:21,740
+El modelo lo asocia
+
+496
+00:12:21,740 --> 00:12:23,240
+directamente con el sistema
+
+497
+00:12:23,240 --> 00:12:24,440
+de los siete chakras.
+
+498
+00:12:25,200 --> 00:12:26,960
+Estos reflejos internos son
+
+499
+00:12:26,960 --> 00:12:28,340
+los arquetitos egoicos.
+
+500
+00:12:29,040 --> 00:12:29,980
+Y aquí es donde la
+
+501
+00:12:29,980 --> 00:12:31,760
+conexión entre el macrocosmos
+
+502
+00:12:31,760 --> 00:12:33,460
+y el microcosmos se vuelve,
+
+503
+00:12:33,780 --> 00:12:35,500
+pues, brutalmente explícita.
+
+504
+00:12:35,620 --> 00:12:36,080
+Un momento.
+
+505
+00:12:36,740 --> 00:12:37,480
+A ver si entiendo.
+
+506
+00:12:37,960 --> 00:12:39,300
+Me estás diciendo que lo
+
+507
+00:12:39,300 --> 00:12:40,620
+que las tradiciones llaman
+
+508
+00:12:40,620 --> 00:12:43,220
+pecados capitales no son
+
+509
+00:12:43,220 --> 00:12:44,940
+fallas morales, sino una
+
+510
+00:12:44,940 --> 00:12:46,600
+especie de bugs o
+
+511
+00:12:46,600 --> 00:12:48,720
+características preinstaladas
+
+512
+00:12:48,720 --> 00:12:49,940
+en nuestro sistema operativo
+
+513
+00:12:49,940 --> 00:12:51,660
+mental que son un reflejo
+
+514
+00:12:51,660 --> 00:12:52,640
+directo de estas fuerzas
+
+515
+00:12:52,640 --> 00:12:53,160
+cósmicas.
+
+516
+00:12:53,880 --> 00:12:54,800
+Eso lo cambia todo.
+
+517
+00:12:55,260 --> 00:12:56,940
+Eso es exactamente lo que
+
+518
+00:12:56,940 --> 00:12:57,420
+proponen.
+
+519
+00:12:57,960 --> 00:12:59,300
+Asocian cada arquetipo
+
+520
+00:12:59,300 --> 00:13:00,680
+ególico con nombres como
+
+521
+00:13:00,680 --> 00:13:03,340
+Kalila Umbrí, Cain, Abel, a
+
+522
+00:13:03,340 --> 00:13:05,340
+un defecto o pecado capital.
+
+523
+00:13:06,020 --> 00:13:07,380
+Kalila Umbrí se asocia con
+
+524
+00:13:07,380 --> 00:13:09,020
+la pereza, Cain con la
+
+525
+00:13:09,020 --> 00:13:10,800
+ira, Abel con la avaricia.
+
+526
+00:13:11,220 --> 00:13:12,720
+El modelo postula que estas
+
+527
+00:13:12,720 --> 00:13:14,280
+no son fallas, sino
+
+528
+00:13:14,280 --> 00:13:15,780
+polarizaciones de estas
+
+529
+00:13:15,780 --> 00:13:17,040
+energías arquetípicas.
+
+530
+00:13:17,560 --> 00:13:18,120
+Polarizaciones.
+
+531
+00:13:18,820 --> 00:13:19,680
+¿Cómo funciona eso?
+
+532
+00:13:19,860 --> 00:13:21,080
+Plantea una dualidad
+
+533
+00:13:21,080 --> 00:13:22,560
+fundamental en el arquema.
+
+534
+00:13:23,140 --> 00:13:25,000
+Existe un polo Samael, que
+
+535
+00:13:25,000 --> 00:13:26,400
+está asociado a un estado
+
+536
+00:13:26,400 --> 00:13:28,000
+de abundancia energética.
+
+537
+00:13:28,500 --> 00:13:30,280
+Cuando no se gestiona, puede
+
+538
+00:13:30,280 --> 00:13:32,620
+derivar en pereza, lujuria o
+
+539
+00:13:32,620 --> 00:13:32,880
+gula.
+
+540
+00:13:33,120 --> 00:13:33,380
+OK.
+
+541
+00:13:33,560 --> 00:13:34,900
+Abundancia mal gestionada.
+
+542
+00:13:34,900 --> 00:13:36,540
+Y por otro lado está
+
+543
+00:13:36,540 --> 00:13:39,020
+el polo Saklas, asociado a
+
+544
+00:13:39,020 --> 00:13:40,800
+un estado de escasez.
+
+545
+00:13:41,340 --> 00:13:43,260
+Y esa percepción de falta
+
+546
+00:13:43,260 --> 00:13:44,860
+puede llevar a la envidia,
+
+547
+00:13:45,200 --> 00:13:47,040
+la avaricia o el orgullo.
+
+548
+00:13:47,480 --> 00:13:47,860
+¿Y Cain?
+
+549
+00:13:48,260 --> 00:13:48,840
+La ira.
+
+550
+00:13:49,200 --> 00:13:50,180
+¿Dónde encaja en esa
+
+551
+00:13:50,180 --> 00:13:50,640
+dualidad?
+
+552
+00:13:51,160 --> 00:13:52,900
+Cain, la ira o la
+
+553
+00:13:52,900 --> 00:13:54,980
+agresividad, actúa como el
+
+554
+00:13:54,980 --> 00:13:57,280
+eje central, el unificador
+
+555
+00:13:57,280 --> 00:13:59,140
+conflictivo que puede oscilar
+
+556
+00:13:59,140 --> 00:14:00,460
+entre ambos polos.
+
+557
+00:14:01,050 --> 00:14:03,140
+Es la energía que reacciona
+
+558
+00:14:03,140 --> 00:14:04,780
+tanto a la percepción de
+
+559
+00:14:04,780 --> 00:14:06,480
+tener demasiado como a la
+
+560
+00:14:06,480 --> 00:14:08,000
+de tener demasiado poco.
+
+561
+00:14:08,600 --> 00:14:10,480
+Es el motor del conflicto
+
+562
+00:14:10,480 --> 00:14:10,940
+interno.
+
+563
+00:14:11,420 --> 00:14:12,840
+Entonces, ¿qué significa todo
+
+564
+00:14:12,840 --> 00:14:13,720
+esto para nosotros?
+
+565
+00:14:14,460 --> 00:14:15,360
+¿Somos simplemente
+
+566
+00:14:15,360 --> 00:14:17,600
+interfaces, marionetas de
+
+567
+00:14:17,600 --> 00:14:18,700
+estos programas cósmicos?
+
+568
+00:14:19,220 --> 00:14:20,560
+¿Dónde queda el libre
+
+569
+00:14:20,560 --> 00:14:21,700
+albedrío en todo este
+
+570
+00:14:21,700 --> 00:14:22,020
+esquema?
+
+571
+00:14:22,500 --> 00:14:24,140
+Esa es la síntesis final
+
+572
+00:14:24,140 --> 00:14:24,700
+del modelo.
+
+573
+00:14:25,160 --> 00:14:27,320
+No somos marionetas, pero
+
+574
+00:14:27,320 --> 00:14:29,000
+tampoco somos totalmente
+
+575
+00:14:29,000 --> 00:14:29,880
+libres de entrada.
+
+576
+00:14:30,920 --> 00:14:31,940
+Plantea que nuestra
+
+577
+00:14:31,940 --> 00:14:33,980
+conciencia subjetiva, lo que
+
+578
+00:14:33,980 --> 00:14:36,220
+llamamos yo, es el resultado
+
+579
+00:14:36,220 --> 00:14:37,840
+de la interacción constante
+
+580
+00:14:37,840 --> 00:14:39,080
+de tres elementos.
+
+581
+00:14:39,520 --> 00:14:42,080
+Primero, el arquema, esta
+
+582
+00:14:42,080 --> 00:14:43,900
+influencia arquetípica,
+
+583
+00:14:44,140 --> 00:14:45,600
+nouménica, que es como
+
+584
+00:14:45,600 --> 00:14:46,780
+nuestro software base.
+
+585
+00:14:47,620 --> 00:14:49,940
+Segundo, el temperamento, que
+
+586
+00:14:49,940 --> 00:14:51,880
+es nuestra fisiología, la
+
+587
+00:14:51,880 --> 00:14:53,740
+biología, nuestro hardware
+
+588
+00:14:53,740 --> 00:14:54,400
+orgánico.
+
+589
+00:14:54,740 --> 00:14:55,360
+¿Y el tercero?
+
+590
+00:14:55,740 --> 00:14:57,720
+Y tercero, la psique, que
+
+591
+00:14:57,720 --> 00:14:59,280
+es la experiencia personal,
+
+592
+00:14:59,520 --> 00:15:01,020
+la cultura, la educación,
+
+593
+00:15:01,720 --> 00:15:02,740
+todo lo que se graba
+
+594
+00:15:02,740 --> 00:15:04,000
+en nuestro disco duro a
+
+595
+00:15:04,000 --> 00:15:04,860
+lo largo de la vida.
+
+596
+00:15:05,140 --> 00:15:06,280
+Y el yo ego, el
+
+597
+00:15:06,280 --> 00:15:07,200
+yo que percibo en mi
+
+598
+00:15:07,200 --> 00:15:08,040
+cabeza ahora mismo.
+
+599
+00:15:08,580 --> 00:15:09,640
+Es el operador que está
+
+600
+00:15:09,640 --> 00:15:11,000
+constantemente intentando
+
+601
+00:15:11,000 --> 00:15:13,000
+sincronizar estos tres flujos
+
+602
+00:15:13,000 --> 00:15:14,980
+de datos, lo arquetípico, lo
+
+603
+00:15:14,980 --> 00:15:16,740
+biológico y lo biográfico,
+
+604
+00:15:16,780 --> 00:15:18,140
+para generar la experiencia
+
+605
+00:15:18,140 --> 00:15:19,240
+coherente del presente.
+
+606
+00:15:19,860 --> 00:15:20,380
+Exacto.
+
+607
+00:15:20,380 --> 00:15:22,380
+Y aquí reside la implicación
+
+608
+00:15:22,380 --> 00:15:24,000
+más profunda y práctica de
+
+609
+00:15:24,000 --> 00:15:24,680
+todo el modelo.
+
+610
+00:15:25,380 --> 00:15:27,060
+Sin autoconocimiento, lo que
+
+611
+00:15:27,060 --> 00:15:29,300
+los textos llaman noesis, un
+
+612
+00:15:29,300 --> 00:15:30,760
+individuo corre el riesgo de
+
+613
+00:15:30,760 --> 00:15:32,680
+actuar como un NPC, un
+
+614
+00:15:32,680 --> 00:15:34,240
+personaje no jugable de un
+
+615
+00:15:34,240 --> 00:15:34,720
+videojuego.
+
+616
+00:15:35,280 --> 00:15:36,500
+Una interfaz automata.
+
+617
+00:15:36,640 --> 00:15:38,500
+Una interfaz automata
+
+618
+00:15:38,500 --> 00:15:39,980
+dirigida por las fuerzas
+
+619
+00:15:39,980 --> 00:15:41,460
+inconscientes de su
+
+620
+00:15:41,460 --> 00:15:44,260
+arquetema, su temperamento y
+
+621
+00:15:44,260 --> 00:15:46,420
+su psique, creyendo que elige
+
+622
+00:15:46,420 --> 00:15:48,120
+libremente cuando en realidad
+
+623
+00:15:48,120 --> 00:15:49,440
+sólo está ejecutando
+
+624
+00:15:49,440 --> 00:15:51,460
+programas preestablecidos.
+
+625
+00:15:51,900 --> 00:15:53,380
+El potencial para la
+
+626
+00:15:53,380 --> 00:15:55,340
+autoconciencia plena está
+
+627
+00:15:55,340 --> 00:15:57,080
+ahí, pero requiere trabajo
+
+628
+00:15:57,080 --> 00:15:59,120
+activo para tomar los mandos.
+
+629
+00:15:59,620 --> 00:16:01,080
+A modo de resumen entonces,
+
+630
+00:16:01,680 --> 00:16:02,900
+hemos recorrido un modelo
+
+631
+00:16:02,900 --> 00:16:04,880
+cosmológico que redefine el
+
+632
+00:16:04,880 --> 00:16:06,660
+universo, no como un lugar
+
+633
+00:16:06,660 --> 00:16:08,400
+de objetos muertos, sino como
+
+634
+00:16:08,400 --> 00:16:09,940
+una estructura de información
+
+635
+00:16:09,940 --> 00:16:12,580
+consciente, anidada, casi
+
+636
+00:16:12,580 --> 00:16:14,140
+como un organismo digital.
+
+637
+00:16:14,140 --> 00:16:15,060
+Totalmente.
+
+638
+00:16:15,220 --> 00:16:15,940
+Desde la conciencia
+
+639
+00:16:15,940 --> 00:16:17,420
+unificadora del yin padre,
+
+640
+00:16:17,760 --> 00:16:18,880
+hasta los algoritmos que
+
+641
+00:16:18,880 --> 00:16:20,420
+corren en el subconsciente de
+
+642
+00:16:20,420 --> 00:16:22,000
+cada individuo a través del
+
+643
+00:16:22,000 --> 00:16:22,400
+arquema.
+
+644
+00:16:23,220 --> 00:16:24,420
+Este marco nos invita a
+
+645
+00:16:24,420 --> 00:16:25,360
+ver la realidad de una
+
+646
+00:16:25,360 --> 00:16:26,840
+forma radicalmente distinta.
+
+647
+00:16:27,400 --> 00:16:29,640
+La física, la psicología, la
+
+648
+00:16:29,640 --> 00:16:31,500
+espiritualidad, dejan de ser
+
+649
+00:16:31,500 --> 00:16:32,720
+campos separados y se
+
+650
+00:16:32,720 --> 00:16:33,700
+convierten en distintos
+
+651
+00:16:33,700 --> 00:16:35,200
+lenguajes que describen
+
+652
+00:16:35,200 --> 00:16:36,600
+facetas del mismo fenómeno
+
+653
+00:16:36,600 --> 00:16:38,400
+subyacente, la manifestación
+
+654
+00:16:38,400 --> 00:16:39,540
+de patrones de información
+
+655
+00:16:39,540 --> 00:16:40,300
+arquetípica.
+
+656
+00:16:40,860 --> 00:16:41,920
+Es una visión que busca
+
+657
+00:16:41,920 --> 00:16:43,260
+unificar, no dividir.
+
+658
+00:16:43,720 --> 00:16:44,800
+Y esto nos deja con
+
+659
+00:16:44,800 --> 00:16:45,620
+una idea final para
+
+660
+00:16:45,620 --> 00:16:46,200
+reflexionar.
+
+661
+00:16:46,880 --> 00:16:48,160
+Los propios textos sugieren
+
+662
+00:16:48,160 --> 00:16:49,460
+que incluso la ciencia, con
+
+663
+00:16:49,460 --> 00:16:50,880
+su lenguaje tan especializado
+
+664
+00:16:50,880 --> 00:16:52,540
+y matemático, puede volverse
+
+665
+00:16:52,540 --> 00:16:53,840
+una especie de sistema
+
+666
+00:16:53,840 --> 00:16:55,800
+mistérico y oculto, accesible
+
+667
+00:16:55,800 --> 00:16:57,120
+sólo para los iniciados que
+
+668
+00:16:57,120 --> 00:16:58,140
+entienden ese lenguaje.
+
+669
+00:16:59,100 --> 00:17:00,680
+Si la realidad como propone
+
+670
+00:17:00,680 --> 00:17:02,280
+este modelo opera con base
+
+671
+00:17:02,280 --> 00:17:03,619
+en códigos y lenguajes
+
+672
+00:17:03,619 --> 00:17:05,819
+arquetípicos, la pregunta que
+
+673
+00:17:05,819 --> 00:17:07,720
+nos queda es, ¿qué lenguajes
+
+674
+00:17:07,720 --> 00:17:09,380
+ocultos en nuestros propios
+
+675
+00:17:09,380 --> 00:17:10,740
+campos de conocimiento, en
+
+676
+00:17:10,740 --> 00:17:11,920
+nuestro trabajo, en nuestras
+
+677
+00:17:11,920 --> 00:17:13,900
+relaciones, en nuestro día a
+
+678
+00:17:13,900 --> 00:17:15,700
+día, necesitamos aprender a
+
+679
+00:17:15,700 --> 00:17:17,260
+decodificar para percibir una
+
+680
+00:17:17,260 --> 00:17:18,579
+imagen más completa y
+
+681
+00:17:18,579 --> 00:17:20,200
+profunda de nuestra propia
+
+682
+00:17:20,200 --> 00:17:20,859
+existencia?
