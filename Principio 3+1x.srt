@@ -127,11 +127,11 @@ como una gramática
 sin que se venga abajo
 
 33
-00:00:55,326 --> 00:00:56,665
+00:00:55,326 --> 00:00:56,761
 por contradicciones.
 
 34
-00:00:56,940 --> 00:00:58,440
+00:00:56,786 --> 00:00:58,440
 De hecho, el autor llega a
 
 35
