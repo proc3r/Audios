@@ -16,7 +16,7 @@ una fuente fascinante titulada
 
 5
 00:00:07,218 --> 00:00:09,226
-Los tres arquitectos
+Los Tres Arquitectos
 
 6
 00:00:09,980 --> 00:00:12,073
@@ -31,11 +31,11 @@ como mínimo vertiginosa,
 que los nombres de antiguas deidades
 
 9
-00:00:15,551 --> 00:00:17,027
+00:00:15,551 --> 00:00:17,071
 no son solo mitos,
 
 10
-00:00:17,030 --> 00:00:17,846
+00:00:17,074 --> 00:00:17,796
 no
 
 11
