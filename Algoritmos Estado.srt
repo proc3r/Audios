@@ -1,2972 +1,3212 @@
 1
-00:00:00,039 --> 00:00:02,850
-Bien, vamos a desempacar esto porque
+00:00:00,039 --> 00:00:01,150
+Bien.. eh
 
 2
-00:00:02,850 --> 00:00:04,750
-hoy tenemos entre manos una exploración
+00:00:01,152 --> 00:00:02,579
+vamos a desempacar esto
 
 3
-00:00:04,750 --> 00:00:07,510
-a fondo que francamente tiene el
+00:00:02,582 --> 00:00:04,079
+porque hoy tenemos entre manos
 
 4
-00:00:07,510 --> 00:00:09,330
-potencial de sacudir por completo la
+00:00:04,082 --> 00:00:05,388
+una exploración a fondo...
 
 5
-00:00:09,330 --> 00:00:10,910
-manera en que quienes nos escuchan
+00:00:05,396 --> 00:00:07,003
+que francamente
 
 6
-00:00:10,910 --> 00:00:11,930
-entienden la realidad.
+00:00:07,006 --> 00:00:08,602
+tiene el potencial de sacudir
 
 7
-00:00:12,390 --> 00:00:15,309
-Hola y vaya que lo tiene, es un
+00:00:08,605 --> 00:00:09,921
+por completo la manera en que
 
 8
-00:00:15,309 --> 00:00:17,310
-material sumamente denso pero
+00:00:09,924 --> 00:00:11,003
+quienes nos escuchan
 
 9
-00:00:17,310 --> 00:00:17,870
-fascinante.
+00:00:11,006 --> 00:00:12,249
+entienden la realidad.
 
 10
-00:00:18,190 --> 00:00:20,570
-Totalmente, la misión en este análisis
+00:00:12,390 --> 00:00:14,159
+Hola y vaya que lo tiene
 
 11
-00:00:20,570 --> 00:00:22,670
-es decodificar una fuente muy compleja
+00:00:14,162 --> 00:00:17,040
+es un material sumamente denso
 
 12
-00:00:22,670 --> 00:00:25,590
-titulada algoritmos nivel 3 estado y
+00:00:17,043 --> 00:00:18,055
+pero fascinante.
 
 13
-00:00:25,590 --> 00:00:27,070
-para quienes buscan atajos a hacer el
+00:00:18,058 --> 00:00:19,086
+Totalmente
 
 14
-00:00:27,070 --> 00:00:28,650
-verdadero conocimiento de cómo funciona
+00:00:19,088 --> 00:00:20,699
+la misión en este análisis
 
 15
-00:00:28,650 --> 00:00:31,250
-la civilización, digamos que esta es
+00:00:20,702 --> 00:00:22,670
+es decodificar una fuente muy compleja
 
 16
-00:00:31,250 --> 00:00:32,330
-una parada obligatoria.
+00:00:22,670 --> 00:00:25,364
+titulada Algoritmos Nivel 3 (Estado)
 
 17
-00:00:32,970 --> 00:00:34,410
-Definitivamente, porque no vamos a
+00:00:25,367 --> 00:00:26,841
+y para quienes buscan atajos a hacia
 
 18
-00:00:34,410 --> 00:00:36,490
-hablar de política tradicional, nada de
+00:00:26,844 --> 00:00:28,199
+el verdadero conocimiento de
 
 19
-00:00:36,490 --> 00:00:38,090
-campañas ni de quién ganó el último
+00:00:28,202 --> 00:00:29,872
+cómo funciona la civilización,
 
 20
-00:00:38,090 --> 00:00:38,850
-debate electoral.
+00:00:29,875 --> 00:00:31,250
+digamos que esta es
 
 21
-00:00:39,510 --> 00:00:40,670
-Este material ofrece una lente
+00:00:31,250 --> 00:00:32,416
+una parada obligatoria.
 
 22
-00:00:40,670 --> 00:00:42,730
-completamente distinta, nos propone
+00:00:32,419 --> 00:00:33,667
+Definitivamente,
 
 23
-00:00:42,730 --> 00:00:44,550
-mirar a la nación no como un país
+00:00:33,669 --> 00:00:34,584
+porque no vamos a hablar
 
 24
-00:00:44,550 --> 00:00:46,450
-sino como un Modelo Nouménico.
+00:00:34,586 --> 00:00:35,839
+de política tradicional
 
 25
-00:00:46,710 --> 00:00:48,610
-Un Modelo Nouménico, exacto.
+00:00:35,842 --> 00:00:37,702
+nada de campañas, ni de quién ganó
 
 26
-00:00:48,670 --> 00:00:51,110
-Es decir, una arquitectura invisible de
+00:00:37,705 --> 00:00:39,345
+el último debate electoral.
 
 27
-00:00:51,110 --> 00:00:53,150
-algoritmos sociales y psicológicos que
+00:00:39,401 --> 00:00:40,670
+Este material ofrece una lente
 
 28
-00:00:53,150 --> 00:00:55,130
-condicionan desde las sombras
+00:00:40,670 --> 00:00:42,114
+completamente distinta
 
 29
+00:00:42,117 --> 00:00:43,717
+nos propone mirar a la nación
+
+30
+00:00:43,720 --> 00:00:44,700
+no como un país
+
+31
+00:00:44,702 --> 00:00:46,585
+sino como un Modelo Nouménico.
+
+32
+00:00:46,588 --> 00:00:48,610
+Un Modelo Nouménico, exacto.
+
+33
+00:00:48,670 --> 00:00:49,475
+Es decir
+
+34
+00:00:49,477 --> 00:00:51,110
+una arquitectura invisible de
+
+35
+00:00:51,110 --> 00:00:52,946
+algoritmos sociales y psicológicos
+
+36
+00:00:52,949 --> 00:00:55,130
+que condicionan desde las sombras
+
+37
 00:00:55,130 --> 00:00:57,210
 absolutamente todo lo que una persona
 
-30
-00:00:57,210 --> 00:00:58,070
+38
+00:00:57,210 --> 00:00:58,384
 percibe y vive.
 
-31
-00:00:58,550 --> 00:01:00,810
+39
+00:00:58,440 --> 00:01:00,810
 Y lo fascinante aquí es cómo esta
 
-32
-00:01:00,810 --> 00:01:03,090
-visión replantea nuestra idea de la
-
-33
-00:01:03,090 --> 00:01:03,930
-sociedad entera.
-
-34
-00:01:04,670 --> 00:01:06,330
-Normalmente pensamos que las
-
-35
-00:01:06,330 --> 00:01:09,290
-instituciones, las leyes, la cultura
-
-36
-00:01:09,290 --> 00:01:12,730
-misma, son simples herramientas que los
-
-37
-00:01:12,730 --> 00:01:14,950
-humanos inventamos para convivir en
-
-38
-00:01:14,950 --> 00:01:15,230
-paz.
-
-39
-00:01:15,450 --> 00:01:17,290
-Como si fueran herramientas neutrales.
-
 40
-00:01:17,510 --> 00:01:20,190
-Claro, pero bajo este modelo no son
+00:01:00,810 --> 00:01:02,841
+visión replantea nuestra idea
 
 41
-00:01:20,190 --> 00:01:22,910
-herramientas, son un sistema operativo
+00:01:02,844 --> 00:01:04,397
+de la sociedad entera.
 
 42
-00:01:22,910 --> 00:01:24,670
-masivo y autónomo.
+00:01:04,454 --> 00:01:06,330
+Normalmente pensamos que las
 
 43
-00:01:25,130 --> 00:01:27,410
-El documento lo denomina la monada
+00:01:06,330 --> 00:01:08,479
+instituciones, las leyes,
 
 44
-00:01:27,410 --> 00:01:27,970
-nacional.
+00:01:08,481 --> 00:01:10,135
+la cultura misma,
 
 45
-00:01:28,270 --> 00:01:28,930
-¿La monada?
+00:01:10,138 --> 00:01:12,350
+son simples herramientas que
 
 46
+00:01:12,353 --> 00:01:14,088
+los humanos inventamos
+
+47
+00:01:14,091 --> 00:01:15,399
+para convivir en paz.
+
+48
+00:01:15,402 --> 00:01:17,507
+Como si fueran herramientas neutrales.
+
+49
+00:01:17,510 --> 00:01:18,196
+Claro
+
+50
+00:01:18,198 --> 00:01:19,611
+pero bajo este modelo
+
+51
+00:01:19,613 --> 00:01:21,244
+no son herramientas
+
+52
+00:01:21,247 --> 00:01:22,910
+son un sistema operativo
+
+53
+00:01:22,910 --> 00:01:25,032
+masivo y autónomo.
+
+54
+00:01:25,130 --> 00:01:26,668
+El documento lo denomina
+
+55
+00:01:26,671 --> 00:01:28,192
+la Mónada Nacional.
+
+56
+00:01:28,195 --> 00:01:29,187
+¿La Mónada?
+
+57
 00:01:29,190 --> 00:01:31,530
 Sí, una entidad diseñada con un
 
-47
-00:01:31,530 --> 00:01:34,010
-propósito muy específico, que es
-
-48
-00:01:34,010 --> 00:01:36,530
-capturar, canalizar y administrar la
-
-49
-00:01:36,530 --> 00:01:38,330
-energía colectiva de sus habitantes.
-
-50
-00:01:38,970 --> 00:01:40,590
-No estamos hablando de un pedazo de
-
-51
-00:01:40,590 --> 00:01:42,910
-tierra delineado en un mapa, estamos
-
-52
-00:01:42,910 --> 00:01:44,650
-hablando de una estructura de control
-
-53
-00:01:44,650 --> 00:01:48,030
-psicológico Y antes de entrar de lleno,
-
-54
-00:01:48,210 --> 00:01:50,610
-creo que es vital establecer una regla
-
-55
-00:01:50,610 --> 00:01:52,410
-de oro para la conversación de hoy.
-
-56
-00:01:52,870 --> 00:01:54,050
-Absolutamente esencial.
-
-57
-00:01:54,410 --> 00:01:55,310
-La neutralidad.
-
 58
-00:01:55,730 --> 00:01:58,590
-Exacto, la neutralidad absoluta.
+00:01:31,530 --> 00:01:33,515
+propósito muy específico,
 
 59
-00:01:59,070 --> 00:02:01,850
-La fuente original disecciona todo el
+00:01:33,518 --> 00:01:36,340
+que es capturar, canalizar y administrar
 
 60
-00:02:01,850 --> 00:02:02,650
-espectro político.
+00:01:36,343 --> 00:01:38,847
+la energía colectiva de sus habitantes.
 
 61
-00:02:03,190 --> 00:02:04,770
-Habla de la izquierda, de la derecha,
+00:01:38,871 --> 00:01:40,590
+No estamos hablando de un pedazo de
 
 62
-00:02:05,090 --> 00:02:07,930
-del liberalismo, del conservadurismo, y
+00:01:40,590 --> 00:01:42,407
+tierra delineado en un mapa
 
 63
-00:02:07,930 --> 00:02:09,810
-nosotros vamos a hacer exactamente lo
+00:01:42,410 --> 00:01:44,257
+estamos hablando de una estructura
 
 64
-00:02:09,810 --> 00:02:10,030
-mismo.
+00:01:44,260 --> 00:01:46,688
+de control psicológico y estructural.
 
 65
+00:01:46,691 --> 00:01:48,207
+Y antes de entrar de lleno,
+
+66
+00:01:48,210 --> 00:01:49,917
+creo que es vital establecer
+
+67
+00:01:49,920 --> 00:01:51,075
+una regla de oro
+
+68
+00:01:51,077 --> 00:01:52,413
+para la conversación de hoy.
+
+69
+00:01:52,416 --> 00:01:54,294
+Absolutamente esencial.
+
+70
+00:01:54,302 --> 00:01:55,556
+La neutralidad.
+
+71
+00:01:55,584 --> 00:01:56,385
+Exacto
+
+72
+00:01:56,387 --> 00:01:58,845
+la neutralidad absoluta.
+
+73
+00:01:58,908 --> 00:02:01,218
+La fuente original disecciona
+
+74
+00:02:01,221 --> 00:02:03,013
+todo el espectro político.
+
+75
+00:02:03,021 --> 00:02:05,087
+Habla de la izquierda, de la derecha,
+
+76
+00:02:05,090 --> 00:02:06,252
+del liberalismo
+
+77
+00:02:06,254 --> 00:02:07,632
+del conservadurismo
+
+78
+00:02:07,635 --> 00:02:09,015
+y nosotros vamos a hacer
+
+79
+00:02:09,018 --> 00:02:10,247
+exactamente lo mismo.
+
+80
 00:02:10,250 --> 00:02:12,070
 No estamos aquí para tomar partido.
 
-66
-00:02:12,170 --> 00:02:14,090
-Para nada, ni para validar ninguna
+81
+00:02:12,073 --> 00:02:12,846
+Para nada
 
-67
-00:02:14,090 --> 00:02:14,610
-ideología.
+82
+00:02:12,849 --> 00:02:15,034
+ni para validar ninguna ideología.
 
-68
-00:02:15,290 --> 00:02:17,030
+83
+00:02:15,201 --> 00:02:17,030
 El objetivo de este análisis es
 
-69
+84
 00:02:17,030 --> 00:02:19,790
 elevarnos y observar todas estas
 
-70
-00:02:19,790 --> 00:02:22,310
-posturas políticas desde arriba, tal
+85
+00:02:19,790 --> 00:02:21,968
+posturas políticas desde arriba
 
-71
-00:02:22,310 --> 00:02:24,290
-como las describe este modelo, como
+86
+00:02:22,016 --> 00:02:23,944
+tal como las describe este modelo
 
-72
-00:02:24,290 --> 00:02:26,230
-simples engranajes dentro de un
+87
+00:02:23,947 --> 00:02:26,230
+ como simples engranajes dentro de un
 
-73
+88
 00:02:26,230 --> 00:02:28,030
 algoritmo gigantesco.
 
-74
-00:02:28,050 --> 00:02:29,870
-Porque la premisa central que lanza
+89
+00:02:28,050 --> 00:02:29,401
+Porque la premisa central
 
-75
-00:02:29,870 --> 00:02:32,670
-este modelo es, digamos, un dardo
+90
+00:02:29,404 --> 00:02:31,097
+que lanza este modelo es,
 
-76
-00:02:32,670 --> 00:02:34,590
-directo a nuestras creencias modernas.
+91
+00:02:31,100 --> 00:02:31,850
+digamos,
 
-77
-00:02:35,050 --> 00:02:37,130
-En la actualidad, se nos enseña que el
+92
+00:02:31,852 --> 00:02:33,477
+un dardo directo a nuestras
 
-78
-00:02:37,130 --> 00:02:39,090
-voto, las elecciones y las
+93
+00:02:33,480 --> 00:02:34,902
+creencias modernas.
 
-79
-00:02:39,090 --> 00:02:41,450
-instituciones democráticas son el
+94
+00:02:34,905 --> 00:02:36,056
+En la actualidad
 
-80
-00:02:41,450 --> 00:02:43,650
-triunfo máximo de la libertad humana.
+95
+00:02:36,058 --> 00:02:37,562
+se nos enseña que el voto
 
-81
-00:02:43,850 --> 00:02:45,330
+96
+00:02:37,565 --> 00:02:38,761
+las elecciones
+
+97
+00:02:38,764 --> 00:02:40,839
+y las instituciones democráticas
+
+98
+00:02:40,842 --> 00:02:42,590
+son el triunfo máximo
+
+99
+00:02:42,593 --> 00:02:43,744
+de la libertad humana.
+
+100
+00:02:43,747 --> 00:02:45,553
 El pináculo de la civilización.
 
-82
-00:02:45,630 --> 00:02:46,030
+101
+00:02:45,556 --> 00:02:46,625
 Ajá.
 
-83
-00:02:46,830 --> 00:02:48,410
-Pero la pregunta que plantea el
+102
+00:02:46,651 --> 00:02:48,223
+Pero la pregunta que plantea
 
-84
-00:02:48,410 --> 00:02:51,590
-documento es, ¿qué pasaría si todo ese
+103
+00:02:48,226 --> 00:02:49,786
+el documento es
 
-85
+104
+00:02:49,788 --> 00:02:51,590
+¿qué pasaría si todo ese
+
+105
 00:02:51,590 --> 00:02:53,690
 andamiaje fuera en realidad un
 
-86
+106
 00:02:53,690 --> 00:02:56,430
 mecanismo sofisticado para mantener a
 
-87
-00:02:56,430 --> 00:02:59,130
-la población atrapada en una ilusión de
-
-88
-00:02:59,130 --> 00:03:02,190
-decisión, mientras una élite administra
-
-89
-00:03:02,190 --> 00:03:04,150
-el verdadero poder desde la cima?
-
-90
-00:03:04,730 --> 00:03:04,950
-Guau.
-
-91
-00:03:05,350 --> 00:03:07,050
-Déjame ver si entiendo bien, porque el
-
-92
-00:03:07,050 --> 00:03:09,590
-lenguaje puede volverse un poco denso
-
-93
-00:03:09,590 --> 00:03:10,170
-al principio.
-
-94
-00:03:10,650 --> 00:03:12,390
-El texto usa un término que me dejó
-
-95
-00:03:12,390 --> 00:03:12,830
-pensando.
-
-96
-00:03:13,350 --> 00:03:15,550
-Dice que el Estado es un leviatán
-
-97
-00:03:15,550 --> 00:03:16,430
-egregórico.
-
-98
-00:03:16,990 --> 00:03:17,970
-Suena imponente, ¿verdad?
-
-99
-00:03:18,230 --> 00:03:20,150
-Suena a monstruo mitológico.
-
-100
-00:03:20,490 --> 00:03:22,310
-¿Qué significa exactamente esto en un
-
-101
-00:03:22,310 --> 00:03:23,630
-lenguaje más terrenal?
-
-102
-00:03:23,850 --> 00:03:25,250
-Es una excelente pregunta.
-
-103
-00:03:25,990 --> 00:03:28,310
-Un egregor, en términos simples, es una
-
-104
-00:03:28,310 --> 00:03:30,370
-conciencia colectiva que cobra vida
-
-105
-00:03:30,370 --> 00:03:32,090
-propia a partir de la energía de la
-
-106
-00:03:32,090 --> 00:03:33,170
-gente que la compone.
-
 107
-00:03:33,810 --> 00:03:36,050
-Para bajarlo a la tierra, imaginen una
+00:02:56,430 --> 00:02:58,179
+la población atrapada en una
 
 108
-00:03:36,050 --> 00:03:38,170
-cultura corporativa extremadamente
+00:02:58,181 --> 00:03:00,066
+ilusión de decisión,
 
 109
-00:03:38,170 --> 00:03:40,450
-tóxica en una empresa multinacional.
+00:03:00,069 --> 00:03:02,190
+mientras una élite administra
 
 110
-00:03:40,590 --> 00:03:42,030
-Ok, una empresa tóxica.
+00:03:02,190 --> 00:03:04,532
+el verdadero poder desde la cima?
 
 111
-00:03:42,150 --> 00:03:44,010
-Ningún empleado individualmente quiere
+00:03:04,535 --> 00:03:05,301
+Guau.
 
 112
-00:03:44,010 --> 00:03:44,690
-ser tóxico.
+00:03:05,304 --> 00:03:06,634
+Déjame ver si entiendo bien
 
 113
-00:03:45,130 --> 00:03:46,470
-Todos odian ese ambiente.
+00:03:06,637 --> 00:03:08,239
+porque el lenguaje puede volverse
 
 114
-00:03:46,890 --> 00:03:48,890
-Pero cuando entran a la oficina, las
+00:03:08,242 --> 00:03:10,487
+un poco denso al principio.
 
 115
-00:03:48,890 --> 00:03:50,870
-reglas no escritas los obligan a actuar
+00:03:10,550 --> 00:03:11,898
+El texto usa un término
 
 116
-00:03:50,870 --> 00:03:51,630
-de cierta manera.
+00:03:11,901 --> 00:03:13,168
+que me dejó pensando.
 
 117
-00:03:52,050 --> 00:03:53,750
-Como si el ambiente dictara cómo
+00:03:13,207 --> 00:03:14,755
+Dice que el Estado es un
 
 118
-00:03:53,750 --> 00:03:54,490
-comportarse.
+00:03:14,757 --> 00:03:16,720
+Leviatán Egregórico.
 
 119
-00:03:55,130 --> 00:03:55,730
-Exactamente.
+00:03:16,728 --> 00:03:18,137
+Suena imponente, ¿verdad?
 
 120
+00:03:18,140 --> 00:03:20,392
+Suena a monstruo mitológico.
+
+121
+00:03:20,395 --> 00:03:22,000
+¿Qué significa exactamente esto
+
+122
+00:03:22,003 --> 00:03:23,847
+en un lenguaje más terrenal?
+
+123
+00:03:23,850 --> 00:03:25,731
+Es una excelente pregunta.
+
+124
+00:03:25,815 --> 00:03:27,786
+Un egregor, en términos simples
+
+125
+00:03:27,789 --> 00:03:29,653
+es una Conciencia Colectiva
+
+126
+00:03:29,656 --> 00:03:31,223
+que cobra vida propia a partir
+
+127
+00:03:31,226 --> 00:03:33,576
+de la energía de la gente que la compone.
+
+128
+00:03:33,579 --> 00:03:35,160
+Para bajarlo a la tierra
+
+129
+00:03:35,163 --> 00:03:36,471
+imaginen una cultura
+
+130
+00:03:36,473 --> 00:03:38,711
+corporativa extremadamente tóxica
+
+131
+00:03:38,714 --> 00:03:40,553
+en una empresa multinacional.
+
+132
+00:03:40,556 --> 00:03:42,089
+Ok, una empresa tóxica.
+
+133
+00:03:42,092 --> 00:03:43,779
+Ningún empleado individualmente
+
+134
+00:03:43,782 --> 00:03:44,996
+quiere ser tóxico.
+
+135
+00:03:44,999 --> 00:03:46,822
+Todos odian ese ambiente.
+
+136
+00:03:46,890 --> 00:03:48,626
+Pero cuando entran a la oficina
+
+137
+00:03:48,629 --> 00:03:50,502
+las reglas no escritas los obligan
+
+138
+00:03:50,505 --> 00:03:51,972
+a actuar de cierta manera.
+
+139
+00:03:51,975 --> 00:03:53,517
+Como si el ambiente dictara
+
+140
+00:03:53,520 --> 00:03:54,699
+cómo comportarse.
+
+141
+00:03:54,717 --> 00:03:55,977
+Exactamente.
+
+142
 00:03:56,010 --> 00:03:57,770
 La cultura corporativa se vuelve un
 
-121
-00:03:57,770 --> 00:03:59,770
-monstruo autónomo que dicta el
-
-122
-00:03:59,770 --> 00:04:00,870
-comportamiento de todos.
-
-123
-00:04:00,870 --> 00:04:03,330
-Bueno, el Modelo Nouménico propone que
-
-124
-00:04:03,330 --> 00:04:05,630
-una nación entera es exactamente eso,
-
-125
-00:04:05,930 --> 00:04:07,270
-pero a una escala monumental.
-
-126
-00:04:07,590 --> 00:04:08,050
-Monumental.
-
-127
-00:04:08,610 --> 00:04:10,150
-Desde el instante en que alguien nace,
-
-128
-00:04:10,670 --> 00:04:12,570
-queda sometido a esta entidad, a esta
-
-129
-00:04:12,570 --> 00:04:15,029
-mónada, mediante un pacto que jamás
-
-130
-00:04:15,029 --> 00:04:15,589
-firmó.
-
-131
-00:04:15,670 --> 00:04:16,850
-Nunca te preguntan si quieres
-
-132
-00:04:16,850 --> 00:04:17,390
-participar.
-
-133
-00:04:17,769 --> 00:04:18,070
-Nunca.
-
-134
-00:04:18,790 --> 00:04:21,330
-Su moneda, su idioma, sus leyes y su
-
-135
-00:04:21,330 --> 00:04:23,630
-versión de la historia, se instalan en
-
-136
-00:04:23,630 --> 00:04:25,550
-el cerebro del individuo como el
-
-137
-00:04:25,550 --> 00:04:27,530
-software base que dictará su realidad.
-
-138
-00:04:27,530 --> 00:04:29,650
-Y dentro de esa inmensa maquinaria
-
-139
-00:04:29,650 --> 00:04:31,030
-corporativa, por seguir con la
-
-140
-00:04:31,030 --> 00:04:33,590
-analogía, hay un rol central, que es el
-
-141
-00:04:33,590 --> 00:04:34,070
-del líder.
-
-142
-00:04:34,670 --> 00:04:36,210
-La fuente habla de la figura del
-
 143
-00:04:36,210 --> 00:04:36,710
-ungido.
+00:03:57,770 --> 00:03:59,237
+monstruo autónomo
 
 144
-00:04:36,890 --> 00:04:37,990
-El ungido, sí.
+00:03:59,240 --> 00:04:01,201
+que dicta el comportamiento de todos.
 
 145
-00:04:38,310 --> 00:04:40,630
-Y hace una distinción muy curiosa entre
+00:04:01,204 --> 00:04:03,330
+Bueno, el Modelo Nouménico propone que
 
 146
-00:04:40,630 --> 00:04:41,890
-el pasado y el presente.
+00:04:03,330 --> 00:04:05,763
+una nación entera es exactamente eso,
 
 147
-00:04:42,670 --> 00:04:44,250
-Menciona que en la antigüedad, en lo
+00:04:05,766 --> 00:04:07,502
+pero a una escala monumental.
 
 148
-00:04:44,250 --> 00:04:46,410
-que llama la Civilización Tipo 1,
+00:04:07,505 --> 00:04:08,468
+Monumental.
 
 149
-00:04:47,050 --> 00:04:49,310
-ese poder se le entregaba a un monarca.
+00:04:08,471 --> 00:04:10,514
+Desde el instante en que alguien nace,
 
 150
-00:04:49,670 --> 00:04:51,450
-Un rey que supuestamente tenía un
+00:04:10,522 --> 00:04:12,191
+queda sometido a esta entidad
 
 151
-00:04:51,450 --> 00:04:53,390
-mandato divino para ser la conciencia
+00:04:12,194 --> 00:04:13,382
+a esta Mónada
 
 152
-00:04:53,390 --> 00:04:53,990
-de la nación.
+00:04:13,385 --> 00:04:15,497
+mediante un pacto que jamás firmó.
 
 153
-00:04:54,310 --> 00:04:54,970
-Así es.
+00:04:15,500 --> 00:04:16,543
+Nunca te preguntan
 
 154
-00:04:55,090 --> 00:04:57,230
-Y lo que resulta revelador es cómo el
+00:04:16,546 --> 00:04:17,683
+si quieres participar.
 
 155
-00:04:57,230 --> 00:04:59,630
-modelo analiza la Civilización Tipo 2,
+00:04:17,686 --> 00:04:18,694
+Nunca.
 
 156
-00:04:59,790 --> 00:05:01,390
-que es nuestra era moderna.
+00:04:18,790 --> 00:04:21,026
+Su moneda, su idioma, sus leyes
 
 157
+00:04:21,029 --> 00:04:22,764
+y su versión de la historia
+
+158
+00:04:22,767 --> 00:04:25,049
+se instalan en el cerebro del individuo
+
+159
+00:04:25,052 --> 00:04:26,430
+como el software base
+
+160
+00:04:26,432 --> 00:04:27,819
+que dictará su realidad.
+
+161
+00:04:27,822 --> 00:04:29,196
+Y dentro de esa inmensa
+
+162
+00:04:29,199 --> 00:04:30,284
+maquinaria corporativa
+
+163
+00:04:30,287 --> 00:04:31,728
+por seguir con la analogía
+
+164
+00:04:31,731 --> 00:04:33,010
+hay un rol central
+
+165
+00:04:33,013 --> 00:04:34,566
+que es el del líder.
+
+166
+00:04:34,569 --> 00:04:35,710
+La fuente habla de la
+
+167
+00:04:35,713 --> 00:04:36,871
+figura del ungido.
+
+168
+00:04:36,881 --> 00:04:38,252
+El ungido, sí.
+
+169
+00:04:38,310 --> 00:04:40,328
+Y hace una distinción muy curiosa
+
+170
+00:04:40,331 --> 00:04:42,408
+entre el pasado y el presente.
+
+171
+00:04:42,440 --> 00:04:43,924
+Menciona que en la antigüedad
+
+172
+00:04:43,927 --> 00:04:46,944
+en lo que llama la Civilización Tipo 1
+
+173
+00:04:46,947 --> 00:04:49,577
+ese poder se le entregaba a un monarca.
+
+174
+00:04:49,580 --> 00:04:51,297
+Un rey que supuestamente tenía
+
+175
+00:04:51,300 --> 00:04:52,653
+un mandato divino para ser
+
+176
+00:04:52,656 --> 00:04:54,186
+la conciencia de la nación.
+
+177
+00:04:54,189 --> 00:04:55,030
+Así es.
+
+178
+00:04:55,033 --> 00:04:56,559
+Y lo que resulta revelador
+
+179
+00:04:56,562 --> 00:04:58,180
+es cómo el modelo analiza
+
+180
+00:04:58,182 --> 00:04:59,748
+la Civilización Tipo 2,
+
+181
+00:04:59,751 --> 00:05:01,535
+que es nuestra era moderna.
+
+182
 00:05:01,538 --> 00:05:02,950
 Donde supuestamente
 
-158
+183
 00:05:02,953 --> 00:05:04,330
 ya no hay reyes absolutos.
 
-159
+184
 00:05:04,387 --> 00:05:05,612
 Supuestamente.
 
-160
+185
 00:05:05,692 --> 00:05:07,670
 Creemos que al abolir las monarquías
 
-161
-00:05:07,670 --> 00:05:09,770
+186
+00:05:07,670 --> 00:05:10,113
 superamos esa etapa irracional.
 
-162
+187
 00:05:10,290 --> 00:05:12,150
 Pero la arquitectura nouménica
 
-163
-00:05:12,150 --> 00:05:14,470
+188
+00:05:12,150 --> 00:05:14,749
 argumenta que el rol jamás desapareció.
 
-164
-00:05:15,030 --> 00:05:16,570
+189
+00:05:14,752 --> 00:05:16,885
 Simplemente se secularizó.
 
-165
-00:05:17,070 --> 00:05:19,050
-Hoy en día, el presidente o el líder
+190
+00:05:16,893 --> 00:05:18,415
+Hoy en día, el presidente
 
-166
-00:05:19,050 --> 00:05:21,150
-de turno, de manera consciente o
+191
+00:05:18,417 --> 00:05:19,849
+o el líder de turno,
 
-167
-00:05:21,150 --> 00:05:23,450
-inconsciente, sigue operando como un
+192
+00:05:19,852 --> 00:05:21,936
+de manera consciente o inconsciente
 
-168
-00:05:23,450 --> 00:05:24,410
-mesías laico.
+193
+00:05:21,939 --> 00:05:24,512
+sigue operando como un mesías laico.
 
-169
-00:05:24,690 --> 00:05:26,550
+194
+00:05:24,520 --> 00:05:26,685
 Un mesías con traje y corbata.
 
-170
-00:05:26,910 --> 00:05:27,470
+195
+00:05:26,688 --> 00:05:27,701
 Exacto.
 
-171
-00:05:27,790 --> 00:05:29,210
-El cargo concentra un poder
+196
+00:05:27,704 --> 00:05:28,880
+El cargo concentra
 
-172
-00:05:29,210 --> 00:05:31,350
-trascendental, porque representa la
+197
+00:05:28,883 --> 00:05:30,145
+un poder trascendental,
 
-173
-00:05:31,350 --> 00:05:33,550
-Consciencia Universal de esa mónada.
+198
+00:05:30,147 --> 00:05:31,350
+porque representa la
 
-174
-00:05:34,010 --> 00:05:36,030
+199
+00:05:31,350 --> 00:05:33,926
+Consciencia Universal de esa Mónada.
+
+200
+00:05:33,929 --> 00:05:36,030
 La masa sigue depositando en él una
 
-175
-00:05:36,030 --> 00:05:38,290
+201
+00:05:36,030 --> 00:05:38,523
 esperanza de salvación casi religiosa.
 
-176
-00:05:38,630 --> 00:05:39,950
+202
+00:05:38,526 --> 00:05:39,950
 Lo cual nos lleva a chocar de frente
 
-177
-00:05:39,950 --> 00:05:42,570
-contra el gran mito moderno, que es la
+203
+00:05:39,950 --> 00:05:41,939
+contra el gran mito moderno
 
-178
-00:05:42,570 --> 00:05:43,130
-democracia.
+204
+00:05:41,942 --> 00:05:43,600
+que es la democracia.
 
-179
-00:05:43,730 --> 00:05:45,030
-Y aquí es donde el documento no se
+205
+00:05:43,603 --> 00:05:44,710
+Y aquí es donde el documento
 
-180
-00:05:45,030 --> 00:05:45,550
-guarda nada.
+206
+00:05:44,713 --> 00:05:45,918
+no se guarda nada.
 
-181
-00:05:46,030 --> 00:05:47,050
+207
+00:05:45,921 --> 00:05:47,402
 No, para nada.
 
-182
-00:05:47,550 --> 00:05:49,490
+208
+00:05:47,442 --> 00:05:49,794
 Va directo a la yugular del sistema.
 
-183
-00:05:49,970 --> 00:05:51,310
-Porque uno pensaría que una república
+209
+00:05:49,797 --> 00:05:50,731
+Porque uno pensaría
 
-184
-00:05:51,310 --> 00:05:53,890
-democrática es la evolución natural, la
+210
+00:05:50,734 --> 00:05:52,102
+que una república democrática
 
-185
-00:05:53,890 --> 00:05:55,610
-cura definitiva contra la tiranía.
+211
+00:05:52,104 --> 00:05:53,614
+es la evolución natural
 
-186
-00:05:56,230 --> 00:05:57,490
+212
+00:05:53,617 --> 00:05:56,033
+la cura definitiva contra la tiranía.
+
+213
+00:05:56,128 --> 00:05:57,490
 Pero la fuente sugiere que la
 
-187
+214
 00:05:57,490 --> 00:05:59,270
 democracia no es inherentemente
 
-188
-00:05:59,270 --> 00:06:00,430
+215
+00:05:59,270 --> 00:06:00,809
 superior a la monarquía.
 
-189
-00:06:00,910 --> 00:06:02,910
-Desde la perspectiva del código de la
+216
+00:06:00,812 --> 00:06:02,244
+Desde la perspectiva del
 
-190
-00:06:02,910 --> 00:06:05,170
-mónada, la democracia simplemente
+217
+00:06:02,247 --> 00:06:03,641
+código de la Mónada
 
-191
-00:06:05,170 --> 00:06:06,250
+218
+00:06:03,643 --> 00:06:05,170
+la democracia simplemente
+
+219
+00:06:05,170 --> 00:06:06,674
 fragmenta el poder.
 
-192
-00:06:06,790 --> 00:06:08,330
+220
+00:06:06,677 --> 00:06:08,534
 No lo democratiza realmente.
 
-193
-00:06:08,690 --> 00:06:10,690
+221
+00:06:08,537 --> 00:06:11,027
 Lo dispersa entre distintas facciones.
 
-194
-00:06:11,030 --> 00:06:12,270
+222
+00:06:11,030 --> 00:06:12,520
 Y eso genera conflicto.
 
-195
-00:06:12,710 --> 00:06:13,170
+223
+00:06:12,523 --> 00:06:13,469
 Mucho.
 
-196
-00:06:13,610 --> 00:06:15,530
+224
+00:06:13,501 --> 00:06:15,530
 Funciona como un mecanismo perfecto
 
-197
+225
 00:06:15,530 --> 00:06:17,790
 para generar y mantener un estado de
 
-198
-00:06:17,790 --> 00:06:19,070
+226
+00:06:17,790 --> 00:06:19,343
 caos interno perpetuo.
 
-199
-00:06:19,470 --> 00:06:21,630
-Ahora, esto no es un error de diseño.
+227
+00:06:19,346 --> 00:06:20,091
+Ahora...
 
-200
-00:06:22,090 --> 00:06:24,270
+228
+00:06:20,094 --> 00:06:22,000
+esto no es un error de diseño.
+
+229
+00:06:22,003 --> 00:06:24,616
 Es una característica funcional.
 
-201
-00:06:24,730 --> 00:06:26,850
+230
+00:06:24,624 --> 00:06:27,115
 O sea, ¿está diseñado para ser caótico?
 
-202
-00:06:27,530 --> 00:06:28,250
+231
+00:06:27,118 --> 00:06:28,546
 Completamente.
 
-203
-00:06:28,670 --> 00:06:30,710
-Un país sumido en el caos interno
+232
+00:06:28,670 --> 00:06:29,734
+Un país sumido en el
 
-204
-00:06:30,710 --> 00:06:33,190
-constante, donde la población está
+233
+00:06:29,736 --> 00:06:31,604
+caos interno constante
 
-205
-00:06:33,190 --> 00:06:35,910
-eternamente peleando consigo misma, es
+234
+00:06:31,607 --> 00:06:33,190
+donde la población está
 
-206
-00:06:35,910 --> 00:06:37,870
-inofensivo hacia el exterior y
+235
+00:06:33,190 --> 00:06:35,581
+eternamente peleando consigo misma
 
-207
-00:06:37,870 --> 00:06:40,210
-tremendamente fácil de explotar desde
+236
+00:06:35,584 --> 00:06:37,870
+es inofensivo hacia el exterior y
 
-208
-00:06:40,210 --> 00:06:40,770
-el interior.
+237
+00:06:37,870 --> 00:06:39,792
+tremendamente fácil de explotar
 
-209
-00:06:41,290 --> 00:06:41,630
+238
+00:06:39,795 --> 00:06:41,085
+desde el interior.
+
+239
+00:06:41,165 --> 00:06:42,014
 Claro.
 
-210
-00:06:42,150 --> 00:06:43,910
-Esto beneficia tanto a las potencias
+240
+00:06:42,017 --> 00:06:43,496
+Esto beneficia tanto a
 
-211
-00:06:43,910 --> 00:06:46,170
-extranjeras, lo que la fuente llama el
+241
+00:06:43,498 --> 00:06:44,890
+las potencias extranjeras,
 
-212
-00:06:46,170 --> 00:06:48,210
-hegemón global, como a las castas
+242
+00:06:44,893 --> 00:06:45,985
+lo que la fuente llama
 
-213
-00:06:48,210 --> 00:06:50,130
-políticas locales que prosperan en la
+243
+00:06:45,987 --> 00:06:47,097
+el Hegemón Global,
 
-214
-00:06:50,130 --> 00:06:50,830
-división.
+244
+00:06:47,100 --> 00:06:49,111
+como a las castas políticas locales
 
-215
-00:06:50,850 --> 00:06:52,530
-A mí me gusta imaginarlo con una
+245
+00:06:49,114 --> 00:06:50,728
+que prosperan en la división.
 
-216
-00:06:52,530 --> 00:06:53,970
-analogía que creo que a nuestra
+246
+00:06:50,731 --> 00:06:52,202
+A mí me gusta imaginarlo
 
-217
-00:06:53,970 --> 00:06:55,230
-audiencia le va a resonar.
+247
+00:06:52,205 --> 00:06:53,559
+con una analogía que creo que
 
-218
+248
+00:06:53,562 --> 00:06:55,694
+a nuestra audiencia le va a resonar.
+
+249
 00:06:55,810 --> 00:06:58,010
 Es como cuando éramos niños y jugábamos
 
-219
-00:06:58,010 --> 00:06:59,570
+250
+00:06:58,010 --> 00:06:59,781
 videojuegos con un hermano menor.
 
-220
-00:06:59,870 --> 00:07:01,310
+251
+00:06:59,784 --> 00:07:01,495
 Me imagino a dónde vas con esto.
 
-221
-00:07:01,610 --> 00:07:03,550
-Para que no molestara, le dábamos un
+252
+00:07:01,503 --> 00:07:02,786
+Para que no molestara
 
-222
-00:07:03,550 --> 00:07:05,470
-control que estaba desconectado de la
+253
+00:07:02,789 --> 00:07:04,388
+le dábamos un control que estaba
 
-223
-00:07:05,470 --> 00:07:05,910
-consola.
+254
+00:07:04,391 --> 00:07:06,265
+desconectado de la consola.
 
-224
-00:07:06,450 --> 00:07:07,870
+255
+00:07:06,289 --> 00:07:07,906
 El niño apretaba los botones
 
-225
-00:07:07,870 --> 00:07:09,930
-frenéticamente, creyendo que estaba
+256
+00:07:07,908 --> 00:07:09,038
+frenéticamente
 
-226
-00:07:09,930 --> 00:07:11,310
-controlando al personaje en la
+257
+00:07:09,041 --> 00:07:10,432
+creyendo que estaba controlando
 
-227
-00:07:11,310 --> 00:07:13,790
-pantalla, completamente feliz y
+258
+00:07:10,435 --> 00:07:12,042
+al personaje en la pantalla
 
-228
-00:07:13,790 --> 00:07:14,350
-distraído.
+259
+00:07:12,045 --> 00:07:14,679
+completamente feliz y distraído.
 
-229
-00:07:14,350 --> 00:07:16,710
+260
+00:07:14,682 --> 00:07:16,710
 Esa es una imagen brutalmente precisa
 
-230
-00:07:16,710 --> 00:07:18,310
+261
+00:07:16,710 --> 00:07:18,845
 para ilustrar lo que plantea el autor.
 
-231
-00:07:19,090 --> 00:07:21,330
-Según este documento, el voto ciudadano
+262
+00:07:18,948 --> 00:07:20,289
+Según este documento,
 
-232
-00:07:21,330 --> 00:07:23,130
+263
+00:07:20,291 --> 00:07:21,500
+el voto ciudadano
+
+264
+00:07:21,503 --> 00:07:23,130
 es ese control desconectado.
 
-233
-00:07:23,210 --> 00:07:24,550
+265
+00:07:23,133 --> 00:07:24,765
 Es fuerte escucharlo así.
 
-234
-00:07:24,830 --> 00:07:27,170
-En este sistema, el individuo queda
+266
+00:07:24,768 --> 00:07:26,067
+En este sistema,
 
-235
-00:07:27,170 --> 00:07:29,690
-reducido a una célula de recambio.
+267
+00:07:26,069 --> 00:07:28,373
+el individuo queda reducido a una
 
-236
-00:07:30,350 --> 00:07:32,130
+268
+00:07:28,376 --> 00:07:30,059
+célula de recambio.
+
+269
+00:07:30,139 --> 00:07:32,130
 Se fomenta la creencia de que ir a
 
-237
-00:07:32,130 --> 00:07:33,910
-las urnas es un acto de soberanía
+270
+00:07:32,130 --> 00:07:34,656
+las urnas es un acto de soberanía suprema
 
-238
-00:07:33,910 --> 00:07:36,590
-suprema, pero el modelo lo define como
+271
+00:07:34,659 --> 00:07:36,590
+pero el modelo lo define como
 
-239
-00:07:36,590 --> 00:07:38,010
+272
+00:07:36,590 --> 00:07:38,054
 un filtro restrictivo.
 
-240
-00:07:38,130 --> 00:07:39,410
+273
+00:07:38,057 --> 00:07:39,410
 Un filtro que silencia.
 
-241
-00:07:39,410 --> 00:07:41,830
-Se obliga a las masas a participar en
+274
+00:07:39,410 --> 00:07:41,627
+Se obliga a las masas a participar
 
-242
-00:07:41,830 --> 00:07:43,970
-un simulacro donde sólo pueden elegir
+275
+00:07:41,630 --> 00:07:42,867
+en un simulacro donde
 
-243
-00:07:43,970 --> 00:07:45,930
-el mal menor entre un menú de
+276
+00:07:42,870 --> 00:07:45,052
+sólo pueden elegir el mal menor
 
-244
-00:07:45,930 --> 00:07:48,190
-candidatos que ya fueron minuciosamente
+277
+00:07:45,055 --> 00:07:46,519
+entre un menú de candidatos
 
-245
-00:07:48,190 --> 00:07:50,170
-preseleccionados por lo que el texto
+278
+00:07:46,521 --> 00:07:48,190
+que ya fueron minuciosamente
 
-246
-00:07:50,170 --> 00:07:52,770
-denomina sectas ideológicas.
+279
+00:07:48,190 --> 00:07:49,285
+preseleccionados
 
-247
-00:07:52,930 --> 00:07:54,530
-Que no son otra cosa que los partidos
+280
+00:07:49,287 --> 00:07:50,931
+por lo que el texto denomina
 
-248
-00:07:54,530 --> 00:07:56,050
-políticos tradicionales.
+281
+00:07:50,934 --> 00:07:52,899
+sectas ideológicas.
 
-249
-00:07:56,370 --> 00:07:56,850
+282
+00:07:52,930 --> 00:07:54,100
+Que no son otra cosa que los
+
+283
+00:07:54,103 --> 00:07:56,151
+partidos políticos tradicionales.
+
+284
+00:07:56,154 --> 00:07:56,947
 Exactamente.
 
-250
+285
 00:07:56,950 --> 00:07:58,570
 Aquí es donde se pone realmente
 
-251
-00:07:58,570 --> 00:08:00,810
-interesante, porque el documento no se
+286
+00:07:58,570 --> 00:07:59,528
+interesante
 
-252
-00:08:00,810 --> 00:08:02,190
-queda sólo en la filosofía.
+287
+00:07:59,530 --> 00:08:00,426
+porque el documento
 
-253
-00:08:02,730 --> 00:08:04,430
-Abre el capó del auto y nos muestra
+288
+00:08:00,429 --> 00:08:02,551
+no se queda sólo en la filosofía.
 
-254
-00:08:04,430 --> 00:08:04,850
-el motor.
+289
+00:08:02,554 --> 00:08:03,797
+Abre el capó del auto
 
-255
-00:08:05,530 --> 00:08:07,610
+290
+00:08:03,800 --> 00:08:05,271
+y nos muestra el motor.
+
+291
+00:08:05,274 --> 00:08:07,610
 Desglosa la fisiología de este sistema
 
-256
-00:08:07,610 --> 00:08:09,630
-en lo que llama los algoritmos del
+292
+00:08:07,610 --> 00:08:08,614
+en lo que llama
 
-257
-00:08:09,630 --> 00:08:10,230
-nivel 3.
+293
+00:08:08,617 --> 00:08:10,230
+los Algoritmos del Nivel 3.
 
-258
-00:08:10,470 --> 00:08:12,470
+294
+00:08:10,233 --> 00:08:12,470
 Son líneas de código específicas que
 
-259
-00:08:12,470 --> 00:08:14,550
+295
+00:08:12,470 --> 00:08:14,673
 hacen que todo este teatro funcione.
 
-260
-00:08:14,690 --> 00:08:16,390
+296
+00:08:14,690 --> 00:08:16,839
 Vamos a examinar ese código entonces.
 
-261
+297
 00:08:16,950 --> 00:08:18,610
 El primero que nos presenta es el
 
-262
-00:08:18,610 --> 00:08:21,030
-Algoritmo 22, el monádico estatal.
+298
+00:08:18,610 --> 00:08:21,235
+Algoritmo 22, el Monádico  Estatal.
 
-263
-00:08:21,390 --> 00:08:23,530
-Si usamos jerga informática, el
+299
+00:08:21,238 --> 00:08:23,309
+Si usamos jerga informática
 
-264
-00:08:23,530 --> 00:08:25,850
-Algoritmo 22 es el hardware de la
+300
+00:08:23,312 --> 00:08:24,785
+el Algoritmo 22
 
-265
-00:08:25,850 --> 00:08:26,230
-nación.
+301
+00:08:24,788 --> 00:08:26,523
+es el hardware de la nación.
 
-266
-00:08:26,590 --> 00:08:27,310
+302
+00:08:26,526 --> 00:08:27,716
 La base física.
 
-267
-00:08:27,870 --> 00:08:28,070
+303
+00:08:27,719 --> 00:08:28,408
 Sí.
 
-268
-00:08:28,470 --> 00:08:30,710
-Estamos hablando de la constitución,
+304
+00:08:28,411 --> 00:08:30,988
+Estamos hablando de La Constitución,
 
-269
-00:08:31,030 --> 00:08:33,370
-los códigos civiles fundamentales y las
+305
+00:08:31,030 --> 00:08:33,059
+los códigos civiles fundamentales
 
-270
-00:08:33,370 --> 00:08:34,650
-instituciones supremas.
+306
+00:08:33,062 --> 00:08:35,006
+y las instituciones supremas.
 
-271
+307
 00:08:35,090 --> 00:08:36,990
 Y el punto crítico que hace el modelo
 
-272
-00:08:36,990 --> 00:08:39,309
+308
+00:08:36,990 --> 00:08:39,525
 es resaltar su extrema rigidez.
 
-273
+309
 00:08:39,549 --> 00:08:41,190
 Y eso es fascinante, porque solemos
 
-274
+310
 00:08:41,190 --> 00:08:43,169
 tratar a las constituciones casi como
 
-275
-00:08:43,169 --> 00:08:45,050
+311
+00:08:43,169 --> 00:08:45,372
 textos sagrados, intocables.
 
-276
-00:08:45,470 --> 00:08:47,110
+312
+00:08:45,470 --> 00:08:47,263
 Se nos enseña a reverenciarlas.
 
-277
-00:08:47,330 --> 00:08:48,930
+313
+00:08:47,330 --> 00:08:49,212
 Como si hubieran bajado del cielo.
 
-278
-00:08:49,250 --> 00:08:49,850
+314
+00:08:49,215 --> 00:08:50,077
 Exacto.
 
-279
-00:08:50,170 --> 00:08:52,890
-Pero la fuente nos dice, un momento, no
+315
+00:08:50,170 --> 00:08:51,675
+Pero la fuente nos dice,
 
-280
-00:08:52,890 --> 00:08:54,030
-hay nada de sagrado aquí.
+316
+00:08:51,677 --> 00:08:52,597
+un momento
 
-281
-00:08:54,470 --> 00:08:56,110
-Fueron documentos redactados hace
+317
+00:08:52,600 --> 00:08:54,327
+no hay nada de sagrado aquí.
 
-282
-00:08:56,110 --> 00:08:57,910
-siglos, muchas veces por herederos
+318
+00:08:54,359 --> 00:08:55,863
+Fueron documentos redactados
 
-283
-00:08:57,910 --> 00:08:59,990
-aristocráticos o élites fundadoras que
+319
+00:08:55,866 --> 00:08:56,641
+hace siglos,
 
-284
-00:08:59,990 --> 00:09:02,170
-diseñaron esas reglas específicamente
+320
+00:08:56,643 --> 00:08:58,586
+muchas veces por herederos aristocráticos
 
-285
-00:09:02,170 --> 00:09:04,090
-para asegurar que su dominio perdurara
+321
+00:08:58,589 --> 00:08:59,863
+o élites fundadoras
 
-286
-00:09:04,090 --> 00:09:04,630
-en el tiempo.
+322
+00:08:59,866 --> 00:09:01,323
+que diseñaron esas reglas
 
-287
-00:09:05,270 --> 00:09:05,910
+323
+00:09:01,325 --> 00:09:02,211
+específicamente
+
+324
+00:09:02,214 --> 00:09:03,565
+para asegurar que su dominio
+
+325
+00:09:03,568 --> 00:09:04,985
+perdurara en el tiempo.
+
+326
+00:09:05,066 --> 00:09:06,106
 Y lo lograron.
 
-288
-00:09:06,170 --> 00:09:07,990
+327
+00:09:06,109 --> 00:09:07,990
 Son como un código de computadora
 
-289
+328
 00:09:07,990 --> 00:09:10,190
 obsoleto que nos negamos a actualizar
 
-290
-00:09:10,190 --> 00:09:11,970
-porque olvidamos quién lo programó en
-
-291
-00:09:11,970 --> 00:09:12,510
-primer lugar.
-
-292
-00:09:13,090 --> 00:09:13,690
-Totalmente.
-
-293
-00:09:14,090 --> 00:09:16,570
-Y si el Algoritmo 22 es la botella
-
-294
-00:09:16,570 --> 00:09:18,390
-de vidrio rígida que contiene a la
-
-295
-00:09:18,390 --> 00:09:21,590
-nación, el Algoritmo 23 es el líquido
-
-296
-00:09:21,590 --> 00:09:22,810
-que fluye en su interior.
-
-297
-00:09:23,210 --> 00:09:23,830
-El líquido.
-
-298
-00:09:24,170 --> 00:09:25,970
-Este es el algoritmo estrato social.
-
-299
-00:09:26,610 --> 00:09:28,230
-Representa la forma en que la sociedad
-
-300
-00:09:28,230 --> 00:09:30,710
-se organiza, se estratifica y
-
-301
-00:09:30,710 --> 00:09:32,030
-distribuye su riqueza y sus
-
-302
-00:09:32,030 --> 00:09:32,830
-oportunidades.
-
-303
-00:09:33,490 --> 00:09:35,510
-Pero a ver, pausa ahí, porque el
-
-304
-00:09:35,510 --> 00:09:37,210
-documento hace una aclaración crucial
-
-305
-00:09:37,210 --> 00:09:38,210
-sobre este líquido.
-
-306
-00:09:38,630 --> 00:09:40,090
-Dice que no tiene inteligencia ni
-
-307
-00:09:40,090 --> 00:09:40,850
-voluntad propia.
-
-308
-00:09:41,270 --> 00:09:41,790
-Así es.
-
-309
-00:09:42,290 --> 00:09:44,610
-Funciona puramente como un termómetro
-
-310
-00:09:44,610 --> 00:09:45,330
-nouménico.
-
-311
-00:09:45,690 --> 00:09:46,290
-Un termómetro.
-
-312
-00:09:46,630 --> 00:09:48,630
-Y esto cambia radicalmente como vemos
-
-313
-00:09:48,630 --> 00:09:49,230
-las crisis.
-
-314
-00:09:50,030 --> 00:09:51,650
-Normalmente, si en una nación hay
-
-315
-00:09:51,650 --> 00:09:53,910
-niveles alarmantes de pobreza extrema y
-
-316
-00:09:53,910 --> 00:09:56,570
-marginación, los analistas lo atribuyen
-
-317
-00:09:56,570 --> 00:09:58,510
-a un mal ciclo económico o a la
-
-318
-00:09:58,510 --> 00:10:00,330
-mala suerte en los mercados globales.
-
-319
-00:10:00,550 --> 00:10:01,490
-Una crisis temporal.
-
-320
-00:10:01,930 --> 00:10:04,430
-El Modelo Nouménico rechaza eso por
-
-321
-00:10:04,430 --> 00:10:04,890
-completo.
-
-322
-00:10:05,530 --> 00:10:07,470
-Si el termómetro marca miseria en la
-
-323
-00:10:07,470 --> 00:10:09,990
-base social, diagnostica que la mónada
-
-324
-00:10:09,990 --> 00:10:11,670
-está profundamente enferma.
-
-325
-00:10:12,030 --> 00:10:13,710
-Que el código está corrupto.
-
-326
-00:10:14,010 --> 00:10:16,290
-Significa que el código fundamental ha
-
-327
-00:10:16,290 --> 00:10:18,370
-sido secuestrado por las élites para
-
-328
-00:10:18,370 --> 00:10:20,030
-extraer la energía de las células
-
 329
-00:10:20,030 --> 00:10:22,390
-inferiores sin devolverles nutrientes.
+00:09:10,190 --> 00:09:11,783
+porque olvidamos quién lo programó
 
 330
-00:10:22,970 --> 00:10:25,670
-La pobreza, en este esquema, no es un
+00:09:11,786 --> 00:09:12,914
+en primer lugar.
 
 331
-00:10:25,670 --> 00:10:26,310
-accidente.
+00:09:12,917 --> 00:09:13,930
+Totalmente.
 
 332
-00:10:26,650 --> 00:10:28,390
-Es el resultado de un algoritmo
+00:09:13,993 --> 00:09:15,809
+Y si el Algoritmo 22
 
 333
-00:10:28,390 --> 00:10:28,990
-corrupto.
+00:09:15,811 --> 00:09:17,659
+es la botella de vidrio rígida
 
 334
-00:10:29,130 --> 00:10:29,390
-Wow.
+00:09:17,662 --> 00:09:19,059
+que contiene a la nación
 
 335
+00:09:19,069 --> 00:09:21,138
+el Algoritmo 23 es el
+
+336
+00:09:21,141 --> 00:09:23,106
+líquido que fluye en su interior.
+
+337
+00:09:23,109 --> 00:09:24,074
+El líquido.
+
+338
+00:09:24,077 --> 00:09:26,415
+Este es el Algoritmo Estrato Social.
+
+339
+00:09:26,447 --> 00:09:28,230
+Representa la forma en que la sociedad
+
+340
+00:09:28,230 --> 00:09:30,510
+se organiza, se estratifica
+
+341
+00:09:30,513 --> 00:09:31,808
+y distribuye su riqueza
+
+342
+00:09:31,811 --> 00:09:33,192
+y sus oportunidades.
+
+343
+00:09:33,232 --> 00:09:34,910
+Pero a ver, pausa ahí..
+
+344
+00:09:34,912 --> 00:09:36,272
+porque el documento hace una
+
+345
+00:09:36,274 --> 00:09:38,418
+aclaración crucial sobre este líquido.
+
+346
+00:09:38,425 --> 00:09:39,851
+Dice que no tiene inteligencia
+
+347
+00:09:39,854 --> 00:09:41,145
+ni voluntad propia.
+
+348
+00:09:41,148 --> 00:09:42,151
+Así es.
+
+349
+00:09:42,154 --> 00:09:43,744
+Funciona puramente como un
+
+350
+00:09:43,746 --> 00:09:45,593
+termómetro nouménico.
+
+351
+00:09:45,596 --> 00:09:46,625
+Un termómetro.
+
+352
+00:09:46,630 --> 00:09:48,138
+Y esto cambia radicalmente
+
+353
+00:09:48,141 --> 00:09:49,733
+como vemos las crisis.
+
+354
+00:09:49,736 --> 00:09:51,650
+Normalmente, si en una nación hay
+
+355
+00:09:51,650 --> 00:09:53,650
+niveles alarmantes de pobreza extrema
+
+356
+00:09:53,653 --> 00:09:54,784
+y marginación
+
+357
+00:09:54,786 --> 00:09:56,861
+los analistas lo atribuyen a un
+
+358
+00:09:56,864 --> 00:09:58,145
+mal ciclo económico
+
+359
+00:09:58,148 --> 00:09:59,301
+o a la mala suerte en los
+
+360
+00:09:59,303 --> 00:10:00,458
+mercados globales.
+
+361
+00:10:00,461 --> 00:10:01,816
+Una crisis temporal.
+
+362
+00:10:01,819 --> 00:10:02,862
+El Modelo Nouménico
+
+363
+00:10:02,865 --> 00:10:05,206
+rechaza eso por completo.
+
+364
+00:10:05,209 --> 00:10:07,093
+Si el termómetro marca miseria
+
+365
+00:10:07,096 --> 00:10:08,336
+en la base social,
+
+366
+00:10:08,338 --> 00:10:09,990
+diagnostica que la Mónada
+
+367
+00:10:09,990 --> 00:10:11,953
+está profundamente enferma.
+
+368
+00:10:12,030 --> 00:10:13,906
+Que el código está corrupto.
+
+369
+00:10:13,909 --> 00:10:16,290
+Significa que el código fundamental ha
+
+370
+00:10:16,290 --> 00:10:18,141
+sido secuestrado por las élites
+
+371
+00:10:18,144 --> 00:10:20,030
+para extraer la energía de las células
+
+372
+00:10:20,030 --> 00:10:22,894
+inferiores sin devolverles nutrientes.
+
+373
+00:10:22,970 --> 00:10:25,062
+La pobreza, en este esquema
+
+374
+00:10:25,065 --> 00:10:26,534
+no es un accidente.
+
+375
+00:10:26,537 --> 00:10:27,665
+Es el resultado
+
+376
+00:10:27,668 --> 00:10:29,054
+de un Algoritmo corrupto.
+
+377
+00:10:29,057 --> 00:10:29,687
+Wow.
+
+378
 00:10:29,690 --> 00:10:31,390
 Y los encargados de operar ese sistema
 
-336
-00:10:31,390 --> 00:10:33,390
+379
+00:10:31,390 --> 00:10:33,745
 corrupto viven en el siguiente nivel?
 
-337
-00:10:33,850 --> 00:10:36,490
-El algoritmo 24, el socio político.
+380
+00:10:33,784 --> 00:10:35,305
+El Algoritmo 24
 
-338
-00:10:36,770 --> 00:10:38,150
+381
+00:10:35,307 --> 00:10:36,712
+el Socio Político.
+
+382
+00:10:36,715 --> 00:10:38,378
 El sistema nervioso.
 
-339
+383
 00:10:38,450 --> 00:10:40,270
 Este vendría a ser el sistema nervioso
 
-340
-00:10:40,270 --> 00:10:41,070
-de la mónada, ¿sí?
+384
+00:10:40,270 --> 00:10:41,304
+de la Mónada, ¿sí?
 
-341
-00:10:41,370 --> 00:10:43,070
+385
+00:10:41,307 --> 00:10:43,493
 Aquí es donde habitan las castas.
 
-342
-00:10:43,590 --> 00:10:45,330
-Y hay que subrayar con un marcador
+386
+00:10:43,590 --> 00:10:44,651
+Y hay que subrayar
 
-343
-00:10:45,330 --> 00:10:47,410
-fluorescente lo que dice el texto sobre
+387
+00:10:44,653 --> 00:10:46,204
+con un marcador fluorescente
 
-344
-00:10:47,410 --> 00:10:47,710
-ellos.
+388
+00:10:46,207 --> 00:10:47,886
+lo que dice el texto sobre ellos.
 
-345
-00:10:47,890 --> 00:10:50,030
+389
+00:10:47,890 --> 00:10:50,141
 Porque rompe un paradigma enorme.
 
-346
-00:10:50,170 --> 00:10:50,910
+390
+00:10:50,144 --> 00:10:51,323
 Lo destroza.
 
-347
-00:10:50,910 --> 00:10:53,310
-La premisa dice que un político, desde
+391
+00:10:51,326 --> 00:10:53,054
+La premisa dice que un político
 
-348
-00:10:53,310 --> 00:10:55,530
-el punto de vista algorítmico, no es un
+392
+00:10:53,057 --> 00:10:54,927
+desde el punto de vista algorítmico
 
-349
-00:10:55,530 --> 00:10:56,270
-servidor público.
+393
+00:10:54,930 --> 00:10:56,411
+no es un servidor público.
 
-350
-00:10:56,590 --> 00:10:57,290
+394
+00:10:56,414 --> 00:10:57,394
 Nunca lo fue.
 
-351
-00:10:57,430 --> 00:10:59,150
-Es un empleado de la estructura
+395
+00:10:57,397 --> 00:10:58,282
+Es un empleado
 
-352
-00:10:59,150 --> 00:10:59,990
-monádico.
+396
+00:10:58,285 --> 00:11:00,286
+de la estructura Monádica.
 
-353
-00:11:00,410 --> 00:11:02,690
-Su función primordial, su único
+397
+00:11:00,289 --> 00:11:01,931
+Su función primordial
 
-354
-00:11:02,690 --> 00:11:05,090
-imperativo biológico dentro del
+398
+00:11:01,934 --> 00:11:04,453
+su único imperativo biológico
 
-355
-00:11:05,090 --> 00:11:07,330
-sistema, es asegurar su propia
+399
+00:11:04,455 --> 00:11:05,896
+dentro del sistema
 
-356
-00:11:07,330 --> 00:11:09,590
-supervivencia y ascender en la
+400
+00:11:05,898 --> 00:11:08,537
+es asegurar su propia supervivencia
 
-357
-00:11:09,590 --> 00:11:10,370
-jerarquía.
+401
+00:11:08,540 --> 00:11:10,370
+y ascender en la jerarquía.
 
-358
-00:11:10,450 --> 00:11:12,710
-Y el texto explica que operan en dos
+402
+00:11:10,373 --> 00:11:12,387
+Y el texto explica que operan en
 
-359
-00:11:12,710 --> 00:11:14,530
-realidades completamente desconectadas,
+403
+00:11:12,390 --> 00:11:14,744
+dos realidades completamente desconectadas,
 
-360
-00:11:14,830 --> 00:11:15,090
+404
+00:11:14,747 --> 00:11:15,172
 ¿cierto?
 
-361
-00:11:15,250 --> 00:11:15,530
+405
+00:11:15,175 --> 00:11:15,902
 Sí.
 
-362
-00:11:16,010 --> 00:11:18,090
-Por un lado está el ámbito interno, las
+406
+00:11:15,905 --> 00:11:17,773
+Por un lado está el ámbito interno
 
-363
-00:11:18,090 --> 00:11:19,730
-sombras del político monádico.
+407
+00:11:17,776 --> 00:11:20,133
+las sombras del político Monádico.
 
-364
-00:11:20,210 --> 00:11:22,050
+408
+00:11:20,136 --> 00:11:22,050
 Ahí es donde los líderes de bandos
 
-365
-00:11:22,050 --> 00:11:24,150
-supuestamente opuestos se sientan a
+409
+00:11:22,050 --> 00:11:23,446
+supuestamente opuestos
 
-366
-00:11:24,150 --> 00:11:27,750
-negociar, a repartir influencias y a
+410
+00:11:23,449 --> 00:11:24,611
+se sientan a negociar
 
-367
-00:11:27,750 --> 00:11:29,210
-asegurar que el sistema que los
+411
+00:11:24,613 --> 00:11:25,970
+Detras de puertas cerradas
 
-368
-00:11:29,210 --> 00:11:30,730
-alimenta no colapse.
+412
+00:11:25,972 --> 00:11:27,431
+a repartir influencias
 
-369
-00:11:31,390 --> 00:11:32,630
+413
+00:11:27,434 --> 00:11:28,916
+y a asegurar que el sistema
+
+414
+00:11:28,919 --> 00:11:31,196
+que los alimenta no colapse.
+
+415
+00:11:31,199 --> 00:11:32,822
 Ellos se cuidan entre ellos.
 
-370
-00:11:32,990 --> 00:11:35,030
-Y luego está el ámbito externo, el
+416
+00:11:32,825 --> 00:11:34,593
+Y luego está el ámbito externo,
 
-371
-00:11:35,030 --> 00:11:35,390
-teatro.
+417
+00:11:34,596 --> 00:11:35,567
+el teatro.
 
-372
-00:11:35,570 --> 00:11:37,590
+418
+00:11:35,570 --> 00:11:37,777
 El ámbito social ciudadano exacto.
 
-373
-00:11:38,010 --> 00:11:40,170
+419
+00:11:37,829 --> 00:11:40,170
 Esa es la fachada, la obra de teatro
 
-374
+420
 00:11:40,170 --> 00:11:41,790
 donde se ponen la máscara de
 
-375
-00:11:41,790 --> 00:11:44,170
-representantes del pueblo, debatiendo
+421
+00:11:41,790 --> 00:11:43,406
+representantes del pueblo
 
-376
-00:11:44,170 --> 00:11:46,690
-acaloradamente frente a las cámaras y
+422
+00:11:43,409 --> 00:11:45,137
+debatiendo acaloradamente
 
-377
-00:11:46,690 --> 00:11:48,790
-utilizando a la sociedad entera como su
+423
+00:11:45,139 --> 00:11:46,493
+frente a las cámaras
 
-378
-00:11:48,790 --> 00:11:50,690
-laboratorio de experimentos de poder.
+424
+00:11:46,496 --> 00:11:48,302
+y utilizando a la sociedad entera
 
-379
-00:11:51,030 --> 00:11:53,230
+425
+00:11:48,305 --> 00:11:49,406
+como su laboratorio de
+
+426
+00:11:49,409 --> 00:11:50,939
+experimentos de poder.
+
+427
+00:11:50,942 --> 00:11:53,230
 Y claro, las consecuencias de esos
 
-380
-00:11:53,230 --> 00:11:55,150
+428
+00:11:53,230 --> 00:11:55,548
 experimentos no salen gratis.
 
-381
-00:11:55,730 --> 00:11:58,130
-Todo eso se acumula en el algoritmo 25,
+429
+00:11:55,563 --> 00:11:58,287
+Todo eso se acumula en el Algoritmo 25
 
-382
-00:11:58,410 --> 00:11:59,830
-que es el ético-moral.
+430
+00:11:58,290 --> 00:12:00,321
+que es el Ético-Moral.
 
-383
-00:12:00,410 --> 00:12:02,210
-El texto lo describe como el índice
+431
+00:12:00,324 --> 00:12:01,718
+El texto lo describe como el
 
-384
-00:12:02,210 --> 00:12:04,810
-espiritual del país, es decir, el
+432
+00:12:01,721 --> 00:12:03,674
+Índice Espiritual del país
 
-385
-00:12:04,810 --> 00:12:06,710
-balance colectivo entre el bien y el
+433
+00:12:03,677 --> 00:12:04,608
+es decir...
 
-386
-00:12:06,710 --> 00:12:06,890
-mal.
+434
+00:12:04,610 --> 00:12:05,757
+el balance colectivo
 
-387
-00:12:07,170 --> 00:12:09,230
-Si conectamos esto con el panorama
+435
+00:12:05,759 --> 00:12:07,104
+entre el bien y el mal.
 
-388
-00:12:09,230 --> 00:12:11,670
-general, cobra mucho sentido.
+436
+00:12:07,107 --> 00:12:08,736
+Si conectamos esto con el
 
-389
-00:12:11,990 --> 00:12:12,570
+437
+00:12:08,739 --> 00:12:10,063
+panorama general,
+
+438
+00:12:10,065 --> 00:12:11,844
+cobra mucho sentido.
+
+439
+00:12:11,847 --> 00:12:12,783
 Bastante.
 
-390
-00:12:12,570 --> 00:12:14,790
+440
+00:12:12,786 --> 00:12:14,790
 Cuando encendemos las noticias y vemos
 
-391
-00:12:14,790 --> 00:12:17,070
-niveles asfixiantes de corrupción
+441
+00:12:14,790 --> 00:12:17,928
+niveles asfixiantes de corrupción impune
 
-392
-00:12:17,070 --> 00:12:19,930
-impune o violencia desbordada en las
+442
+00:12:17,931 --> 00:12:20,650
+ o violencia desbordada en las calles,
 
-393
-00:12:19,930 --> 00:12:22,250
-calles, no estamos viendo fallas
+443
+00:12:20,652 --> 00:12:23,444
+no estamos viendo fallas aisladas.
 
-394
-00:12:22,250 --> 00:12:22,970
-aisladas.
-
-395
+444
 00:12:23,570 --> 00:12:26,710
 Estamos viendo la manifestación directa
 
-396
+445
 00:12:26,710 --> 00:12:29,810
 del nivel de desarrollo ético y madurez
 
-397
-00:12:29,810 --> 00:12:31,730
-espiritual de esa mónada.
+446
+00:12:29,810 --> 00:12:31,802
+espiritual de esa Mónada.
 
-398
-00:12:31,870 --> 00:12:32,950
+447
+00:12:31,805 --> 00:12:33,184
 Es el síntoma visible.
 
-399
-00:12:33,230 --> 00:12:35,230
-Es el síntoma de una conciencia
+448
+00:12:33,230 --> 00:12:34,631
+Es el síntoma de una
 
-400
-00:12:35,230 --> 00:12:37,670
-colectiva que está operando en
+449
+00:12:34,634 --> 00:12:36,739
+Conciencia Colectiva que está
 
-401
-00:12:37,670 --> 00:12:39,150
-frecuencias muy bajas.
+450
+00:12:36,742 --> 00:12:39,380
+operando en frecuencias muy bajas.
 
-402
-00:12:39,150 --> 00:12:41,550
+451
+00:12:39,383 --> 00:12:41,707
 Bien, hasta aquí tenemos la estructura,
 
-403
-00:12:41,850 --> 00:12:44,050
-la botella, el líquido, el sistema
+452
+00:12:41,710 --> 00:12:43,421
+la botella, el líquido
 
-404
-00:12:44,050 --> 00:12:45,870
-nervioso y el alma del sistema.
+453
+00:12:43,424 --> 00:12:44,770
+el sistema nervioso
 
-405
-00:12:46,370 --> 00:12:49,670
-Pero la pregunta es, ¿cómo hace la
+454
+00:12:44,772 --> 00:12:46,328
+y el alma del sistema.
 
-406
-00:12:49,670 --> 00:12:51,330
-mónada para que los ciudadanos
+455
+00:12:46,370 --> 00:12:48,584
+Pero la pregunta es
 
-407
-00:12:51,330 --> 00:12:53,650
-obedezcan todo esto sin darse cuenta?
+456
+00:12:48,586 --> 00:12:50,211
+¿cómo hace la Mónada
 
-408
-00:12:53,950 --> 00:12:56,190
-Ahí entramos a las herramientas de
+457
+00:12:50,213 --> 00:12:51,981
+para que los ciudadanos obedezcan
 
-409
-00:12:56,190 --> 00:12:56,830
-coerción.
+458
+00:12:51,984 --> 00:12:53,896
+todo esto sin darse cuenta?
 
-410
-00:12:57,130 --> 00:13:00,310
-Y el algoritmo 26, el sociocultural, me
+459
+00:12:53,950 --> 00:12:55,312
+Ahí entramos a las
 
-411
-00:13:00,310 --> 00:13:01,110
-voló la cabeza.
+460
+00:12:55,315 --> 00:12:57,041
+herramientas de coerción.
 
-412
-00:13:01,710 --> 00:13:03,210
+461
+00:12:57,044 --> 00:12:58,721
+Y el Algoritmo 26
+
+462
+00:12:58,723 --> 00:13:00,006
+el Sociocultural
+
+463
+00:13:00,009 --> 00:13:01,581
+me voló la cabeza.
+
+464
+00:13:01,636 --> 00:13:03,589
 Es la coerción suave.
 
-413
-00:13:03,830 --> 00:13:05,270
-El documento habla de la cultura
+465
+00:13:03,668 --> 00:13:05,116
+El documento habla de la
 
-414
-00:13:05,270 --> 00:13:07,910
-latente y la cultura activa, imponiendo
+466
+00:13:05,119 --> 00:13:07,236
+cultura latente y la cultura activa
 
-415
-00:13:07,910 --> 00:13:09,130
-reglas no escritas.
+467
+00:13:07,239 --> 00:13:09,521
+imponiendo reglas no escritas.
 
-416
-00:13:09,650 --> 00:13:11,350
+468
+00:13:09,525 --> 00:13:11,584
 Pero a ver, tengo una duda genuina.
 
-417
-00:13:11,587 --> 00:13:12,158
+469
+00:13:11,587 --> 00:13:12,287
 Dime.
 
-418
+470
 00:13:12,290 --> 00:13:13,930
 Cuando pensamos en fenómenos como la
 
-419
-00:13:13,930 --> 00:13:15,870
-cultura de la cancelación, suele
+471
+00:13:13,930 --> 00:13:15,389
+cultura de la cancelación
 
-420
-00:13:15,870 --> 00:13:17,290
-parecer algo muy orgánico.
+472
+00:13:15,392 --> 00:13:17,688
+suele parecer algo muy orgánico.
 
-421
-00:13:17,770 --> 00:13:19,490
+473
+00:13:17,691 --> 00:13:19,490
 Es la gente común en redes sociales
 
-422
-00:13:19,490 --> 00:13:20,590
+474
+00:13:19,490 --> 00:13:21,078
 enojándose por algo.
 
-423
-00:13:21,250 --> 00:13:23,450
+475
+00:13:21,109 --> 00:13:23,450
 ¿Cómo encaja eso como un algoritmo de
 
-424
-00:13:23,450 --> 00:13:24,410
+476
+00:13:23,453 --> 00:13:24,672
 control desde el Estado?
 
-425
-00:13:24,750 --> 00:13:26,590
-Es una tensión brillante la que
+477
+00:13:24,675 --> 00:13:26,144
+Es una tensión brillante
 
-426
-00:13:26,590 --> 00:13:27,190
-señalas.
+478
+00:13:26,147 --> 00:13:27,521
+la que señalas.
 
-427
-00:13:27,610 --> 00:13:29,490
-Parece orgánico porque el sistema está
+479
+00:13:27,524 --> 00:13:29,222
+Parece orgánico porque el sistema
 
-428
-00:13:29,490 --> 00:13:31,330
-diseñado para que las propias células
+480
+00:13:29,225 --> 00:13:31,330
+está diseñado para que las propias células
 
-429
-00:13:31,330 --> 00:13:32,390
+481
+00:13:31,330 --> 00:13:32,604
 se vigilen entre sí.
 
-430
-00:13:32,390 --> 00:13:34,350
+482
+00:13:32,607 --> 00:13:34,536
 O sea, nos autorregulamos.
 
-431
-00:13:34,710 --> 00:13:35,150
+483
+00:13:34,539 --> 00:13:35,464
 Exacto.
 
-432
-00:13:35,710 --> 00:13:37,490
+484
+00:13:35,520 --> 00:13:37,490
 No es que haya una élite en una
 
-433
-00:13:37,490 --> 00:13:39,450
-sala oscura dictando a quién cancelar
+485
+00:13:37,490 --> 00:13:38,996
+sala oscura dictando a quién
 
-434
-00:13:39,450 --> 00:13:40,150
-hoy en Internet.
+486
+00:13:38,999 --> 00:13:40,735
+cancelar hoy en Internet.
 
-435
-00:13:40,870 --> 00:13:42,510
-Es que el algoritmo sociocultural
+487
+00:13:40,738 --> 00:13:42,510
+Es que el Algoritmo Sociocultural
 
-436
-00:13:42,510 --> 00:13:44,630
-programa a los individuos con ciertas
+488
+00:13:42,510 --> 00:13:44,049
+programa a los individuos
 
-437
-00:13:44,630 --> 00:13:46,430
-narrativas de lo que es aceptable o
+489
+00:13:44,052 --> 00:13:45,764
+con ciertas narrativas de lo que es
 
-438
-00:13:46,430 --> 00:13:47,090
-inaceptable.
+490
+00:13:45,767 --> 00:13:47,196
+aceptable o inaceptable.
 
-439
-00:13:47,210 --> 00:13:49,210
-Claro, te instalan el software y tú
+491
+00:13:47,210 --> 00:13:48,898
+Claro, te instalan el software
 
-440
-00:13:49,210 --> 00:13:49,930
-haces el trabajo.
+492
+00:13:48,901 --> 00:13:50,067
+y tú haces el trabajo.
 
-441
+493
 00:13:50,070 --> 00:13:51,990
 Piensa en las dinámicas de un grupo de
 
-442
-00:13:51,990 --> 00:13:53,930
+494
+00:13:51,990 --> 00:13:54,367
 WhatsApp de apoderados en una escuela.
 
-443
-00:13:54,610 --> 00:13:56,750
-Nadie es el jefe, pero todos saben que
-
-444
-00:13:56,750 --> 00:13:59,270
-si mandas un mensaje fuera de tono, el
-
-445
-00:13:59,270 --> 00:14:00,850
-grupo entero te va a aplicar la ley
-
-446
-00:14:00,850 --> 00:14:01,410
-del hielo.
-
-447
-00:14:01,410 --> 00:14:02,450
-Te aíslan.
-
-448
-00:14:03,110 --> 00:14:05,630
-El castigo de la coerción suave es el
-
-449
-00:14:05,630 --> 00:14:08,510
-ridículo público, la estigmatización y
-
-450
-00:14:08,510 --> 00:14:09,310
-la muerte social.
-
-451
-00:14:10,210 --> 00:14:12,310
-Es el sistema inmunológico del Egregor
-
-452
-00:14:12,310 --> 00:14:15,030
-eliminando anticuerpos disidentes sin
-
-453
-00:14:15,030 --> 00:14:16,730
-necesidad de mancharse las manos con
-
-454
-00:14:16,730 --> 00:14:17,470
-fuerza física.
-
-455
-00:14:17,910 --> 00:14:19,490
-Es escalofriante por lo eficiente que
-
-456
-00:14:19,490 --> 00:14:19,750
-es.
-
-457
-00:14:20,270 --> 00:14:22,430
-Pero claro, si un individuo sobrevive a
-
-458
-00:14:22,430 --> 00:14:24,490
-la muerte social y sigue desafiando el
-
-459
-00:14:24,490 --> 00:14:26,590
-código, el sistema saca los dientes de
-
-460
-00:14:26,590 --> 00:14:26,830
-verdad.
-
-461
-00:14:27,450 --> 00:14:30,030
-Ahí entra el algoritmo 27, el cívico
-
-462
-00:14:30,030 --> 00:14:32,630
-judicial, la coerción dura, los
-
-463
-00:14:32,630 --> 00:14:34,750
-tribunales, la policía, el código
-
-464
-00:14:34,750 --> 00:14:35,110
-penal.
-
-465
-00:14:35,630 --> 00:14:37,150
-Es el contrato explícito.
-
-466
-00:14:37,790 --> 00:14:39,350
-Sin embargo, el texto ilumina un
-
-467
-00:14:39,350 --> 00:14:40,950
-defecto estructural masivo en este
-
-468
-00:14:40,950 --> 00:14:41,430
-algoritmo.
-
-469
-00:14:41,850 --> 00:14:42,710
-¿Cuál es ese defecto?
-
-470
-00:14:42,890 --> 00:14:45,290
-Que no es ciego ni imparcial.
-
-471
-00:14:46,070 --> 00:14:48,310
-Se aplica de forma brutalmente
-
-472
-00:14:48,310 --> 00:14:49,090
-asimétrica.
-
-473
-00:14:49,650 --> 00:14:52,210
-Es una trituradora implacable para los
-
-474
-00:14:52,210 --> 00:14:54,690
-estratos inferiores, para las células
-
-475
-00:14:54,690 --> 00:14:56,810
-de recambio que no tienen el capital
-
-476
-00:14:56,810 --> 00:14:58,830
-económico para pagar el peaje legal.
-
-477
-00:14:58,990 --> 00:14:59,510
-Te aplasta.
-
-478
-00:14:59,990 --> 00:15:01,990
-Pero cuando se trata de las élites, de
-
-479
-00:15:01,990 --> 00:15:03,690
-quienes diseñaron la botella del
-
-480
-00:15:03,690 --> 00:15:06,470
-algoritmo 22, el sistema judicial se
-
-481
-00:15:06,470 --> 00:15:08,170
-vuelve repentinamente lento,
-
-482
-00:15:08,650 --> 00:15:11,110
-comprensivo o directamente inoperante.
-
-483
-00:15:11,470 --> 00:15:14,290
-Esa asimetría constante, esa presión de
-
-484
-00:15:14,290 --> 00:15:16,350
-todos estos engranajes triturando a la
-
-485
-00:15:16,350 --> 00:15:18,290
-base genera una olla de presión
-
-486
-00:15:18,290 --> 00:15:18,990
-inmensa.
-
-487
-00:15:19,550 --> 00:15:21,790
-Y aquí llegamos al último código, el
-
-488
-00:15:21,790 --> 00:15:24,170
-algoritmo 28, el idiosincrático.
-
-489
-00:15:24,450 --> 00:15:25,710
-El carácter de la nación.
-
-490
-00:15:25,710 --> 00:15:27,470
-Entonces, ¿qué significa todo esto en
-
-491
-00:15:27,470 --> 00:15:27,950
-la práctica?
-
-492
-00:15:28,490 --> 00:15:30,110
-Significa que la monada necesita
-
-493
-00:15:30,110 --> 00:15:31,870
-canalizar toda esa frustración
-
-494
-00:15:31,870 --> 00:15:33,770
-acumulada para que no explote contra
-
 495
-00:15:33,770 --> 00:15:34,950
-los creadores del sistema.
+00:13:54,370 --> 00:13:55,641
+Nadie es el jefe,
 
 496
-00:15:35,390 --> 00:15:39,430
-Y para procesar esa energía social, se
+00:13:55,643 --> 00:13:57,189
+pero todos saben que si mandas
 
 497
-00:15:39,430 --> 00:15:41,670
-divide según lo que la fuente llama la
+00:13:57,192 --> 00:13:58,982
+ un mensaje fuera de tono
 
 498
-00:15:41,670 --> 00:15:42,490
-ley del 5.
+00:13:58,985 --> 00:14:00,563
+el grupo entero te va a aplicar
 
 499
-00:15:42,870 --> 00:15:43,770
-La ley del 5.
+00:14:00,566 --> 00:14:01,623
+la ley del hielo.
 
 500
+00:14:01,626 --> 00:14:02,959
+Te aíslan.
+
+501
+00:14:02,962 --> 00:14:05,229
+El castigo de la coerción suave
+
+502
+00:14:05,232 --> 00:14:06,888
+es el ridículo público,
+
+503
+00:14:06,890 --> 00:14:08,253
+la estigmatización
+
+504
+00:14:08,256 --> 00:14:09,998
+y la muerte social.
+
+505
+00:14:10,101 --> 00:14:12,310
+Es el sistema inmunológico del Egregor
+
+506
+00:14:12,310 --> 00:14:14,696
+eliminando anticuerpos disidentes
+
+507
+00:14:14,699 --> 00:14:16,505
+sin necesidad de mancharse las manos
+
+508
+00:14:16,508 --> 00:14:17,757
+con fuerza física.
+
+509
+00:14:17,760 --> 00:14:20,007
+Es escalofriante por lo eficiente que es.
+
+510
+00:14:20,083 --> 00:14:20,975
+Pero claro
+
+511
+00:14:20,977 --> 00:14:22,243
+si un individuo sobrevive
+
+512
+00:14:22,246 --> 00:14:23,321
+a la muerte social
+
+513
+00:14:23,323 --> 00:14:25,110
+y sigue desafiando el código,
+
+514
+00:14:25,113 --> 00:14:27,324
+el sistema saca los dientes de verdad.
+
+515
+00:14:27,327 --> 00:14:29,340
+Ahí entra el Algoritmo 27
+
+516
+00:14:29,343 --> 00:14:30,737
+el Cívico Judicial
+
+517
+00:14:30,739 --> 00:14:32,276
+la coerción dura
+
+518
+00:14:32,279 --> 00:14:34,258
+los tribunales, la policía,
+
+519
+00:14:34,260 --> 00:14:35,465
+el código penal.
+
+520
+00:14:35,505 --> 00:14:37,545
+Es el contrato explícito.
+
+521
+00:14:37,548 --> 00:14:39,616
+Sin embargo el texto ilumina un defecto
+
+522
+00:14:39,619 --> 00:14:41,724
+estructural masivo en este Algoritmo.
+
+523
+00:14:41,727 --> 00:14:42,887
+¿Cuál es ese defecto?
+
+524
+00:14:42,890 --> 00:14:45,866
+Que no es ciego ni imparcial.
+
+525
+00:14:45,869 --> 00:14:47,367
+Se aplica de forma
+
+526
+00:14:47,370 --> 00:14:49,398
+brutalmente asimétrica.
+
+527
+00:14:49,401 --> 00:14:51,684
+Es una trituradora implacable
+
+528
+00:14:51,687 --> 00:14:53,628
+para los estratos inferiores,
+
+529
+00:14:53,630 --> 00:14:55,635
+para las células de recambio
+
+530
+00:14:55,638 --> 00:14:57,333
+que no tienen el capital económico
+
+531
+00:14:57,336 --> 00:14:58,888
+para pagar el peaje legal.
+
+532
+00:14:58,891 --> 00:14:59,928
+Te aplasta.
+
+533
+00:14:59,931 --> 00:15:01,773
+Pero cuando se trata de las élites
+
+534
+00:15:01,776 --> 00:15:03,477
+de quienes diseñaron la botella
+
+535
+00:15:03,480 --> 00:15:05,125
+del Algoritmo 22
+
+536
+00:15:05,127 --> 00:15:06,839
+El sistema judicial se vuelve
+
+537
+00:15:06,842 --> 00:15:08,476
+repentinamente lento,
+
+538
+00:15:08,479 --> 00:15:11,345
+comprensivo o directamente inoperante.
+
+539
+00:15:11,348 --> 00:15:13,395
+Esa asimetría constante
+
+540
+00:15:13,398 --> 00:15:15,504
+esa presión de todos estos engranajes
+
+541
+00:15:15,506 --> 00:15:16,861
+triturando a la base
+
+542
+00:15:16,863 --> 00:15:19,383
+genera una olla de presión inmensa.
+
+543
+00:15:19,399 --> 00:15:21,534
+Y aquí llegamos al último código
+
+544
+00:15:21,537 --> 00:15:23,018
+el Algoritmo 28
+
+545
+00:15:23,020 --> 00:15:24,360
+el Idiosincrático.
+
+546
+00:15:24,363 --> 00:15:25,710
+El carácter de la nación.
+
+547
+00:15:25,710 --> 00:15:27,289
+Entonces, ¿qué significa todo esto
+
+548
+00:15:27,292 --> 00:15:28,365
+en la práctica?
+
+549
+00:15:28,397 --> 00:15:30,213
+Significa que la Mónada necesita
+
+550
+00:15:30,216 --> 00:15:32,606
+canalizar toda esa frustración acumulada
+
+551
+00:15:32,609 --> 00:15:33,767
+para que no explote contra
+
+552
+00:15:33,770 --> 00:15:35,104
+los creadores del sistema.
+
+553
+00:15:36,595 --> 00:15:39,085
+Y para procesar esa energía social
+
+554
+00:15:39,088 --> 00:15:41,372
+se divide según lo que la fuente llama
+
+555
+00:15:41,375 --> 00:15:42,790
+la ley del 5.
+
+556
+00:15:42,793 --> 00:15:44,219
+La ley del 5.
+
+557
 00:15:44,230 --> 00:15:46,550
 Básicamente, el modelo expone que la
 
-501
+558
 00:15:46,550 --> 00:15:48,790
-conciencia colectiva se fragmentan
+Conciencia Colectiva se fragmentan
 
-502
-00:15:48,790 --> 00:15:50,810
-cuatro grandes egregores o
+559
+00:15:48,790 --> 00:15:50,605
+cuatro grandes egregores
 
-503
-00:15:50,810 --> 00:15:52,990
-temperamentos políticos principales.
+560
+00:15:50,608 --> 00:15:53,390
+o temperamentos políticos principales.
 
-504
-00:15:53,530 --> 00:15:55,890
-Y de nuevo, recordando nuestra regla de
+561
+00:15:53,393 --> 00:15:54,207
+Y de nuevo
 
-505
-00:15:55,890 --> 00:15:58,910
-oro inicial, el documento analiza a
+562
+00:15:54,209 --> 00:15:56,968
+recordando nuestra regla de oro inicial
 
-506
-00:15:58,910 --> 00:16:01,090
-todos con total frialdad clínica.
+563
+00:15:56,971 --> 00:15:59,266
+el documento analiza a todos
 
-507
-00:16:01,290 --> 00:16:03,210
+564
+00:15:59,269 --> 00:16:01,187
+con total frialdad clínica.
+
+565
+00:16:01,190 --> 00:16:03,210
 Vamos a repasarlos porque es como ver
 
-508
-00:16:03,210 --> 00:16:05,070
-radiografías de las noticias de todos
+566
+00:16:03,210 --> 00:16:04,728
+radiografías de las noticias
 
-509
-00:16:05,070 --> 00:16:05,550
-los días.
+567
+00:16:04,731 --> 00:16:05,709
+de todos los días.
 
-510
-00:16:05,810 --> 00:16:06,310
+568
+00:16:05,712 --> 00:16:06,630
 Empecemos.
 
-511
-00:16:06,730 --> 00:16:08,390
-El primero es el egregor socialista,
+569
+00:16:06,633 --> 00:16:08,521
+El primero es el Egregor Socialista,
 
-512
-00:16:08,650 --> 00:16:10,290
+570
+00:16:08,524 --> 00:16:10,759
 asociado al temperamento flemático.
 
-513
-00:16:10,910 --> 00:16:12,570
+571
+00:16:10,767 --> 00:16:12,567
 Según el modelo, su enfoque declarado
 
-514
-00:16:12,570 --> 00:16:14,230
+572
+00:16:12,570 --> 00:16:14,372
 es la justicia y la igualdad social.
 
-515
-00:16:14,450 --> 00:16:15,630
+573
+00:16:14,450 --> 00:16:15,843
 Lo cual suena muy noble.
 
-516
-00:16:15,630 --> 00:16:17,930
+574
+00:16:15,846 --> 00:16:17,930
 Suena bien, pero su código interno lo
 
-517
+575
 00:16:17,930 --> 00:16:19,790
 empuja inevitablemente a centralizar el
 
-518
+576
 00:16:19,790 --> 00:16:21,710
 poder estatal y necesita crear
 
-519
-00:16:21,710 --> 00:16:23,750
+577
+00:16:21,710 --> 00:16:23,943
 constantemente enemigos simbólicos,
 
-520
-00:16:24,050 --> 00:16:26,270
-generalmente de clase, para justificar
+578
+00:16:23,946 --> 00:16:25,354
+generalmente de clase,
 
-521
-00:16:26,270 --> 00:16:27,370
-su propia existencia.
+579
+00:16:25,356 --> 00:16:27,563
+para justificar su propia existencia.
 
-522
-00:16:27,670 --> 00:16:30,090
+580
+00:16:27,566 --> 00:16:30,258
 Luego, en el extremo opuesto del ring,
 
-523
-00:16:30,430 --> 00:16:32,670
-está el egregor libertario, que
+581
+00:16:30,261 --> 00:16:32,404
+está el Egregor Libertario,
 
-524
-00:16:32,670 --> 00:16:35,070
-corresponde al temperamento sanguíneo.
+582
+00:16:32,407 --> 00:16:34,100
+que corresponde al temperamento
 
-525
+583
+00:16:34,102 --> 00:16:35,070
+sanguíneo.
+
+584
+00:16:35,073 --> 00:16:36,248
+El Mercado Libre
+
+585
 00:16:36,250 --> 00:16:38,730
 Su discurso se centra en exaltar al
 
-526
-00:16:38,730 --> 00:16:41,250
+586
+00:16:38,730 --> 00:16:41,662
 individuo y la pureza del mercado.
 
-527
-00:16:41,810 --> 00:16:43,990
+587
+00:16:41,718 --> 00:16:43,990
 Sin embargo, su dinámica algorítmica
 
-528
+588
 00:16:43,990 --> 00:16:46,350
 tiende a ser capturada rápidamente por
 
-529
+589
 00:16:46,350 --> 00:16:48,770
 tecnócratas, terminando por concentrar
 
-530
+590
 00:16:48,770 --> 00:16:50,890
 el poder real, no en la gente, sino
 
-531
+591
 00:16:50,890 --> 00:16:53,090
 en manos de gigantes económicos y
 
-532
-00:16:53,090 --> 00:16:54,350
+592
+00:16:53,090 --> 00:16:54,577
 monopolios corporativos.
 
-533
-00:16:54,730 --> 00:16:56,670
-Después tenemos el egregor conservador,
+593
+00:16:54,580 --> 00:16:56,919
+Después tenemos el Egregor Conservador,
 
-534
-00:16:57,290 --> 00:16:59,530
+594
+00:16:57,108 --> 00:16:59,530
 ligado al temperamento melancólico.
 
-535
-00:17:00,130 --> 00:17:02,290
+595
+00:17:00,130 --> 00:17:02,669
 Su programa base es mantener el orden,
 
-536
-00:17:02,810 --> 00:17:05,010
+596
+00:17:02,672 --> 00:17:05,165
 la jerarquía social y la tradición.
 
-537
+597
 00:17:05,230 --> 00:17:07,089
 Y para el código Nouménico, este
 
-538
+598
 00:17:07,089 --> 00:17:09,010
 egregor suele operar infiltrado en las
 
-539
+599
 00:17:09,010 --> 00:17:11,250
 instituciones clave y de élite,
 
-540
-00:17:11,630 --> 00:17:13,470
-actuando como un freno de mano, un
+600
+00:17:11,253 --> 00:17:13,065
+actuando como un freno de mano,
 
-541
-00:17:13,470 --> 00:17:15,510
-freno de mano perpetuo para garantizar
+601
+00:17:13,068 --> 00:17:15,510
+un freno de mano perpetuo para garantizar
 
-542
+602
 00:17:15,510 --> 00:17:17,329
 que el status quo nunca se altere
 
-543
-00:17:17,329 --> 00:17:18,250
+603
+00:17:17,329 --> 00:17:18,328
 demasiado rápido.
 
-544
-00:17:18,550 --> 00:17:20,849
-Y finalmente tenemos el egregor
+604
+00:17:18,331 --> 00:17:20,247
+Y finalmente tenemos el
 
-545
-00:17:20,849 --> 00:17:22,970
-populista autoritario, el de
+605
+00:17:20,250 --> 00:17:22,525
+Egregor Populista Autoritario
 
-546
-00:17:22,970 --> 00:17:24,010
-temperamento colérico.
+606
+00:17:22,528 --> 00:17:24,613
+el de temperamento colérico.
 
-547
-00:17:24,829 --> 00:17:26,170
+607
+00:17:24,645 --> 00:17:26,170
 Este no se basa en grandes
 
-548
+608
 00:17:26,170 --> 00:17:28,530
 arquitecturas lógicas, sino en la pura
 
-549
-00:17:28,530 --> 00:17:30,610
+609
+00:17:28,530 --> 00:17:30,874
 energía emocional, pura pasión.
 
-550
-00:17:31,070 --> 00:17:33,070
-Su código requiere devoción absoluta a
+610
+00:17:30,877 --> 00:17:32,880
+Su código requiere devoción absoluta
 
-551
-00:17:33,070 --> 00:17:35,550
-un líder mesiánico y se alimenta casi
+611
+00:17:32,883 --> 00:17:34,397
+a un líder mesiánico
 
-552
-00:17:35,550 --> 00:17:37,290
-exclusivamente de la polarización
+612
+00:17:34,400 --> 00:17:36,378
+y se alimenta casi exclusivamente
 
-553
-00:17:37,290 --> 00:17:37,850
-extrema.
+613
+00:17:36,381 --> 00:17:38,235
+de la polarización extrema.
 
-554
-00:17:38,570 --> 00:17:40,930
-Su motor es la narrativa constante de
+614
+00:17:38,379 --> 00:17:40,674
+Su motor es la narrativa constante
 
-555
-00:17:40,930 --> 00:17:43,350
-nosotros el pueblo puro contra ellos
+615
+00:17:40,677 --> 00:17:42,521
+de nosotros el pueblo puro
 
-556
-00:17:43,350 --> 00:17:44,070
-los traidores.
+616
+00:17:42,524 --> 00:17:44,343
+contra ellos los traidores.
 
-557
-00:17:44,470 --> 00:17:46,270
+617
+00:17:44,346 --> 00:17:46,270
 Escuchar esto es como si a uno le
 
-558
-00:17:46,270 --> 00:17:48,050
+618
+00:17:46,270 --> 00:17:48,323
 cayeran todas las fichas juntas.
 
-559
-00:17:48,490 --> 00:17:50,470
+619
+00:17:48,355 --> 00:17:50,470
 Todos conocemos a personas que militan
 
-560
-00:17:50,470 --> 00:17:52,470
-apasionadamente en cada uno de estos
+620
+00:17:50,470 --> 00:17:52,202
+apasionadamente en cada uno
 
-561
-00:17:52,470 --> 00:17:53,110
-cuatro bandos.
+621
+00:17:52,205 --> 00:17:53,287
+de estos cuatro bandos.
 
-562
-00:17:53,430 --> 00:17:55,470
-Claro, familias enteras peleando en la
+622
+00:17:53,302 --> 00:17:54,825
+Claro, familias enteras
 
-563
-00:17:55,470 --> 00:17:56,150
-cena por esto.
+623
+00:17:54,828 --> 00:17:56,305
+peleando en la cena por esto.
 
-564
-00:17:56,370 --> 00:17:58,190
+624
+00:17:56,308 --> 00:17:58,190
 Pero aquí es donde la fuente suelta la
 
-565
-00:17:58,190 --> 00:17:59,350
+625
+00:17:58,190 --> 00:17:59,819
 gran bomba del análisis.
 
-566
-00:18:00,050 --> 00:18:01,870
+626
+00:17:59,914 --> 00:18:01,870
 El propósito de enfrentar a estos
 
-567
+627
 00:18:01,870 --> 00:18:04,110
 cuatro temperamentos no es que uno gane
 
-568
+628
 00:18:04,110 --> 00:18:05,750
 y solucione los problemas del país.
 
-569
-00:18:05,750 --> 00:18:07,110
+629
+00:18:05,750 --> 00:18:07,272
 Ese es el gran engaño.
 
-570
-00:18:07,430 --> 00:18:08,230
+630
+00:18:07,275 --> 00:18:08,503
 Exactamente.
 
-571
-00:18:08,930 --> 00:18:11,550
+631
+00:18:08,717 --> 00:18:11,550
 El texto argumenta sin tapujos que las
 
-572
+632
 00:18:11,550 --> 00:18:14,310
 élites instrumentalizan deliberadamente
 
-573
-00:18:14,310 --> 00:18:16,150
+633
+00:18:14,310 --> 00:18:16,596
 estas cuatro ideologías.
 
-574
-00:18:16,870 --> 00:18:18,930
+634
+00:18:16,731 --> 00:18:18,930
 El objetivo central de lo que llamamos
 
-575
+635
 00:18:18,930 --> 00:18:22,090
 la batalla cultural es generar una
 
-576
+636
 00:18:22,090 --> 00:18:23,850
 cortina de humo perpetua.
 
-577
-00:18:24,110 --> 00:18:25,170
+637
+00:18:23,937 --> 00:18:25,485
 Mantenernos ocupados.
 
-578
+638
 00:18:25,550 --> 00:18:27,630
 La meta es mantener a la población
 
-579
-00:18:27,630 --> 00:18:30,250
+639
+00:18:27,630 --> 00:18:30,747
 exhausta peleando entre sí.
 
-580
+640
 00:18:30,770 --> 00:18:32,910
 Los defensores del mercado contra los
 
-581
-00:18:32,910 --> 00:18:33,470
+641
+00:18:32,910 --> 00:18:33,907
 del Estado.
 
-582
+642
 00:18:33,910 --> 00:18:35,710
 Los progresistas contra los
 
-583
+643
 00:18:35,710 --> 00:18:36,710
 tradicionales.
 
-584
+644
 00:18:36,770 --> 00:18:38,790
 Mientras la ciudadanía entera invierte
 
-585
+645
 00:18:38,790 --> 00:18:41,370
 su tiempo, su salud mental y su energía
 
-586
+646
 00:18:41,370 --> 00:18:43,510
 psíquica en odiar al vecino que vota
 
-587
+647
 00:18:43,510 --> 00:18:45,630
 distinto, la verdadera estructura de
 
-588
+648
 00:18:45,630 --> 00:18:47,070
 poder que opera por encima del
 
-589
+649
 00:18:47,070 --> 00:18:48,830
 algoritmo ni siquiera se despeina.
 
-590
-00:18:48,990 --> 00:18:50,070
+650
+00:18:48,833 --> 00:18:50,337
 Ni se inmutan.
 
-591
+651
 00:18:50,423 --> 00:18:52,061
 A la cima de la mónada
 
-592
+652
 00:18:52,064 --> 00:18:54,101
 no le importa en lo más mínimo
 
-593
+653
 00:18:54,104 --> 00:18:55,372
 qué color de egregor
 
-594
+654
 00:18:55,375 --> 00:18:57,369
 gane las próximas elecciones,
 
-595
+655
 00:18:57,372 --> 00:18:58,406
 siempre y cuando
 
-596
+656
 00:18:58,409 --> 00:18:59,924
 el juego siga funcional.
 
-597
+657
 00:18:59,927 --> 00:19:01,992
 Es una visión francamente abrumadora.
 
-598
+658
 00:19:01,995 --> 00:19:03,770
 Básicamente estamos atrapados en la
 
-599
+659
 00:19:03,770 --> 00:19:04,873
 Matrix peleando por
 
-600
+660
 00:19:04,876 --> 00:19:06,349
 qué color de píldora tomar,
 
-601
+661
 00:19:06,351 --> 00:19:07,670
 cuando ambas son parte
 
-602
+662
 00:19:07,670 --> 00:19:08,635
 de la simulación.
 
-603
-00:19:08,710 --> 00:19:10,945
+663
+00:19:08,710 --> 00:19:11,083
 Ambas alimentan al sistema.
 
-604
-00:19:11,290 --> 00:19:12,870
+664
+00:19:11,086 --> 00:19:12,867
 Pero me tranquiliza ver que la fuente
 
-605
+665
 00:19:12,870 --> 00:19:14,950
 no nos deja simplemente en el nihilismo
 
-606
-00:19:14,950 --> 00:19:16,201
+666
+00:19:14,950 --> 00:19:16,507
 o en la desesperanza.
 
-607
+667
 00:19:16,510 --> 00:19:18,070
 La parte final del documento es un
 
-608
-00:19:18,070 --> 00:19:19,170
+668
+00:19:18,070 --> 00:19:19,615
 llamado al despertar.
 
-609
+669
 00:19:19,710 --> 00:19:21,107
 Y me parece clave destacar
 
-610
+670
 00:19:21,110 --> 00:19:22,846
 que rechaza categóricamente
 
-611
-00:19:22,849 --> 00:19:24,690
+671
+00:19:22,849 --> 00:19:24,947
 la vía armada o la insurrección.
 
-612
-00:19:24,950 --> 00:19:25,698
+672
+00:19:24,950 --> 00:19:25,805
 Sí.
 
-613
-00:19:25,950 --> 00:19:27,630
+673
+00:19:25,808 --> 00:19:27,630
 La violencia callejera o las
 
-614
+674
 00:19:27,630 --> 00:19:30,430
 revoluciones físicas solo alimentan el
 
-615
+675
 00:19:30,430 --> 00:19:33,230
 caos estocástico que la mónada ya sabe
 
-616
-00:19:33,230 --> 00:19:34,670
+676
+00:19:33,230 --> 00:19:35,093
 procesar perfectamente.
 
-617
-00:19:35,130 --> 00:19:37,170
+677
+00:19:35,130 --> 00:19:37,362
 Solo sirve para justificar más control.
 
-618
+678
 00:19:37,388 --> 00:19:38,396
 Exacto.
 
-619
-00:19:38,450 --> 00:19:39,990
+679
+00:19:38,450 --> 00:19:40,577
 Para endurecer la coerción.
 
-620
-00:19:40,810 --> 00:19:42,910
+680
+00:19:40,664 --> 00:19:43,254
 La propuesta es un salto cualitativo.
 
-621
-00:19:43,390 --> 00:19:45,050
+681
+00:19:43,257 --> 00:19:45,511
 Es un despertar cognitivo.
 
-622
-00:19:45,690 --> 00:19:47,590
+682
+00:19:45,551 --> 00:19:47,590
 El modelo invita al ciudadano a
 
-623
+683
 00:19:47,590 --> 00:19:49,849
 evolucionar de una simple célula
 
-624
-00:19:49,856 --> 00:19:50,670
+684
+00:19:49,856 --> 00:19:50,906
 a un avatar.
 
-625
+685
 00:19:50,930 --> 00:19:51,530
 Un avatar.
 
-626
+686
 00:19:51,530 --> 00:19:53,990
 Una conciencia soberana que entiende
 
-627
+687
 00:19:53,990 --> 00:19:56,121
 cómo está programado el simulacro
 
-628
+688
 00:19:56,124 --> 00:19:58,270
 y por ende, deja de reaccionar
 
-629
-00:19:58,270 --> 00:19:59,570
+689
+00:19:58,270 --> 00:19:59,963
 emocionalmente a él.
 
-630
+690
 00:20:00,090 --> 00:20:01,382
 Este es el paso previo
 
-631
+691
 00:20:01,385 --> 00:20:03,025
 a lo que la fuente imagina
 
-632
-00:20:03,028 --> 00:20:04,990
+692
+00:20:03,028 --> 00:20:05,267
 como la Civilización Tipo 3.
 
-633
+693
 00:20:05,270 --> 00:20:07,110
 ¿Qué es básicamente la actualización de
 
-634
+694
 00:20:07,110 --> 00:20:09,648
 software que necesitamos urgentemente?
 
-635
-00:20:09,750 --> 00:20:11,350
+695
+00:20:09,750 --> 00:20:11,587
 El diagnóstico es claro.
 
-636
+696
 00:20:11,603 --> 00:20:13,390
 Estamos usando una estructura de
 
-637
+697
 00:20:13,390 --> 00:20:14,423
 partidos políticos
 
-638
+698
 00:20:14,426 --> 00:20:16,704
 inventada en el Siglo XIX.
 
-639
-00:20:16,950 --> 00:20:18,615
+699
+00:20:16,776 --> 00:20:18,615
 Un algoritmo lentísimo,
 
-640
+700
 00:20:18,618 --> 00:20:21,465
 en plena era de la inteligencia artificial.
 
-641
+701
 00:20:21,584 --> 00:20:23,810
 Es un despropósito tecnológico.
 
-642
-00:20:24,190 --> 00:20:25,731
+702
+00:20:23,966 --> 00:20:25,731
 La fuente argumenta algo que tiene
 
-643
-00:20:25,734 --> 00:20:26,850
+703
+00:20:25,734 --> 00:20:27,188
 todo el sentido del mundo.
 
-644
-00:20:27,510 --> 00:20:28,930
+704
+00:20:27,282 --> 00:20:28,930
 Hoy la tecnología nos permite
 
-645
+705
 00:20:28,930 --> 00:20:30,890
 transferir millones de dólares de un
 
-646
+706
 00:20:30,890 --> 00:20:32,510
 continente a otro con una huella
 
-647
+707
 00:20:32,510 --> 00:20:34,127
 digital en milisegundos.
 
-648
-00:20:34,330 --> 00:20:36,130
+708
+00:20:34,130 --> 00:20:36,130
 ¿Por qué demonios seguimos validando un
 
-649
+709
 00:20:36,130 --> 00:20:38,030
 sistema que nos obliga a meter un papel
 
-650
+710
 00:20:38,030 --> 00:20:40,544
 en una caja de cartón cada cuatro años?
 
-651
+711
 00:20:40,547 --> 00:20:43,247
 Porque la lentitud no es tecnológica,
 
-652
+712
 00:20:43,250 --> 00:20:44,588
 es política.
 
-653
+713
 00:20:44,930 --> 00:20:47,530
 La Civilización Tipo 3 que proyecta el
 
-654
+714
 00:20:47,530 --> 00:20:50,150
 texto se basa en abandonar la ficción
 
-655
+715
 00:20:50,150 --> 00:20:52,450
 de los partidos políticos y migrar
 
-656
+716
 00:20:52,450 --> 00:20:54,570
 hacia una meritocracia estatal
 
-657
+717
 00:20:54,570 --> 00:20:55,890
 hiperconectada.
 
-658
+718
 00:20:55,893 --> 00:20:57,722
 Democracia directa real.
 
-659
+719
 00:20:57,725 --> 00:21:00,217
 Utilizar esa tecnología financiera
 
-660
+720
 00:21:00,220 --> 00:21:02,770
 y de comunicaciones para permitir una
 
-661
+721
 00:21:02,770 --> 00:21:05,350
 interacción democrática en tiempo real.
 
-662
+722
 00:21:05,890 --> 00:21:07,450
 Imaginen, por ejemplo, que las
 
-663
+723
 00:21:07,450 --> 00:21:09,096
 decisiones presupuestarias
 
-664
+724
 00:21:09,099 --> 00:21:11,359
 la aprobación de leyes clave
 
-665
+725
 00:21:11,362 --> 00:21:13,182
 o más importante aún,
 
-666
+726
 00:21:13,184 --> 00:21:15,110
 la revocación inmediata
 
-667
+727
 00:21:15,110 --> 00:21:16,676
 de un líder corrupto
 
-668
+728
 00:21:16,678 --> 00:21:19,045
-se pudieran hacer de forma directa 
+se pudieran hacer de forma directa
 
-669
+729
 00:21:19,048 --> 00:21:20,083
 desde el teléfono,
 
-670
+730
 00:21:20,090 --> 00:21:21,623
 constante y segura
 
-671
+731
 00:21:21,626 --> 00:21:23,742
 desde los dispositivos de la población.
 
-672
+732
 00:21:23,970 --> 00:21:26,290
 Esto desintegraría instantáneamente el
 
-673
+733
 00:21:26,290 --> 00:21:28,067
 monopolio de la casta política
 
-674
+734
 00:21:28,070 --> 00:21:29,704
 y el Algoritmo 24
 
-675
+735
 00:21:29,707 --> 00:21:31,687
 se volvería totalmente obsoleto.
 
-676
+736
 00:21:31,710 --> 00:21:33,870
 Es un cambio de paradigma brutal.
 
-677
+737
 00:21:34,230 --> 00:21:36,250
 Pasar de ser pasajeros en un tren que
 
-678
+738
 00:21:36,250 --> 00:21:39,090
 no sabemos quién conduce a tener las
 
-679
+739
 00:21:39,090 --> 00:21:40,430
 manos en los controles de verdad.
 
-680
+740
 00:21:41,090 --> 00:21:42,670
 Todo este recorrido redefine lo que
 
-681
+741
 00:21:42,670 --> 00:21:43,770
 entendemos por libertad.
 
-682
+742
 00:21:44,410 --> 00:21:46,410
 Nos obliga a mirar nuestras propias
 
-683
+743
 00:21:46,410 --> 00:21:48,590
 pasiones, políticas y preguntarnos,
 
-684
+744
 00:21:48,810 --> 00:21:51,287
 ¿estoy defendiendo mis ideales o solo
 
-685
+745
 00:21:51,290 --> 00:21:53,230
 estoy ejecutando mi línea de código
 
-686
+746
 00:21:53,230 --> 00:21:54,170
 dentro de la monada?
 
-687
+747
 00:21:54,450 --> 00:21:56,110
 Es una obstrucción necesaria.
 
-688
+748
 00:21:56,550 --> 00:21:58,790
 Y para cerrar, me gustaría dejar sobre
 
-689
+749
 00:21:58,790 --> 00:22:01,150
 la mesa una pregunta sumamente
 
-690
+750
 00:22:01,150 --> 00:22:03,450
 provocadora que se desprende de las
 
-691
+751
 00:22:03,450 --> 00:22:05,370
 advertencias del propio documento.
 
-692
+752
 00:22:05,450 --> 00:22:06,090
 Adelante.
 
-693
+753
 00:22:06,090 --> 00:22:07,770
 El modelo asegura que el sistema
 
-694
+754
 00:22:07,770 --> 00:22:10,410
 electoral, esta gran máquina de captura
 
-695
+755
 00:22:10,410 --> 00:22:13,270
 de energía, ignora deliberadamente lo
 
-696
+756
 00:22:13,270 --> 00:22:14,870
 que llama la tercera opción.
 
-697
+757
 00:22:15,070 --> 00:22:16,150
 La no participación.
 
-698
+758
 00:22:16,290 --> 00:22:18,690
 Es decir, la no participación masiva,
 
-699
+759
 00:22:18,832 --> 00:22:19,602
 sí.
 
-700
+760
 00:22:19,690 --> 00:22:22,050
 El sistema jamás validará la abstención
 
-701
+761
 00:22:22,050 --> 00:22:24,570
 total porque eso forzaría un reinicio
 
-702
+762
 00:22:24,570 --> 00:22:25,972
 de la placa base.
 
-703
+763
 00:22:25,975 --> 00:22:27,410
 Entonces piensen en esto.
 
-704
+764
 00:22:27,467 --> 00:22:28,324
 A ver.
 
-705
+765
 00:22:28,350 --> 00:22:30,830
 Si esta gigantesca monada nacional es
 
-706
+766
 00:22:30,830 --> 00:22:32,690
 una entidad abstracta que solo se
 
-707
+767
 00:22:32,690 --> 00:22:34,850
 alimenta de la validación psicológica,
 
-708
+768
 00:22:35,270 --> 00:22:37,350
 la atención y el conflicto emocional de
 
-709
+769
 00:22:37,350 --> 00:22:39,850
 los votantes, ¿qué pasaría realmente a
 
-710
+770
 00:22:39,850 --> 00:22:41,750
 nivel algorítmico si un día de
 
-711
+771
 00:22:41,750 --> 00:22:43,910
 elecciones el índice de participación
 
-712
+772
 00:22:43,910 --> 00:22:45,650
 cayera absolutamente a cero?
 
-713
+773
 00:22:45,653 --> 00:22:46,641
 Cero votos.
 
-714
+774
 00:22:46,644 --> 00:22:47,370
 Nadie asiste.
 
-715
+775
 00:22:47,490 --> 00:22:49,430
 ¿Podría el mayor colapso de una
 
-716
+776
 00:22:49,430 --> 00:22:51,470
 estructura de control en la historia
 
-717
+777
 00:22:51,470 --> 00:22:54,510
 humana lograrse no con protestas ni
 
-718
+778
 00:22:54,510 --> 00:22:57,030
 violencia, sino con un silencio
 
-719
+779
 00:22:57,030 --> 00:22:59,430
 colectivo total y absoluto?
 
-720
+780
 00:22:59,430 --> 00:23:01,265
 Me deja sin palabras.
 
-721
+781
 00:23:01,268 --> 00:23:03,370
 Una revolución estructural a través del
 
-722
+782
 00:23:03,370 --> 00:23:05,231
 más absoluto de los silencios.
 
-723
+783
 00:23:05,670 --> 00:23:07,530
 Al quitarle la energía, el egregor
 
-724
+784
 00:23:07,530 --> 00:23:08,830
 simplemente se desvanece.
 
-725
+785
 00:23:09,190 --> 00:23:10,250
 Se apaga el servidor.
 
-726
+786
 00:23:10,750 --> 00:23:12,330
 Es una cantidad enorme de información
 
-727
+787
 00:23:12,330 --> 00:23:14,630
 para procesar, pero es exactamente el
 
-728
+788
 00:23:14,630 --> 00:23:16,450
 tipo de óptica que transforma la manera
 
-729
+789
 00:23:16,450 --> 00:23:18,380
 de leer los titulares de mañana.
 
-730
+790
 00:23:18,550 --> 00:23:20,050
 A quienes nos acompañaron en esta
 
-731
+791
 00:23:20,050 --> 00:23:22,050
 exploración, los invitamos a hacer el
 
-732
+792
 00:23:22,050 --> 00:23:22,590
 ejercicio.
 
-733
+793
 00:23:23,050 --> 00:23:24,570
 La próxima vez que escuchen un debate
 
-734
+794
 00:23:24,570 --> 00:23:26,750
 acalorado, o vean una noticia sobre la
 
-735
+795
 00:23:26,750 --> 00:23:29,030
 enésima crisis política, pónganse las
 
-736
+796
 00:23:29,030 --> 00:23:30,550
 gafas del Modelo Nouménico.
 
-737
+797
 00:23:30,830 --> 00:23:33,110
 Y observen los algoritmos ejecutándose
 
-738
+798
 00:23:33,110 --> 00:23:34,582
 frente a ustedes.
 
-739
+799
 00:23:34,730 --> 00:23:36,790
 Ha sido un viaje mental increíble.
 
-740
+800
 00:23:36,850 --> 00:23:38,190
 Que tengan una excelente semana
 
-741
+801
 00:23:38,190 --> 00:23:40,070
 observando el código invisible detrás
 
-742
+802
 00:23:40,070 --> 00:23:41,666
 de la realidad cotidiana.
 
-743
+803
 00:23:41,850 --> 00:23:43,182
 Hasta la próxima exploración.
 
